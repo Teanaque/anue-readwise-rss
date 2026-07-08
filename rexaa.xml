@@ -5,8 +5,17 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 01:28:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 02:43:58 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>OpenAI首席未來學家宣佈離職</title>
+      <link>https://hao.cnyes.com/post/257992</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/257992</guid>
+      <pubDate>Wed, 08 Jul 2026 02:43:58 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>OpenAI首席未來學家（Chief Futurist）約書亞·阿奇亞姆（Joshua Achiam）北京時間7月8日在社交媒體發文表示，將於本月離開這家他效力了近九年的公司。 34歲的阿奇亞姆表示，離開沒有具體原因，而是長久以來深思熟慮的結果。現在全世界都已經知道了AI發展潛力這個“秘密”，那麼到頂級前沿實驗室圍牆之外，似乎也同樣可以實現這一使命。 (科創板日報)</description>
+    </item>
     <item>
       <title>摩根大通：台積電Q2前瞻——AI需求、毛利率與產能計畫同步上修！</title>
       <link>https://hao.cnyes.com/post/257988</link>
@@ -105,15 +114,6 @@
       <author>RexAA</author>
       <category>科技</category>
       <description>1億美金！王健林的7個小目標，成為AI短劇今年以來在海外的最大一筆融資。 根據外媒Business Insider報導，短劇應用 Shortical 完成1億美元融資，投資方為PVX Partners，核心押注Shortical 的AI短劇業務，這也是今年AI短劇浪潮崛起後，該領域目前最大的一筆資本交易。 我們爬梳資料發現，對Shortical的這筆投資，已經不是 PVX Partners 第一次出手，它在3月份就斥資2500萬美元參投中國出海AI短劇應用Storeel，兩周前還拿出1400萬美元押注一款短劇圈籍籍無名的產品Luni。 對比來看，在AI短劇資本化層面走得較成熟的玩家，也是賽道明星公司井英科技，它今年6月吸引Lollapalooza Capital（王慧文家族辦公室），螞蟻集團、騰訊原集團副總裁殷宇向其投出數千萬美元，已經是一筆不小的資金，然而井英科技雖也有AI短劇產品，但資本更多看重的是它的AI工具產品。 那麼再回過頭來審視PVX Partners對單純一款AI短劇平台的過億美元投資，可以說是具有里程碑意義的，過往這樣數額的投資，往往流向上游的模型廠商甚至是AI agent產品。 如今，C端產品對資本市場的吸引力，也勉強能跟模型和工具廠商掰一掰手腕了。 那麼，PVX Partners 到底什麼來頭？它為何集中瞄準AI短劇？它所代表的西方資本，又如何理解這一新興品類？或許我們能夠從它的投資模式裡，一窺海外資本究竟想從AI短劇裡獲得什麼。 來源：PVX Partners官網 以及，在海外的眾多產品中，中國出海產品佼佼者更是不少，誰又會是下一個資本寵兒？ 01 網飛創作者背書，AI托起新故事 在正式盤點PVX Partners這家機構之前，我們先從Shortical入手，看看它押注的公司和產品有何過人之處。 Shortical 總部位於以色列，公司比較注重人才和AI輔助創作，旗下擁有 15 名全職編劇）並與執導過網飛劇集《黑空間》(Black Space)的創作者Ofir Lobel（奧菲爾·洛貝爾合作。 實際上，《黑空間》並不是網飛自制，而是花錢購買的以色列本土劇，然而歐美觀眾對《黑空間》這部劇給出了一致好評，誇讚編劇的水平之高，網飛還一連買了兩季的版權，這從側面也能看出，這家公司創作者隊伍的硬核程度。 再來看看奧菲爾·洛貝爾其人，他是一位非常綜合的影視人才，他在以色列影視行業頗具名聲，商業嗅覺和藝術成就基本上可以算“陳思誠+寧浩”的結合體了。 IMDb對於奧菲爾·洛貝爾的介紹 如今，由他參與製作的AI真人短劇《Bound by Fire》（《烈火束縛》）成為Shortical進軍AI短劇市場的開山之作。 這部劇製作水平總體上比較精良，主要講述女僕與王子相愛，被王妃拆散後帶球跑最後復仇的故事，非常經典的短劇配方。 具體來看，這部劇AI演員的演繹…</description>
-    </item>
-    <item>
-      <title>AI折疊！Fable 5和GPT-5.6，正淪為少數人的特權</title>
-      <link>https://hao.cnyes.com/post/257803</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/257803</guid>
-      <pubDate>Tue, 07 Jul 2026 10:46:17 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>【新智元導讀】最近，LMArena負責人的這句話刷屏了：大眾只配玩AI玩具，少數人正用GPT-5.6和Fable 5橫掃一切，巨大的體驗斷層，正形成全新的鴻溝，你也被悄悄「折疊」了嗎？ 我們正活在一個AI折疊的世界裡。 就在昨天，奧特曼又在X上整新活了。 他發了這樣一條X。 我們的大孩子第一次把兩個詞組合在了一起。這一認知成就讓我驚嘆不已，就如同 GPT-5.6 發現新的數學公式一樣令人震撼。 熟悉的配方，熟悉的味道。 在這條X下面，充滿了各式各樣的評論。 然而，這篇看似溫情的X背後，隱藏著一個殘酷現實—— 當前的AI體驗，已出現嚴重的「階層折疊」。 極少數人正在使用Fable或即將發佈的GPT-5.6等頂級大模型，而絕大多數普通公眾接觸到的，僅僅是8B到30B參數等級的平庸產品。 技術紅利正成為少數人的專屬，而大眾只感受到了喧囂的泡沫。科技圈內外，正身處兩個截然不同的平行宇宙。 一項調查顯示，全球84%的人口從未接觸過AI，16%的人堅持使用免費聊天機器人，只有0.3%的人付費使用高級服務。 Fable 5和GPT-5.6，大眾與精英的天塹 上述觀點，正是來自LMArena核心負責人Peter Gostev。 他表示：Fable 5和GPT-5.6，正淪為少數人的特權！ 這個觀點一經提出，就引起廣大網友熱議，已經成為最近的熱門話題。 如果你是一個非科技行業的普通人，你一定會很疑惑—— 新聞裡動輒就是科技巨頭們燒光數千億美元投資大模型，專家們天天恐嚇「AI要搶走飯碗」，但為什麼免費的ChatGPT等模型，用起來卻這麼拉跨？ 答案很簡單：因為你用的是被「閹割」的殘次品。 Peter Gostev一針見血地指出： 我們現在處於這樣一個境地：極小部分人口正在使用諸如Fable或即將發佈的GPT-5.6等頂級模型，而其他所有人的AI體驗，僅僅停留在8B到30B（80億到300億）參數等級的模型水平——充其量也就是免費版ChatGPT或基礎的微軟Copilot。 這種巨大的體驗落差，導致了強烈的認知割裂。 圈外大眾完全無法理解，AI憑什麼能替代部分人類工作？他們對科技行業的瘋狂燒錢感到困惑甚至憤怒。 而另一邊，掌握著特權的科技精英們，卻在享受著降維打擊。 技術紅利正在悄悄成為少數人的專屬。 現在的AI，離普通人太遠了 為什麼普通人覺得AI沒用？ AI大V Kol Tregaskes用他當綠地管理員的兄弟，舉了一個例子。 他的兄弟會偶爾用用免費的ChatGPT，手裡有一台搭載基礎Apple Intelligence的iPhone。這就是他全部的「AI體驗」。 他沒聽說過Anthropic的Claude，不知道Fable是什麼，更不知道Agent為何物。他永遠不會為了AI去買訂閱服務，就像他絕不會花錢去用Google搜尋一樣。 這不僅僅是「模型好壞」的問題，而是他們在使…</description>
     </item>
   </channel>
 </rss>
