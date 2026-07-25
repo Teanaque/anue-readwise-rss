@@ -5,8 +5,17 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 24 Jul 2026 23:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 02:32:32 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>黃仁勳首次發推,力挺Kimi K3/Claude Opus 5發佈/騰訊317萬年終獎員工因洩密被辭退</title>
+      <link>https://hao.cnyes.com/post/260751</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/260751</guid>
+      <pubDate>Sat, 25 Jul 2026 02:32:32 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>📰 周末也值得一看的新聞 機構預計首款折疊 iPhone 將佔今年折疊機出貨約四分之一 Counterpoint Research 預計，蘋果將在 2026 年下半年進入折疊屏手機市場，首款產品採用書本式形態。相關預測認為，這款裝置可能在首年拿下全球折疊屏手機約四分之一的出貨份額，並推動書本式機型成為市場主流。 Counterpoint 的另一份供應鏈報告給出約 660 萬部出貨量、全年約 28% 份額的估算，其中超過六成預計集中在第四季度。不同預測口徑略有差異，但都把蘋果入場視為折疊屏市場結構變化的主要變數。 黃仁勳首次發推，與 20 余家機構發文呼籲保護開放模型 輝達創始人兼 CEO 黃仁勳昨日在社交平台 X 發佈首條帖文，分享由輝達、微軟、Meta 等 20 多家科技巨頭及機構聯合簽署的公開信《開放權重與美國 AI 領導力》，力挺開源 AI 模型。 公開信指出，開放權重模型能降低初創公司與科研機構的使用門檻、促進市場競爭並賦予企業資料掌控力，同時透明度更有助於檢測和修復安全漏洞。 此次聯合發聲源於月之暗面於 7 月 16 日開源大模型 Kimi K3，其突破性的架構與程式設計能力引發部分閉源巨頭關於智慧財產權的指責及監管部門的禁令擔憂，黃仁勳此舉進一步將開源與閉源的路線之爭推向焦點。 菲爾茲獎得主 Jacob Tsimerman 將加入 OpenAI 安全部門 38 歲的加拿大數學家 Jacob Tsimerman 在獲得 2026 年菲爾茲獎後宣佈，自己正在轉向 AI 安全研究，並將加入 OpenAI 的安全部門。他還在整理一份面向數學家的轉行資源清單，希望吸引更多研究者進入這一領域。 Tsimerman 把數理邏輯中的 o-minimality 工具引入算術幾何和復代數幾何，與 Benjamin Bakker、Yohan Brunebarbe 合作解決了提出半個多世紀的 Griffiths 猜想。他還參與完成 André-Oort 猜想，並成為多倫多大學數學系最年輕的正教授。 Tsimerman 表示，大模型研究仍主要依賴經驗與工程方法，數學理論可以幫助研究者理解、引導和控制這些系統。他已停止招收博士生，原因是不願讓學生為一個可能發生根本變化的數學職業做準備。 Claude Opus 5 發佈：性能追平 Fable 5，價格僅需一半 Anthropic 昨日正式發佈新一代閉源大模型 Claude Opus 5，並同步上線 AWS。新模型主打高性價比與可調節思考檔位（effort），在程式設計、長文件推理和複雜業務分析等任務上表現突出。 API 定價保持每百萬輸入 token 5 美元、輸出 25 美元，與 Opus 4.8 持平；開啟 Fast 模式響應速度提升 2.5 倍，計費翻倍。在 CursorBench 3.2 程式設計測試中，開啟最高…</description>
+    </item>
     <item>
       <title>OpenAI 拖到本周才告知 Hugging Face：入侵它的是自家模型，已線上活躍數日/ SpaceX 拒接 2028 年後 Falcon 9 專屬發射訂單</title>
       <link>https://hao.cnyes.com/post/260686</link>
@@ -105,15 +114,6 @@
       <author>RexAA</author>
       <category>科技</category>
       <description>①AMD週四將舉辦AI 2026 Day活動，美國銀行預計該活動將為業界提供服務器CPU的衡量標準；②美銀還預測，英偉達Vera與AMD EPYC的直接競爭，將在2030年將服務器CPU的市場規模擴大至1700億美元，約為當前水平的四倍。 $美國超微公司 (AMD.US)$在週三和週四兩天舉行 Advancing AI 2026 活動，其可能將就EPYC服務器作出更詳細的展望，進而對英偉達構成直接挑戰。 按議程，AMD公司CEO蘇姿豐將於明天凌晨發表主題演講，外界預期她將宣佈EPYC服務器正式投放市場。美國銀行預計這場活動不會是兩家公司的基準測試對比，而是會確立業界的衡量標準。 據業內估計，基於Zen 6架構的下一代 EPYC Venice 處理器，最高組態256核和512個線程，採用台積電2納米工藝生產。 超大規模數據中心運營商和企業買家如何看待這一標準，以及他們是傾向於AMD的密度論還是英偉達的延遲論，將影響未來服務器CPU市場的資本組態。 美銀曾在一份報告中預測，由於英偉達與AMD的直接競爭，服務器CPU市場規模到2030年將達到1700億美元，約為當前水平的四倍。 競爭的核心 過去的人工智慧關注點在於訓練，瓶頸是並行算力，市場將目光聚焦在GPU之上。但隨著人工智慧代理的興起，CPU正變得越來越重要，規劃任務、調用工具、訪問數據庫以及管理狀態都是CPU的長項。 這也讓英偉達不得不切入CPU市場，以捍衛自己在人工智慧領域的地位。但美銀指出，英偉達和AMD在人工智慧CPU標準上存在分歧，而兩家公司在這一問題上的勝負可能會決定AI CPU的未來。 美銀分析師Vivek Arya指出，投資者最關心的問題是人工智慧需要更高的時鐘頻率還是更多的核心數量，英偉達和AMD分別代表了這兩種不同的技術方案。 英偉達主張更快的單核頻率，理由是能降低工具調用、任務切換、序列計算的延遲；AMD的觀點則是併發和整機架吞吐能力至上，計劃在固定功耗和機架空間內塞入更多核心和線程。 美國銀行並沒有預測誰會是贏家，但其指出，無論哪種衡量標準能夠獲得超大規模數據中心和企業買家的認可，其都將有效地設定未來CPU投資的性能標準。 除了架構理念的不同，英偉達和AMD在軟件市場也同樣構成競爭，但這一方面，英偉達略佔下風。AMD和英特爾長期佔據x86架構用戶群的主導地位，這一優勢可能具有決定性意義。美國銀行指出，ARM與x86指令集之爭，對使用ARM架構的英偉達來說是一個長期風險。 儘管如此，美國銀行預測，到2030年，基於ARM架構的CPU將佔服務器CPU收入的50%，高於2025年的32%。其中，英偉達、Arm和高通等公司推出的商用ARM CPU將佔約36%，而云服務提供商定製設計的CPU將佔約15%。 同期，英特爾的市場份額預計將從41%下降到24%，而AMD的市場份額將基本保持穩定，在25…</description>
-    </item>
-    <item>
-      <title>梅西投了李飛飛</title>
-      <link>https://hao.cnyes.com/post/260576</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/260576</guid>
-      <pubDate>Fri, 24 Jul 2026 10:17:24 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>“故事和傳奇都屬於他。” 剛剛結束的美加墨世界盃決賽，西班牙擊敗阿根廷捧起大力神杯，39歲的利昂內爾·梅西（Lionel Messi）淚灑賽場。這也許是他世界盃生涯的最後一戰。 但很少有人留意，梅西其實早在為自己的人生下半場鋪路。原來，他已經做起VC——2022年聯合一群VC大佬在美國矽谷成立了一家風投公司Play Time。打開Play Time官網，赫然看到今年剛投了“AI教母”李飛飛創辦的World Labs。 諸神黃昏，球王時代遠去。百轉千回，現在是“科技投資人”——梅西。 01. 原來，梅西投了李飛飛 沒想到，梅西也成了VC同行。 事情要從2022年說起。那年10月，卡達世界盃前夕，梅西在舊金山成立了一家投資公司Play Time，slogan指明了方向——“At the intersection of sports&amp;technology（在體育與科技的交匯處）”，首期基金約2億美元，投向全球體育和科技等領域。 梅西集團當時發了一份聲明：Play Time的投資對象覆蓋所有階段的初創公司，也會幫助創始人建立足球技術公司或投資球隊，還會考慮入股運動隊，投資“足球科技”。 做投資，梅西是認真的。他的合夥人是拉茲米格·霍瓦基米安（Razmig Hovaghimian），一個既有創業經歷，又懂VC的人。他曾把自己打造的視訊串流媒體網站Viki以大約2億美元賣給樂天集團，後來成為矽谷早期風投基金Graph Ventures的合夥人。另一位特別顧問邁克爾·馬爾克斯（Michael Marquez），同樣是矽谷VC圈的熟面孔。 Pitchbook資料顯示，Play Time自2022年底以來出手10次，早期投過足球遊戲平台Matchday、足球收藏品平台AC Momento，剩下的幾筆幾乎都與AI相關。 最引人注目的是，梅西投進了李飛飛創辦的World Labs。今年2月，World Labs完成新一輪10億美元融資，估值沖上50億美元，投資方名單裡有輝達、AMD等巨頭，梅西的Play Time赫然在列。 能擠進這一輪融資，某種程度上意味著梅西的投資平台進一步打入了矽谷科技的核心圈層。 Play Time的官網還列了一串科技公司：AI資料平台SuperAnnotate、3D可視化工具Intangible、物理世界基礎模型Perceptron、機器人開發商Field AI、語音AI生成Fish Audio……其中Field AI背後站著輝達、比爾·蓋茲、貝索斯。 可以看到，Play Time的投資路徑已經覆蓋了AI底層工具、實體機器人兩大前沿賽道，打破了體育明星跨界投資只會投地產、餐飲、潮牌的刻板印象。 綠茵場的勝負終有落幕之時，但科技行業的競賽才剛剛開始。過去大家認識梅西，是載入史冊的球王；也許往後，大家會慢慢熟悉他的另一個身份：AI投資人“梅老闆”。 02.…</description>
     </item>
   </channel>
 </rss>
