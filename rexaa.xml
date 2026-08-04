@@ -5,8 +5,17 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 03 Aug 2026 10:59:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 00:33:43 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>TrendForce：韓國儲存又漲價了！傳統DRAM、NAND雙雙創多年新高！（深度）</title>
+      <link>https://hao.cnyes.com/post/262083</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/262083</guid>
+      <pubDate>Tue, 04 Aug 2026 00:33:43 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>傳統DRAM與NAND快閃記憶體價格7月雙雙創下多年新高，AI伺服器持續搶佔儲存產能，推動傳統PC及消費電子儲存晶片供應趨緊，儲存漲價週期仍未結。TrendForce旗下DRAMeXchange資料，PC用基準DDR4 8Gb DRAM 7月平均合約價升至24美元，環比上漲14.3%，創2016年6月有統計以來新高；128Gb MLC NAND均價升至30.05美元，首次突破30美元。 TrendForce預計，AI伺服器及高頻寬記憶體（HBM）需求將繼續擠佔傳統DRAM產能，DRAM供應緊張或持續至2027年；相比之下，NAND市場隨著新增產能投放，2027下半年供應有望逐步改善。 一、資料綜述——歷史等級的價格飆升 據TrendForce旗下DRAMeXchange資料顯示，2026年7月，韓國主導的PC用DDR4 8Gb DRAM與128Gb MLC NAND價格雙雙創下歷史新高。 （貨幣單位：美元） DDR4價格自1月的11.50美元開始，逐月攀升——3月13美元、4月16美元、5月20美元、6月21美元、7月24美元。對比2016年有統計之初的2.9美元，漲幅已超8倍。NAND方面，128Gb MLC NAND實現連續19個月漲價。部分SLC NAND產品7月單月漲幅高達35%-51%，供需最為緊張。 這一輪漲價的幅度和持續性，在儲存行業過去十年的歷史上極為罕見。 二、漲價原因剖析——供給端的結構性收縮 本輪漲價的核心驅動力並非需求突然暴漲，而是供給的主動收縮。 1. AI對產能的&quot;虹吸效應&quot; AI伺服器對HBM的需求呈指數級增長。一顆HBM晶片需要大量先進DRAM晶圓，且封裝工藝更複雜，佔用了大量生產資源。全球三大儲存廠商——三星、SK海力士、美光——已將大部分先進製程產能傾斜至HBM，美光約70%的產能轉向HBM與高端伺服器儲存。對於儲存廠商而言，同樣一片晶圓，生產利潤更高的HBM，自然不會優先生產利潤較低的DDR4。 這種產能轉移的結果是：傳統PC DRAM及成熟製程NAND供應持續收縮。&quot;主動減產&quot;是這一輪漲價與以往週期最大的區別——並非需求過旺導致供不應求，而是廠商主動將資源向AI端傾斜。 2. 雲服務商的&quot;鎖定效應&quot; 微軟、亞馬遜、Alphabet和Meta等全球四大雲端運算巨頭持續擴大AI基礎設施投資，HBM和伺服器DRAM需求不斷創出新高。在DRAM供不應求的格局下，下遊客戶已與三星、SK海力士、美光簽訂了多年長期協議，優先鎖定產能供給。目前HBM產能已幾乎全數售罄至2026年底，2027年大部分產能也已提前被主要客戶預訂。 3. 結構性而非週期性的變化 AI已經把儲存晶片從&quot;價格競爭&quot;推向&quot;產能與技術競爭&quot;。這不是短期供需失衡造成的波動，而是AI時代資源重新分配帶來的結構性變化。儲存行業已徹底擺脫過去幾年&quot;價格戰&quot;&quot;庫存過剩&quot;&quot;…</description>
+    </item>
     <item>
       <title>華為首席科學家廖恆，半導體的18層寶塔（下）</title>
       <link>https://hao.cnyes.com/post/261894</link>
@@ -96,24 +105,6 @@
       <author>RexAA</author>
       <category>科技</category>
       <description>8月1日，台灣旺宏電子發佈了一份讓整個行業側目的財報。 第二季度毛利率飆升至64.4%，營收191.25億新台幣，同比增長181%，稅後淨利77.36億元，同比增長706%，每股收益3.91元。 去年這個時候，這家公司還在虧損。一年時間，從虧到賺，從賺到暴賺。 旺宏不是個例。整個記憶體行業正在經歷一輪“三十年一遇”的超級周期。瑞銀7月發佈的報告顯示，記憶體晶片月銷售額達到創紀錄的746億美元，環比增長31.7%。瑞銀預測，2026年全年記憶體行業營收將達到9920億美元，2027年進一步攀升至1.76兆美元。 賺錢的不僅是旺宏。美光毛利率超過80%，三星電子二季度營業利潤同比增長1814%，SK海力士營業利益率高達76%。 整個記憶體行業都在印鈔票。 一、賺了錢，然後呢？ 旺宏的財報電話會上，總經理盧志遠說了一句話：“目前客戶需求遠超過公司供應能力。” 於是董事會做了一個決定——追加158億新台幣資本支出，加上年初規劃的220億元，全年投資規模直逼380億新台幣。這筆錢將新增每月4000至5000片12英吋晶圓的產能。 旺宏不是唯一在擴產的。 美光科技在日本廣島投資1.5兆日元（約93億美元） 擴建西部工廠，聚焦HBM量產，預計2028年開始出貨。三星電子計畫在韓國光州興建兩座記憶體晶片製造廠。SK海力士在全羅道周邊建設兩座晶圓廠。兩家韓國巨頭合計投資規模高達800兆韓元（約5223億美元）。 瑞銀判斷，本輪記憶體晶片上行周期有望延續至2027年。2027年需求同比增長預計達36.2%，遠超供給增長的19.3%，供需缺口將從2026年的8.1%擴大至2027年的13.6%。 所有訊號都在說同一件事：錢好賺，趕緊擴。 二、但另一組資料在說不同的話 TrendForce在7月初發佈了一份報告。 報告指出，2026年第三季度DRAM合約價漲幅預計為13%-18%，NAND Flash漲幅為10%-15%。 這個數字本身並不低。但對比前兩個季度——58%-63%和70%-75%——漲幅已經明顯縮小。 為什麼漲不動了？TrendForce的回答很直接：消費級應用需求下修，客戶對價格的承受力已達極限。 記憶體晶片在智慧型手機BOM中的佔比已從10%-15%飆升至30%-40%。一台高端手機，光記憶體成本就超過250美元。蘋果剛被迫上調了Mac和iPad全系價格，庫克稱之為“百年一遇的洪水”。 上游還在狂歡，下游已經扛不住了。 宇瞻科技CEO張家騉給出了一個更令人不安的預測：明年全球傳統DRAM供應量只能交付今年目標產能的30%。供應量急劇下降——如果這個預測成真，消費電子廠商將面臨比漲價更可怕的問題：根本沒貨可買。 瑞銀也在報告中坦承了這一風險： “客戶的承受能力以及人工智慧相關資本支出的可持續性仍然是這一前所未有的上行周期面臨的主要風險。” 翻譯成白話：你們還能撐多…</description>
-    </item>
-    <item>
-      <title>GPU不再是AI晶片老大 GoogleTPU將首次壓NVIDIA一頭</title>
-      <link>https://hao.cnyes.com/post/261886</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/261886</guid>
-      <pubDate>Mon, 03 Aug 2026 10:35:26 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>這幾年的AI浪潮中，受益最大的當屬NVIDIA，各大公司的訓練、推理都少不了購買後者的GPU顯示卡，不過兩年後GPU恐怕就不是主宰了，Google的TPU會後來居上。 在AI晶片技術路線上，可以簡單分為NVIDIA為主的GPU通用計算及Google為主的ASIC專用計算，Google自研的張量處理器TPU也有10年歷史了，只不過部署的數量是比不過NVIDIA的GPU的。 但是這兩年來，各家都不希望算力晶片完全捆綁到NVIDIA的顯示卡上，自研AI晶片開始爆發，Google的TPU部署量也迅速提升，第七代TPUv7已經部署，4月份發佈了第八代TPUv8，首次針對訓練及推理做了區分。 其中V8T偏重AI訓練，雖然Google說也可以做推理，但主要還是訓練用的，每個Pod節點堆了9600個V8T晶片，FP4性能達到了121EFlops，配備了2PB HBM記憶體，記憶體頻寬19.2TB/s，晶片內部頻寬400GB/s，幾乎都是2-4倍的變化。 V8i主要面向AI推理負載，規格上要降不少，每個節點只有1152個V8i晶片，算力降低到了11.6EFlops，記憶體頻寬19.2TB/s沒變。 再下一代的第九代TPUv9會更猛，會上4芯封裝，封裝要求更高，因此除了此前合作的台積電之外，還會用上Intel的EMIB封裝，分給Intel大約300萬顆TPU晶片的訂單。 這也意味著TPUv9這一代的總數量驚人，日前供應鏈消息稱Google28年部署的TPUv9數量將達到1200萬到1500萬顆。 這是什麼概念呢？NVIDIA的AI GPU顯示卡晶片供應市面上大多數算力廠商，今年的銷量預計是820萬顆，2028年也就提升到1240萬顆，Google的TPU將首次在數量上領先NVIDIA的顯示卡。 ASIC路線的AI晶片數量超過NVIDIA的GPU，這事本身並不稀奇，因為Google、微軟、亞馬遜等大廠肯定是不希望AI晶片完全依賴NVIDIA或者AMD的，用自己研發的晶片不僅可以降低成本，還可以減少對NVIDIA的技術依賴性。 (硬體世界)</description>
-    </item>
-    <item>
-      <title>DeepSeek-V4，重大升級！</title>
-      <link>https://hao.cnyes.com/post/261888</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/261888</guid>
-      <pubDate>Mon, 03 Aug 2026 10:32:25 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>性能追平旗艦模型，Agent能力大幅增強。 DeepSeek-V4系列模型迎來重大升級。搶在7月最後一天（31日），DeepSeek-V4-Flash正式版上線。 根據官方消息，DeepSeek-V4-Flash正式版的模型架構、大小和與預覽版相同，即MoE（混合專家）架構、2840億總參數、130億啟動參數、1M上下文，在此基礎上，正式版僅重新進行了後訓練，Agent能力便大幅增強，基準測試得分遠超V4-Pro-Preview。 官方性能對比的是國產程式設計代表GLM-5.2及美國的Opus 4.8。DeepSeek-V4-Flash正式版的整體性能超過了GLM-5.2，逼近Opus 4.8。相比對標模型，V4 Flash只是個小參數模型，GLM-5.2總參數高達7440億，啟動參數為400億，均遠高於V4 Flash。 具體來看官方給出的9項Agent基準測試得分，在考察終端操作能力的Terminal Bench2.1上，DeepSeek-V4-Flash正式版的得分從61.8漲到了82.7；在程式碼倉庫理解與修改任務NL2Repo、DeepSWE上，分別得分54.2和54.4，而其前身Flash Preview在DeepSWE項目上的得分僅為7.3。 另外，其指向網路安全任務的Cybergym得分為76.7，反映工具呼叫能力的Toolathlon-Verified達到70.3。 在更綜合的智能體評測中，DeepSeek-V4-Flash正式版在Agent Last Exam和 Automation Bench Public上的得分分別為25.2和25.1，這兩個項目都是2026年新推出、面向AI智能體的現實任務評測基準，用來檢驗大模型Agent能不能真正完成真實工作，區別於MMLU、Humanity’s Last Exam這類純問答測試。 在內部全端開發測試DSBench-FullStack與高難度編碼測試DSBench-Hard上，得分則達到68.7和59.6。多項指標遠超今年4月上線的V4-Pro預覽版。 新版本上線後，Artificial Analysis和Arena.ai兩大AI評測平台同步更新了該模型的基準測試結果。 Artificial Analysis智能指數顯示，DeepSeek-V4-Flash獲得50分，比4月發佈的Flash版本高出10分，僅比OpenAI的GPT-5.6 Luna（51分）低1分。該平台發文稱，即使OpenAI將GPT-5.6 Luna的價格下調了80%，DeepSeek-V4-Flash正式版在其自有API上的單任務成本仍然比GPT-5.6 Luna低約60%。 Arena.ai的報告稱，DeepSeek-V4-Flash正式版以1586分的成績重塑了Frontend Code Arena跑分榜單。每MTok…</description>
     </item>
   </channel>
 </rss>
