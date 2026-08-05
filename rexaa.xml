@@ -5,8 +5,26 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 05 Aug 2026 01:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 02:20:10 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>黃仁勳第三條推給智駕模型：AI下一輪浪潮是機器人</title>
+      <link>https://hao.cnyes.com/post/262211</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/262211</guid>
+      <pubDate>Wed, 05 Aug 2026 02:20:10 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>就在剛剛，輝達CEO黃仁勳終於發文了，這次給了開源自動駕駛推理大模型。 8月4日消息，智能紀元AGI獲悉，黃仁勳發佈推文： 今天，我們推出了 Alpamayo 2 Super，這是我們為自動駕駛車輛打造的前沿開源推理模型。 超越視覺，Alpamayo 能夠理解並推理複雜的世界——在行動前進行思考。 它是無人駕駛計程車、卡車、班車、配送貨車、拖拉機以及長尾移動機器人群的有力支柱——終有一天將有數十億台自主機器。 我們以 OpenMDW-1.1 許可將其開源用於商業用途，以便團隊可以檢查、微調並部署它——開源模型推動安全與保障的進步。 下一波 AI 浪潮是機器人技術——而它將從自動駕駛車輛開始。 幹得漂亮，Alpamayo 團隊！ Alpamayo 2 Super 的參數規模是 NVIDIA Alpamayo 1.5 和 Alpamayo 1 模型的 3 倍，後者擁有 100 億個參數。 新增的容量有助於模型更好地從稀疏示例中進行泛化推理——這對於傳統系統往往難以處理的罕見的多智能體互動至關重要。 針對每種駕駛情況，Alpamayo 2 Super 可以產生五個緊密耦合的輸出： 描述車輛計畫路徑的軌跡。 解釋決策背後原因的因果鏈（CoC）追蹤。 能夠捕捉模型意圖的元動作（例如，讓行、變道、停車）。 推理自動標籤，生成用於訓練和驗證資料的 CoC 標註。 具有 2D 視覺基礎的視覺問答響應，將模型的答案與相機圖像中的特定區域聯絡起來。 事實上，Alpamayo 2 Super可作為自動標註器部署，用於生成 CoC 標籤，並基於專有車隊資料執行基於 2D 圖像的視覺問答。通過將其推理與攝影機圖像中的特定區域關聯起來，該模型可以將原始駕駛視訊片段轉換為更豐富的訓練資料，從而將標註周期從數月縮短至數天。 除了規劃和自動標註之外，Alpamayo 2 Super 還支援場景理解、模型評估和知識提煉。這些多工功能使開發人員能夠在更廣泛的開發堆疊中使用單一的基礎模型，從而簡化工具並加速迭代。 輝達強調，Alpamayo 2 Super專為複雜真實世界駕駛而建構，這個開放推理模型增加了360度感知、高級駕駛決策和自動化推理標籤，現在已可商業用於機器人計程車和自動駕駛車輛。 這是黃仁勳發佈的第三條推文。 前兩條都是圍繞開源AI模型合作和開放安全 AI 聯盟，以開發新的技術和工具來保障軟體和Agent的安全，引發廣泛關注。 進駐X平台短短10天內，黃仁勳帳號粉絲暴漲了98.9萬，三條推文的閱讀量超過7000萬。 更值得注意的是第三條推文中附贈了兩張截圖，體現新的Alpamayo 2 Super模型性能，遠超Qwen3-VL-32B模型。 具體來說，在近 40 款受測模型中，Alpamayo 2 Super 在自動駕駛推理基準測試 LingoQA 中名列第一。 在輝達使用 Ling…</description>
+    </item>
+    <item>
+      <title>三星、SK海力士、美光2027年DRAM、HBM產能售罄，買家付訂金秘而不宣，生怕“進來太多人，自己分少了&quot;</title>
+      <link>https://hao.cnyes.com/post/262144</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/262144</guid>
+      <pubDate>Wed, 05 Aug 2026 01:52:49 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>據DIGITIMES援引供應鏈消息，三大記憶體原廠(三星、SK海力士、美光) 2027年 DRAM、HBM 產能已完成全部分配。 NAND Flash方面，三星、美光及閃迪的2027年產能也已預售一空，鎧俠與SK海力士預計最遲於2026年8月底前完成分配。無論是否簽訂LTA長期合約，各方買家均配合原廠提前預付訂金模式。 2027年成為&quot;記憶體最缺一年&quot;的看法正在應驗，業內預期2027年價格漲幅有望趨緩，不過，供給緊張與終端成本壓力絕非短期可以緩解。 AI浪潮帶動記憶體供需格局發生結構性反轉。近期各家記憶體原廠已陸續與大客戶簽訂LTA長約，繫結3至5年的供貨協議，使記憶體晶片逐步脫離標準型商品的傳統周期循環。原廠牢牢掌握供應配額，報價維持堅挺，長期賣方市場格局已然形成。 該報導強調，所謂產能分配完畢，涵蓋對象不僅是長期繫結3至5年LTA的大客戶，也包括2026年已獲得產能分配、但原廠未必願意與其簽訂長約的中小型買家。業內人士透露，目前產能幾乎被搶購一空，有買家秘而不宣，&quot;怕太多人進來，結果自己分少了&quot;。 尚未鎖定產能的買家面臨2027年&quot;無貨可買&quot;的困境，鑑於雲服務巨頭與AI大廠的優先順序，手機及PC等消費性終端的供給空間一直被擠壓，配額明顯縮水。 SK集團會長崔泰源此前預計，2027年AI半導體需求有望較2026年大增60%至100%，整體記憶體需求增幅估計達50%至60%，供需缺口恐持續擴大，2027年可能面臨史上最嚴重的短缺與供需失衡。 威剛董事長陳立白日前強調，DRAM缺貨相當明確，並證實三大原廠2027年產能早已售罄。HBM與AI伺服器相關應用將佔近七成DRAM產能，手機、PC等消費電子產品的DRAM配額將明顯縮水。此外，企業級記憶體需求強勁，也帶動NAND Flash與硬碟市場供給趨緊。 機構方面，高盛早在5月31日就發表過觀點，預計2026至2028年全球DRAM供需缺口依次為5.0%、5.9%和3.9%，NAND快閃記憶體2026年和2027年缺口分別為4.4%和4.6%，2027年供需緊張程度將超過2026年，且這種態勢將延續至2028年。 TrendForce近期報告指出，2027年記憶體需求維持由AI應用主導，DRAM因HBM持續排擠產能、AI伺服器需求強勁，維持供給緊張格局，價格走勢偏強。(投資者內參)</description>
+    </item>
     <item>
       <title>AI有兩大波機會：賣鏟子-超級應用</title>
       <link>https://hao.cnyes.com/post/262206</link>
@@ -96,24 +114,6 @@
       <author>RexAA</author>
       <category>科技</category>
       <description>2026年8月3日 — 阿里巴巴今日正式發佈新一代基座大模型 Qwen3.8-Max，總參數量達 2.4兆（2.4T） ，啟動參數 95B（950億） 。 這是繼Kimi K3之後，中國第二個參數規模突破2兆的大模型，也是千問系列迄今尺寸最大、性能最強的旗艦產品。 在權威第三方榜單 Arena 中，Qwen3.8-Max 整體性能位列全球第二，僅次於 Anthropic 的 Claude 系列，程式設計能力（CodeArena）更是位居全球第四。 01 一、技術架構：稀疏MoE + 混合注意力的極致最佳化 1.1 參數規模與啟動效率 Qwen3.8 的核心突破在於稀疏混合專家（MoE）架構與混合注意力機制的聯合最佳化。 技術解讀：2.4T 的總參數意味著模型擁有極其龐大的知識容量，但每次推理僅啟動約 95B 參數——這種稀疏啟動機制讓模型在保持超大知識儲備的同時，推理效率顯著提升。相比稠密架構（Dense），MoE 架構的推理成本可降低 10-20 倍。 1.2 混合注意力機制 Qwen3.8 引入了混合注意力機制（Hybrid Attention），結合稀疏注意力（如 Sliding Window Attention、GQA/MQA）與全注意力，在保持長上下文理解能力的同時，降低注意力計算的複雜度。這是支撐 1M Tokens 超長上下文的關鍵技術。 1.3 訓練策略：真實環境 + 算力聯合強化學習 Qwen3.8 在專業任務（Cowork）上的突破，得益於真實環境與算力的聯合強化學習（RL）擴展。 傳統大模型訓練依賴靜態資料集，而 Qwen3.8 通過以下方式提升真實任務表現： 真實環境反饋：模型在真實軟體環境中執行任務，獲取執行結果作為訓練訊號 算力感知訓練：將計算資源約束納入訓練目標，讓模型學會在有限算力下交付最優結果 數百種專業任務覆蓋：法律、金融、辦公等高頻場景均有針對性最佳化 02 二、橫向對比：Qwen3.8 與全球主流旗艦模型 2.1 參數規模與架構對比 關鍵發現： Qwen3.8 的 2.4T 參數在全球開源模型中位列第二，僅次於 Kimi K3（2.8T） 閉源巨頭（OpenAI、Anthropic、Google）均未公開參數量，轉向&quot;性能導向&quot;敘事 Gemini 3.1 Pro 以 2M 上下文領先，但架構更重；Qwen3.8 的 1M 上下文在性價比上更具優勢 2.2 API 定價對比（每百萬 Tokens） 價格戰略解讀： Qwen3.8 國際定價僅為 Claude Fable 5 的 20%-12% ，性價比碾壓 中國價格更低，輸入僅 ¥12/百萬Tokens，隱式快取命中僅 ¥1.5 阿里以&quot;高性能 + 低價格&quot;策略，直接挑戰 OpenAI、Anthropic 的定價體系 2.3 性能榜單對比（Arena 排名） 性能定位：…</description>
-    </item>
-    <item>
-      <title>Anthropic Vs OpenAI，誰可笑到最後?</title>
-      <link>https://hao.cnyes.com/post/262057</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/262057</guid>
-      <pubDate>Tue, 04 Aug 2026 10:02:47 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>誰可笑到最後? 圖像由AI生成，僅供參考。 AI大模型賽道的資本市場上，有兩間較重點且受市場高度關注的公司——Anthropic和OpenAI。Anthropic曾被視為「OpenAI小弟」，目前市場予其估值高達近 9650億美元(見下圖)，超越OpenAI(近8520億美元)。圖像由牛牛AI生成，僅供參考。 截至2026年7月，Anthropic在估值、營收增速和盈利能力三項關鍵指標上全面反超OpenAI，而OpenAI則坐擁消費端流量霸主地位(見下圖)和廣泛品牌認知。根瞭解，兩家公司已遞交IPO申請，Anthropic可能最快10月上市，OpenAI傾向推遲至2027年。 Anthropic to B賺錢能力更高 OpenAI約85%收入與ChatGPT消費者訂閱相關；擁有9億+周活用戶，付費轉化率僅約6%。OpenAI 94.5%用戶為免費用戶，龐大免費用戶帶來巨大推理成本——每產生1美元收入就虧損超1美元。目前仍在虧損狀態，盈利目標推遲至2030年。其戰略轉型方向是將ChatGPT打造為「桌面超級應用」，整合編程工具Codex、Work等功能和瀏覽器，從「回答問題」向「執行任務」。 Anthropic約85%收入來自企業及開發者客戶，這種模式具明確付費意願及較低服務成本。其收入結構中，企業API及AWS Bedrock調用佔65%，Claude Code代碼智能體佔20%。據Ramp平台追蹤5萬家美國企業數據，截至今年5月，34.4%企業付費使用Anthropic產品，超OpenAI的32.3%。 Anthropic年化營收(ARR)在15個月內從10億飆升至逾600億美元；淨收入留存率(NRR)高達500%，意味老客戶加碼消費；綜合毛利率超60%，預計2026年或實現盈利。Anthropic 用戶量不及OpenAI，但企業付費客戶帶動下，Anthropic 相比OpenAI更快賺到錢。 AI產業大混戰現實 $微軟 (MSFT.US)$曾用130億美元投資OpenAI，同時也向Anthropic 投資50億美元。OpenAI每年數百億美元算力開支都流向Azure。微軟本質是用資本換算力訂單—因兩大模型公司都用AWS。；$亞馬遜 (AMZN.US)$ 完成對OpenAI的500億美元投資並取得5%股權，同時向Anthropic承諾投入最高330億美元。 $Google-A (GOOGL.US)$$Google-C (GOOG.US)$ 自家Gemini是Anthropic關鍵合作夥伴。累計投資最高400億美元，更提供5吉瓦(GW)TPU算力及數十億美元的數據中心融資擔保；$輝達 (NVDA.US)$正與OpenAI商討一項最多2,500億美元的擔保安排，以支援其租用大型人工智慧數據中心的計劃。而輝達已向OpenAI投資 300億美元、Anthropi…</description>
-    </item>
-    <item>
-      <title>DRAM市佔：三星電子擴大優勢 長鑫增長飛速有望躋身前列</title>
-      <link>https://hao.cnyes.com/post/262107</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/262107</guid>
-      <pubDate>Tue, 04 Aug 2026 05:41:32 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>Counterpoint Research今日發佈2026年第二季度DRAM市佔排名，三星電子以39%領先榜單，較上季度增加1%；SK海力士同比下滑明顯，市佔率從去年同期39%降至26%；其後的美光緊追其後，拿下25%；長鑫記憶體作為全球增長最快的DRAM供應商，市佔率已達7%。報告指出，三星受益於傳統DRAM價格上漲及HBM業務份額擴大，業績實現明顯反彈，並有望在第三季度繼續受益於記憶體價格上漲。相比之下，SK海力士雖然營收創歷史新高，但由於HBM產品價格下滑及長期供貨協議影響，市場份額被三星和美光進一步擠壓。此外，長鑫記憶體營收同比增長716%。Counterpoint認為，隨著IPO融資推進及產能持續擴張，長鑫記憶體未來有望進一步提升全球市場份額，並向全球三大記憶體廠商發起衝擊。(格隆匯)</description>
     </item>
   </channel>
 </rss>
