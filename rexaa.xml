@@ -5,8 +5,17 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 12 Aug 2026 23:49:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 01:51:32 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>DeepSeek V4 Pro正式版發佈/馬斯克發佈Grok 4.6，Fable 5等級/豆包推出學生優惠</title>
+      <link>https://hao.cnyes.com/post/263138</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/263138</guid>
+      <pubDate>Thu, 13 Aug 2026 01:51:32 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>🔍DeepSeek V4 Pro 正式上線，支援 1M 上下文與 384K 最大輸出 📱Google 發佈 Pixel 11 系列：Gemini 可代訂餐廳與叫車，Pro 版長焦升至 120 倍 📋蘋果申請暫停 App Store 收費程序遭法院駁回 💰騰訊 Q2 營收增長，微信月活達 14.39 億 🌪️抖音處置 1.28 萬條颱風不實內容，重點治理 AI 虛構災害畫面 🌐Google 將在美洲新建 3 套海底光纜系統 🎬激進投資者要求獅門影業加速 AI 轉型，否則考慮出售 🚀面壁智能啟動 IPO 輔導，MiniCPM 下載量已超過 4300 萬 🚗廣汽孵化的人形機器人公司慧侖科技完成新一輪融資 💡嵐圖董事長盧放：開發周期短不等於「速成車」 📱9999 元起，榮耀 Robot Phone 發佈：四自由度雲台可主動跟拍 📷影石 X6 發佈：支援 8K 50 幀全景視訊，售價 3999 元起 🤖xAI 發佈 Grok 4.6，主打長程 AI 智能體與複雜任務處理 🎓豆包推出學生優惠，專業版連續包月降至 38 元 💻Grok Bot 開放早期測試，AI 智能體擁有獨立雲端電腦 ⌚Pixel Watch 5 加入離線 Gemini，可追蹤血壓與胰島素抵抗趨勢 DeepSeek V4 Pro 正式上線，支援 1M 上下文與 384K 最大輸出 DeepSeek 昨日推出 DeepSeek V4 Pro 正式版，對應模型版本已更新為 DeepSeek-V4-Pro-0813。該模型在規格與配套能力上均有顯著提升。 官方資訊顯示，DeepSeek V4 Pro 支援 1M 上下文長度，最大輸出長度可達 384K Token。模型提供思考模式與非思考模式，其中思考模式為默認開啟狀態。 在配套能力方面，V4 Pro 已實現對 JSON Output、Tool Calls、Responses API 以及 Anthropic API 的支援，並提供對話前綴續寫與 FIM 補全功能，其中 FIM 補全僅限非思考模式使用。API 接入方式同時相容 OpenAI 和 Anthropic 兩套格式。 價格方面，DeepSeek V4 Pro 維持了此前的定價水平。在快取命中輸入、快取未命中輸入和輸出三個計費項目上，每百萬 Token 的價格分別為 0.025 元、3 元和 6 元。 相比之下，主打低成本與高並行的 DeepSeek V4 Flash 對應價格分別為 0.02 元、1 元和 2 元。此外，V4 Pro 的並行限製為 500，低於 Flash 版本的 2500。 Google 發佈 Pixel 11 系列：Gemini 可代訂餐廳與叫車，Pro 版長焦升至 120 倍 Google 昨日發佈 Pixel 11、Pixel 11 Pro、Pi…</description>
+    </item>
     <item>
       <title>AI大戰變天：祖克柏突然回頭，Meta重新押注開放AI</title>
       <link>https://hao.cnyes.com/post/262828</link>
@@ -105,15 +114,6 @@
       <author>RexAA</author>
       <category>科技</category>
       <description>很多人一提到記憶體晶片，就會想到Flash、NAND、DDR、HBM。但這些詞不是同一層級的概念。 要講清楚記憶體晶片，先記住一句話： 記憶體晶片的本質，是解決資料“放在那、放多久、取多快”的問題。 如果從計算核心往外看，記憶體系統其實是一層一層展開的。越靠近CPU/GPU，速度越快；越遠離計算核心，容量越大，單位成本越低。 按照這個邏輯，記憶體晶片大體可以分成三類：快取記憶體、運行記憶體、長期記憶體。 ⸻ 一、第一類：快取記憶體，代表是SRAM SRAM速度極快，常用在CPU、GPU、AI晶片內部做快取。 它的優點是快，缺點是面積大、成本高，所以一般不會拿來做大容量記憶體。 你可以把SRAM理解成晶片內部的“隨手工作區”，離計算單元最近，速度最快，但容量最小。 ⸻ 二、第二類：運行記憶體，代表是DRAM DRAM就是我們通常說的“記憶體”。 它比SRAM慢，但容量更大、成本更低，適合給CPU、GPU臨時呼叫資料。 DRAM有一個特點：斷電後資料會消失，所以它不是用來長期保存檔案的，而是用來支撐系統運行。 DRAM下面又分出很多形態： DDR：主要用於PC、伺服器、工作站，是電腦記憶體條的核心。 LPDDR：低功耗記憶體，主要用於手機、平板、輕薄本、車載和邊緣AI裝置。 GDDR：圖形視訊記憶體，主要用於顯示卡和圖形處理。 HBM：高頻寬記憶體，主要用於AI GPU、高性能計算和高端資料中心。 DRAM不是一個單一產品，而是一整個家族。不同分支，本質上是在頻寬、功耗、容量、封裝和應用場景之間做取捨。 其中，HBM是AI時代最受關注的記憶體晶片之一。它不是普通記憶體條，而是把多層DRAM垂直堆疊，通過先進封裝放到GPU旁邊，核心價值是高頻寬、低功耗、離算力晶片更近。 所以，DRAM這條線的關鍵詞不是“保存”，而是“高速呼叫”。 ⸻ 三、第三類：長期記憶體，代表是Flash Flash屬於非易失性記憶體，斷電後資料仍然存在。 Flash下面最重要的是兩類：NOR Flash和NAND Flash。 NOR Flash容量通常不大，但讀取方便、可靠性高，常用於MCU、汽車電子、工業控制、路由器、可穿戴裝置等場景，主要存放啟動程式碼和程序。 NAND Flash容量大、成本低，適合保存大量資料，是SSD、USB 隨身碟、記憶體卡、手機UFS、eMMC的核心。 所以，NOR更像“裝置啟動的小本子”，NAND更像“資料大倉庫”。 這裡還要注意一個常見誤區：SSD、UFS、eMMC不是單純的記憶體晶片類型，而是NAND Flash加主控晶片、韌體、介面協議和封裝後的產品形態。 ⸻ 四、除了這些，還有那些記憶體技術？ 如果把範圍繼續放大，記憶體晶片還包括EEPROM、Mask ROM、OTP、eFlash等嵌入式非易失性記憶體，主要用於晶片內部配置、韌體、身份資訊和小容量…</description>
-    </item>
-    <item>
-      <title>GPU與AI加速器走向分層配置：HBM短缺與38GW電力約束如何改寫2027年供應鏈</title>
-      <link>https://hao.cnyes.com/post/262955</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/262955</guid>
-      <pubDate>Wed, 12 Aug 2026 10:09:47 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>AI硬體的競爭單位已經從單顆GPU變成整套可上電系統。HBM分層、CoWoS擴產、機櫃延期和38GW隱含功率，分別對應記憶體器、製造、工程和電力4道約束。 單顆GPU不再是正確的研究單位 過去常用“GPU出貨量×單價”估算AI硬體價值。現在這個公式少算了5個必要條件：HBM、CoWoS、測試、機櫃和電力。GPU完成量產，只代表理論算力形成；全部環節閉合後，算力才能上線。 六道門的先後關係很清楚：HBM決定可選規格，晶圓和CoWoS形成晶片，測試篩出合格品，PCB、互連與液冷把晶片裝成機櫃，資料中心最後完成上電。任一環節落後，前序產出都可能變成庫存、在製品或延遲收入。 此前Rubin機櫃研究已經說明，GPU之外的記憶體器、PCB、電源和液冷正在增加單櫃價值。本篇只向前推進一個問題：當頂配無法無限複製時，分層配置會怎樣改變各環節的數量、價格和利潤。相關背景參看Rubin機櫃重估：GPU佔比降到51%，AI硬體價值正在向記憶體、PCB與電源液冷遷移，誰在接住AI硬體新增量。 HBM分層配置：用更少記憶體器換更多可交付晶片 Rubin Ultra候選方案中，高端版本使用HBM4e 8Hi，較低版本使用HBM4 12Hi或8Hi。8Hi只表示堆疊層數，不能單獨代表整顆GPU等級；代際、介面速度、堆疊數量、總容量和系統設計共同決定最終性能。更先進的HBM4e服務高端版本，HBM4則覆蓋成本或容量要求較低的任務。 輝達考慮分層有兩個原因。其一，HBM必須與GPU封裝、訊號、電源、散熱和良率共同驗證，短缺時無法隨時換料。其二，不同任務對容量的敏感度不同。每顆低配GPU少用一部分HBM，同一批記憶體器就能支援更多晶片；高端HBM則留給訓練、長上下文和高服務等級推理。 性能代價主要出現在解碼。預填充可以平行處理輸入Token，解碼需要逐Token讀取權重與狀態，KV cache還會隨上下文長度和並行擴大。容量減少後，系統可能被迫降低批次、縮短上下文、增加跨卡通訊，或把狀態移到較慢層級，最終損失延遲、吞吐或能效。 軟體決定低配SKU能否成立。雲廠商需要按模型、上下文長度和服務等級分配硬體；KV cache壓縮、量化、分層記憶體和批處理則降低單位任務的HBM佔用。只有每美元、每瓦對應的有效Token增加，節省的HBM才真正轉化為更高供給。 因此，分層最先改變的可能是HBM4e與HBM4的產品組合，而不是HBM總需求方向。總量要同時看單顆容量下降幅度和晶片數量增幅。相關歷史框架參看記憶體稅來了：AI如何把HBM、DRAM和NAND擠成全球宏觀瓶頸。 266.4萬片CoWoS背後，不止是GPU擴產 報告對2027年的自下而上模型很激進：266.4萬片CoWoS配額，隱含3399.6萬顆GPU、CPU與ASIC，帶來486.18億Gb HBM需求；計算晶片本身消耗約211.9萬片晶圓，…</description>
     </item>
   </channel>
 </rss>
