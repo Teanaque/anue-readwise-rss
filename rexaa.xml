@@ -5,8 +5,71 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 13 Aug 2026 10:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:42:07 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>輝達開源輕量級模型：筆記本插塊顯示卡即可跑</title>
+      <link>https://hao.cnyes.com/post/263134</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/263134</guid>
+      <pubDate>Thu, 13 Aug 2026 10:42:07 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>輝達這次動作挺快的。黃仁勳上個月的月底剛剛表達了有關於要擁抱開放原始碼的想法，在這個月的時間裡就真的把這個模型給釋放了，並不是在嘴巴上面隨便說說而已。 這個模型所具備的最大的特性就是在於它足夠輕便。不需要進行伺服器的堆疊，也不需要用上雲端，你手頭所擁有的筆記型電腦只要插入一塊顯示卡就可以順利地進行運行。對於那些規模較小的團隊以及個人的開發者們來說，這也就意味著門檻直接降低了極大程度的一個幅度，在以前玩大模型的時候必須得要先算算錢包的厚度是否足夠，現如今你桌子上面擺放的那台電腦可能就已經足夠了。 它主要所瞄準的目標是智能體應用，說得直白一點的話就是指那些能夠在後台的區域自己進行幹活的程序。比如像是自動整理文件、定時抓取資訊、鑑於規則做出決策之類的場景。這一類任務並不需要模型表現得有多麼聰明，但是必須要保持穩定以及節省資源，輝達在這一次的行動中就是奔著這個方向進行的。 在技術的層面上所用的是蒸餾技術，也就是把自家的 NeMo 大模型的能力壓縮排到了小模型裡，就像是把一整瓶的酒精濃縮成為了一小管的精華。達到的效果比較接近，體積也發生了縮水，正好非常適宜那些算力表現得比較吃緊的場景。 更加關鍵的一個地方在於它是真的實現了開源。不僅僅能夠進行下載的操作，並且還能夠進行修改以及能夠用於商業用途，不需要尋找輝達簽署協議，也同樣不需要交錢。已經在 Hugging Face 以及官方網站上面掛著了，任何的人都能夠把這個東西拿走部署了。(輕蜂學堂)</description>
+    </item>
+    <item>
+      <title>Deepseek V4 Pro 正式版 API 上線，百萬 Token 僅 6 元；騰訊計畫近期發佈 HY4 大模型；曝 iPhone18 至少漲價 2000 元起 | 極客早知道</title>
+      <link>https://hao.cnyes.com/post/263135</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/263135</guid>
+      <pubDate>Thu, 13 Aug 2026 10:36:06 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>DeepSeek V4 Pro 正式版 API 更新上線，多項測試性能接近 Fable 5 8 月 13 日消息，DeepSeek V4 Pro 正式版正式發佈，已更新至 API，呼叫模型名不變。 新版本增強了 Agent 能力，支援 Responses API 和 Codex 接入。 從官方群放出的評測對比表可以看到，DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）在多項測試中接近 Fable 5 水平，相比之前的預覽版能力大幅提升。 定價如下： 百萬 tokens 輸入（快取命中）：0.025 元 百萬 tokens 輸入（快取未命中）：3 元 百萬 tokens 輸出：6 元 （來源：IT 之家） 騰訊發佈 2026 年 Q2 財報，第二季度營收 2048 億元，計畫近期發佈 Hy4 騰訊控股發佈 2026 年第二季度財報。財報顯示，騰訊第二季度營收 2,047.9 億元人民幣，預估 2,028.4 億元人民幣；第二季度銷售費用 118.7 億元人民幣，預估 119.6 億元人民幣；第二季度增值服務業務收入 984.1 億元人民幣。 騰訊表示，混元 Hy3 完成從 preview 到正式版的快速迭代，上線一周呼叫量較上一代模型增長超 68 倍，更大參數規模的 Hy4 也計畫近期發佈；WorkBuddy 及 CodeBuddy 持續領跑國內 AI 原生辦公智能體賽道，易觀資料顯示 WorkBuddy6 月 PC 端訪問量已突破 2000 萬次；微信 AI 助手「小微」灰測有序放量中。 二季度，騰訊遊戲收入同比增長 11%，其中本土遊戲收入增長 17%，國際遊戲收入按固定匯率計算增長 4%；行銷服務收入同比增長 22%；金融科技及企業服務收入同比增長 9%，雲服務受惠於 AI 增量貢獻，國際業務拓展和通用雲服務需求增長。（來源：新浪科技） 曝小紅書打造 AI 導購功能，官方暫無回應 有消息稱，小紅書在打造全新的「AI 導購」功能，依託對話互動模式，在問答場景中直接推送商品卡片、掛載下單跳轉連結。 對此消息，新浪科技向小紅書官方進行求證，截至發稿暫無回應。 本月初，新浪科技獨家獲悉，小紅書正全面提速 AI 戰略，佈局 AI 社交產品、AI 社區互動工具等方向，從後台技術應用轉向前台自研、產品化與生態化全面競速。在招聘平台檢索發現，小紅書近日密集招募 AI 應用研發人才，且部分崗位薪資給到了 30-60K/16 薪，最高年薪可達 96 萬元，足見其加碼 AI 方向的決心。 今年 5 月，小紅書發佈內部信，宣佈新一輪組織升級，其中核心變化就包括，成立 AI 一級部門 Dots 和企業智能部，從產品技術和組織兩方面加大對 AI 的投入。（來源：新浪科技） SpaceXAI 推出 GrokBot，對標 Anthropic 與 Op…</description>
+    </item>
+    <item>
+      <title>消息屬實：英特爾正在準備“超級APU”，Razor Lake-AX已出現在HWiNFO更新支援中</title>
+      <link>https://hao.cnyes.com/post/263121</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/263121</guid>
+      <pubDate>Thu, 13 Aug 2026 10:30:05 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>狠狠打起來！！！ 硬體監控軟體 HWiNFO 近日在更新日誌中確認，將在下一個正式版本 v8.51 中加入對英特爾 &quot;Razor Lake-AX&quot; 處理器的初步支援。這是英特爾 &quot;AX&quot; 系列 SoC 首次出現在公開的軟體支援列表中，標誌著這款備受矚目的 Halo 級晶片已進入實質性的開發階段。 首先先認識一下“Halo”的概念，它的誕生源自於AMD“既要、又要、還要”對APU的追求。它的典型產品是Strix Halo，在AMD規劃中，Strix Halo是Strix Point的超級衍生版。這類產品定位明確：在單一晶片上，儘可能整合頂級的CPU和GPU，為無需獨立顯示卡的輕薄本、迷你工作站等裝置，提供足以媲美中高端獨顯的圖形性能。 而在如今，Halo 處理器還有了新的生產力意義，由於其超大的共用記憶體支援，使得搭載 Halo 處理器的miniPC、筆記本可以充當移動AI工作站，部署本地模型，這類產品銷量相當可觀。 回到英特爾，Razor Lake-AX 是英特爾 Razor Lake 產品線中的一個特殊分支，定位與標準的 S 系列和 H 系列完全不同——它是一個 &quot;更大、更強&quot; 的完整 SoC 設計。據此前報導，英特爾原計畫在 Nova Lake 時代推出 AX 系列，但該項目已被推遲，Razer Lake-AX 隨即接過了挑戰 AMD Halo 級 APU 的重任。 在核心規格方面，Razor Lake-AX 將採用 Griffin Cove 性能核與 Golden Eagle 能效核的混合架構，GPU 部分則有望搭載 Xe3P &quot;Celestial&quot; 架構。據 TechPowerUp 報導，其整合顯示卡將提供 16 核與 32 核兩種配置，規模約為現有 Panther Lake 平台 Arc B390 的三倍。GPU Die 面積據稱約為 162.84 mm²。此外，Razor Lake-AX 還將整合下一代 NPU，以滿足日益增長的端側 AI 算力需求。 最值得注意的是，Razor Lake-AX 將重新啟用封裝內記憶體設計，採用 LPDDR6 標準。英特爾上一次在消費級產品上使用封裝記憶體還是 Lunar Lake，此後的 Arrow Lake 和 Nova Lake 均未跟進。這一回歸意味著英特爾將轉向統一記憶體架構——CPU 與 GPU 共享同一記憶體池，無需通過 PCIe 匯流排反覆搬運資料。這一思路已在 AMD Strix Halo、NVIDIA DGX Spark 等 AI PC 平台上得到驗證。 在發佈節奏上，Razer Lake 作為 Nova Lake 的繼任者，預計於 2028 年登陸桌面和移動平台。而 Razor Lake-AX 作為其中的特殊分支，上市時間將更晚，預計在 2028 年至 2029 年之間。值得注意的是，Raz…</description>
+    </item>
+    <item>
+      <title>實測 DeepSeek V4 Pro 正式版：Agent 能力終於支棱了，還藏了一個大招</title>
+      <link>https://hao.cnyes.com/post/263119</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/263119</guid>
+      <pubDate>Thu, 13 Aug 2026 10:27:05 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>盼星星，盼月亮，我們等來了七月初一的月光—— 就在今天凌晨，DeepSeek 官網毫無預兆地更新，DeepSeek V4 Pro 0813 正式登場。依據慣例，無需手動調整，現在 API 接入的 deepseek-v4-pro 就會是最新模型。 此外，DeepSeek API 使用與 OpenAI/Anthropic 相容的 API 格式，簡單貼上 API Key，就能在 Codex、Claude Code 和 OpenCode 等第三方工具中將 DeepSeek 作為後端模型使用。 令人稍顯寬心的是，雖然已經通過提前預告的方式給使用者們打了很久「API 即將漲價」的預防針，更新到 0813 版本後的 DeepSeek V4 Pro 目前依然沒有漲價。 目前每百萬 token 輸入（快取未命中）與輸出的定價分別是 3 元和 6 元，和預覽版保持一致，也正好是 DeepSeek V4 Flash 的三倍。 事不宜遲，這就來看看在預覽版發佈的 111 天後，終於問世的 DeepSeek V4 Pro 正式版帶來了那些變化。 Agent 能力，終於支棱起來了 不同於往常偏好在白天流量時段發佈新模型，DeepSeek 這次的凌晨更新顯得有些倉促，看似官網只來得及修改模型參數介紹、API 使用指南等少數文件頁，連這回的更新日誌都還沒端上來。進一步的更新解讀，可能要留待今日白天。 但考慮到 V4 Pro 正式版發佈的時間只比 7 月 31 日更新的 V4 Flash 正式版晚了不到半個月，我們有很大把握相信，二者共享了相近的最佳化思路（如果不是完全相同的話）。 所以，直接看 V4 Flash 正式版的更新日誌來推導 V4 Pro 的變化也未嘗不可。 DeepSeek V4 Flash 0731 更新日誌裡最引人注目的資訊，莫過於官方宣稱其基模與預覽版在模型結構、尺寸上都保持一致，僅僅重新進行了後訓練，但針對性的後訓練也確實使得「Agent 能力大幅增強，基準測試遠超 V4-Pro-Preview」 。 如果今晚的 V4 Pro 正式版也是如此，那我們可以預期觀察到它在 Agent 能力上的突飛猛進。 目前網上流傳的第一批跑分結果，很大程度上印證了這一預期。 在這些與 Agent 強相關的評測集中，V4 Pro 的表現比起預覽版可謂突飛猛進，在一些項目中接近甚至超越了目前的性能標竿 Fable 5： 代表 DeepSeek 自家軟體工程基準的 DeepSWE 從 12.8 分飆升至 62.7 分；代表 DeepSeek 全端開發基準困難子集的 DSBench-Hard 分數翻了一倍多，達到 67.2 分；通過自然語言從零生成程式碼倉庫的 NL2Repo 從 38.5 分提至 61.5 分 …… 也就是說，同一個 API 名稱，昨天基本還不會做的活兒，今天就可以跟全球第一…</description>
+    </item>
+    <item>
+      <title>ZCode 使用者數達 100 萬，重設使用限額</title>
+      <link>https://hao.cnyes.com/post/263110</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/263110</guid>
+      <pubDate>Thu, 13 Aug 2026 10:21:05 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>Z.ai 宣佈，ZCode 使用者數已達到 100 萬，並將為所有 GLM Coding Plan 使用者重設使用限額，以感謝社區支援。 Z.ai 同時推出更新，提升其在實際工程工作流中的處理能力，快取命中率達到 98%，可提供約 1.8 倍的使用量。(firemail)</description>
+    </item>
+    <item>
+      <title>YMTC黑馬崛起，NAND市場格局生變</title>
+      <link>https://hao.cnyes.com/post/263084</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/263084</guid>
+      <pubDate>Thu, 13 Aug 2026 10:15:04 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>引子 2026年第一季度，一家很多歐美讀者叫不出全名的中國企業，在全球NAND快閃記憶體市場的份額榜上，和Sandisk、美光並列第三。 它就是長江記憶體YMTC。 如果放在三年前，這個位置幾乎是不可想像的。彼時YMTC還在被列入實體清單、被限制購買光刻機的陰影裡掙扎求生。而現在，它已經悄悄擠進了全球記憶體江湖的第一梯隊。 這不是一條突發新聞，而是一條被大多數人忽略的長期趨勢的最新切片。今天我們把這張切片攤開來看清楚。 一、最新市場份額，數字說話 洞察｜Counterpoint Research 2026年Q1資料 在全球NAND市場，三星以29%的份額繼續斷層領先，SK海力士18%排第二。 鎧俠（Kioxia）14%排第三。緊隨其後的是一個三方並列的第二梯隊，Sandisk、美光、YMTC，三家同為13%。 用一張表把這份季度資料講清楚 資料來源：Counterpoint Research 這張表裡最扎眼的一行，不是三星依然領先，而是YMTC一年之內份額漲了5個百分點。放眼整個記憶體行業，這個漲幅在頭部廠商裡找不到第二個案例。 警示｜份額此消彼長的真相 全球NAND市場的總盤子不是無限擴張的，YMTC多吃下的份額，本質上是從三星、美光、鎧俠碗裡挖出來的。 這不是新增市場的紅利，而是存量市場的肉搏。 二、為什麼兩家研究機構算出的數字對不上 細心的讀者可能會發現一個矛盾的地方。同樣是2026年第一季度的資料，TrendForce發佈的企業級SSD前五大供應商榜單裡，壓根沒有YMTC的名字，而Sandisk在那張榜單裡的份額只有4.1%，和Counterpoint給出的13%相差懸殊。 聚焦｜數字打架背後的統計口徑差異 兩份報告統計的其實不是同一件事。 TrendForce那張表統計的是企業級SSD市場，伺服器和資料中心用的那種高端記憶體產品。 Counterpoint統計的是整體NAND快閃記憶體市場份額，涵蓋消費級和企業級的全部出貨。 Sandisk有龐大的消費級快閃記憶體業務，筆記本、USB 隨身碟、記憶體卡這些場景都在它的業務盤子裡，這才是兩個數字差出三倍的根本原因。 至於YMTC為什麼完全不出現在TrendForce的企業級SSD榜單裡，答案也很直接，它的產品目前主要還是供給中國國內市場，企業級出海規模有限，公開的免費圖表自然統計不到它的身影。更細顆粒度的YMTC產能和出貨分析，通常出現在TrendForce的付費訂閱報告裡，而不是免費公開的前五大圖表中。 三、全球缺貨，中國大陸產能卻在逆勢狂奔 這才是這篇文章真正想講的核心矛盾。 警示｜全行業性缺貨已經持續超過一年 TrendForce的最新月度報告指出，2026年全年NAND快閃記憶體市場持續處於供不應求狀態，供給缺口維持在4%到5%之間。 驅動因素很直接，AI相關需求持續暴漲，而產能擴張速度跟不…</description>
+    </item>
+    <item>
+      <title>晶片，轉折點</title>
+      <link>https://hao.cnyes.com/post/263057</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/263057</guid>
+      <pubDate>Thu, 13 Aug 2026 10:12:04 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>儘管電晶體尺寸的縮小遠未停止，但參加2026年超大規模積體電路技術與電路研討會的與會者被敦促從系統層面進行更廣闊的思考。OpenAI硬體負責人Richard Ho在會議開幕式上呼籲轉變思維方式。 “進步並非僅靠電晶體尺寸縮小就能實現；它還需要在電路和技術方面取得突破，例如記憶體器整合、低功耗互連、電源傳輸、散熱以及先進封裝，”Ho在主題演講中表示。 所有領域的創新都必須在一個連貫的系統架構內進行協同最佳化。“只有通過整體性的系統級創新，並輔以嚴謹的執行，我們才能實現所需的能效比和總擁有成本比的提升，從而使人工智慧的益處惠及更廣泛的人群，”Ho說道。 人工智慧硬體系統的三大支柱——計算、記憶體和互連——不能孤立地看待，而應從系統層面考慮它們的相互作用。這需要對模型和硬體進行協同設計，“使工作負載特性與架構選擇和技術能力相匹配”。 “未來十年人工智慧硬體的發展將由系統級創新來定義，”Ho說道。 後奈米時代的CFET 在周一的短期課程演講中，IBM 研究院的Guo闡述了一份路線圖，該路線圖將引領行業“一路發展到 2040 年，實現電晶體創新”。 經過 12 年的 FinFET 發展，向環柵 (GAA 或奈米片) 的過渡正在順利進行，這種過渡在溝道寬度靈活性、短溝道效應以及新的創新機遇方面具有顯著優勢。在幾代 GAA 器件之後，重點將轉向堆疊式互補型場效應電晶體 (CFET)，通常稱為 CFET，其中兩個晶圓鍵合在一起，並針對晶體取向進行了最佳化。Guo表示，這些互補型 FET 將在後 1 奈米時代出現，器件尺寸可達 2 埃。 對於互連線而言，需要使用鈷或釕（Co 或 Ru）襯墊，而銅回流焊技術將帶來更大的銅晶粒尺寸，從而在 20 奈米間距（10 奈米線寬和 10 奈米間距）下降低電阻。空氣間隙也將發揮作用。 “超過 20 奈米間距後，我們需要新的互連技術創新。堆疊器件的 I/O 也是一大挑戰，我們需要 DTCO（設計技術協同最佳化）方面的創新，”Guo說道。 他表示，一些1.4奈米工藝的設計需要高數值孔徑（High NA）光刻技術，而“1奈米工藝的設計則絕對需要”，其優勢包括改善線邊緣粗糙度（LER：line edge roughness）和降低變異性。 ime的項目總監Dwaipayan Biswas從宏觀角度分析了人工智慧的發展前景。他引用Google的一項研究指出，人工智慧的應用領域將十分廣泛，每個領域都需要“專門的技術解決方案”。 未來五到十年，為了滿足這些多元化的市場需求，異構3D積體電路將不斷湧現，晶片到晶圓和晶圓到晶圓的混合鍵合技術也將得到更廣泛的應用。這種精細間距的3D堆疊技術目前已在進行中，它帶來了新的機遇。“我們可以利用它來實現架構的靈活性，”Biswas說道。 儘管FinFET技術統治了十幾年，但Biswas預測，奈米片技術只能持續兩到三代…</description>
+    </item>
     <item>
       <title>光晶片，暗流湧動</title>
       <link>https://hao.cnyes.com/post/263060</link>
@@ -51,24 +114,6 @@
       <author>RexAA</author>
       <category>科技</category>
       <description>Grok 4.6的API起售價為2美元/百萬輸入Token、6美元/百萬輸出Token。該模型強化長程執行能力，可自主測試並持續修正，在多項智能體和知識工作測試中進入前沿模型第一梯隊，GDPVal-AA v2測試中取得評分1753 Elo，高於GPT-5.6 Sol Max和Claude Fable 5 Max，遠超上一代Grok 4.5 High。SpaceXAI稱，新模型上線首周在Cursor和Grok Build中還提供2倍包含用量。 美東時間8月12日周三，馬斯克旗下SpaceXAI正式發佈新一代大模型Grok 4.6。SpaceXAI稱，新模型相比Grok 4.5實現顯著提升，重點強化長時間運行的智能體（Agent）、複雜程式設計、知識工作以及互動式和視覺任務能力。 此次發佈最受關注的並非單純的模型迭代，而是Grok 4.6在SpaceXAI公佈的多項前沿模型測試中已經躋身第一梯隊，同時API起售價僅為2美元/百萬輸入Token、6美元/百萬輸出Token。SpaceXAI稱，其定價約為其他前沿模型的一半；該模型上線首周在Cursor和Grok Build中還提供2倍包含用量。 SpaceXAI公佈的測試資料顯示，Grok 4.6在Artificial Analysis Intelligence Index中取得61分，與OpenAI前沿模型GPT-5.6 Sol Max持平；在GDPVal-AA v2中則取得1753 Elo，超過GPT-5.6 Sol Max的1728分和Anthropic前沿模型Claude Fable 5的1741分。 馬斯克隨後在社交媒體轉發有關Grok 4.6是巨大升級、在所有基準測試中得分均超過Grok 4.5 High的帖子，強調Grok 4.6評分達到1753 Elo，並自誇新模型太牛了。 從知識工作到程式設計，Grok 4.6全面強化複雜任務能力 Grok 4.6此次升級的核心，不再只是回答問題，而是讓模型能夠持續完成需要多步驟執行的複雜任務。 SpaceXAI表示，Grok 4.6重點針對長時間運行的智能體進行訓練，可以連續完成研究主題、分析資訊、處理程式碼庫，以及把一個模糊的產品想法轉化為可運行的應用或工作成果。公司還稱，新模型在更長的任務軌跡中開始表現出更多自主測試和驗證能力，會在繼續執行之前檢查此前的工作。 在訓練方面，Grok 4.6經歷了比Grok 4.5更長的補充訓練，加入經過篩選的模型生成推理資料、高品質工程資料，並改進最佳化器和訓練方案。隨後，SpaceXAI利用Grok 4.5生成覆蓋不同推理強度、智能體框架以及STEM、軟體工程和知識工作的SFT軌跡，並進一步通過強化學習訓練模型完成通用程式設計、知識工作、核心最佳化、網頁開發和電腦輔助設計等任務。 SpaceXAI特別強調，Grok 4.…</description>
-    </item>
-    <item>
-      <title>DeepSeek V4 Pro正式版發佈/馬斯克發佈Grok 4.6，Fable 5等級/豆包推出學生優惠</title>
-      <link>https://hao.cnyes.com/post/263138</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/263138</guid>
-      <pubDate>Thu, 13 Aug 2026 01:51:32 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>🔍DeepSeek V4 Pro 正式上線，支援 1M 上下文與 384K 最大輸出 📱Google 發佈 Pixel 11 系列：Gemini 可代訂餐廳與叫車，Pro 版長焦升至 120 倍 📋蘋果申請暫停 App Store 收費程序遭法院駁回 💰騰訊 Q2 營收增長，微信月活達 14.39 億 🌪️抖音處置 1.28 萬條颱風不實內容，重點治理 AI 虛構災害畫面 🌐Google 將在美洲新建 3 套海底光纜系統 🎬激進投資者要求獅門影業加速 AI 轉型，否則考慮出售 🚀面壁智能啟動 IPO 輔導，MiniCPM 下載量已超過 4300 萬 🚗廣汽孵化的人形機器人公司慧侖科技完成新一輪融資 💡嵐圖董事長盧放：開發周期短不等於「速成車」 📱9999 元起，榮耀 Robot Phone 發佈：四自由度雲台可主動跟拍 📷影石 X6 發佈：支援 8K 50 幀全景視訊，售價 3999 元起 🤖xAI 發佈 Grok 4.6，主打長程 AI 智能體與複雜任務處理 🎓豆包推出學生優惠，專業版連續包月降至 38 元 💻Grok Bot 開放早期測試，AI 智能體擁有獨立雲端電腦 ⌚Pixel Watch 5 加入離線 Gemini，可追蹤血壓與胰島素抵抗趨勢 DeepSeek V4 Pro 正式上線，支援 1M 上下文與 384K 最大輸出 DeepSeek 昨日推出 DeepSeek V4 Pro 正式版，對應模型版本已更新為 DeepSeek-V4-Pro-0813。該模型在規格與配套能力上均有顯著提升。 官方資訊顯示，DeepSeek V4 Pro 支援 1M 上下文長度，最大輸出長度可達 384K Token。模型提供思考模式與非思考模式，其中思考模式為默認開啟狀態。 在配套能力方面，V4 Pro 已實現對 JSON Output、Tool Calls、Responses API 以及 Anthropic API 的支援，並提供對話前綴續寫與 FIM 補全功能，其中 FIM 補全僅限非思考模式使用。API 接入方式同時相容 OpenAI 和 Anthropic 兩套格式。 價格方面，DeepSeek V4 Pro 維持了此前的定價水平。在快取命中輸入、快取未命中輸入和輸出三個計費項目上，每百萬 Token 的價格分別為 0.025 元、3 元和 6 元。 相比之下，主打低成本與高並行的 DeepSeek V4 Flash 對應價格分別為 0.02 元、1 元和 2 元。此外，V4 Pro 的並行限製為 500，低於 Flash 版本的 2500。 Google 發佈 Pixel 11 系列：Gemini 可代訂餐廳與叫車，Pro 版長焦升至 120 倍 Google 昨日發佈 Pixel 11、Pixel 11 Pro、Pi…</description>
-    </item>
-    <item>
-      <title>AI大戰變天：祖克柏突然回頭，Meta重新押注開放AI</title>
-      <link>https://hao.cnyes.com/post/262828</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/262828</guid>
-      <pubDate>Wed, 12 Aug 2026 23:49:38 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>Meta又回來了。 去年，祖克柏曾讓Meta告別堅持多年的Llama開放路線，轉向打造更封閉、更商業化的旗艦模型；但不到一年後，Meta突然重新打開大門。 美國當地時間8月10日，Meta一天之內連續釋放三個訊號：發佈面向本地智能體的新模型Muse Glimmer，宣佈開放Muse Spark相關模型權重，祖克柏隨後發表6500字長文，為開放AI路線辯護。 這意味著，Meta正在重新押注一條曾經被自己暫時放棄的道路：開放權重（open-weight）AI。 過去幾年，AI行業圍繞模型開放方式形成了明顯分歧。一些企業傾向於通過封閉模式控制模型訪問範圍，以降低安全和商業風險；另一部分企業則認為，開放模型能吸引更多開發者參與，加快技術落地。 過去，Meta曾憑藉Llama系列推動開放生態；如今，它希望通過開放模型和開發者社區重新尋找競爭位置。 Muse Glimmer展示了Meta對本地智能體的探索，Muse Spark權重開放計畫和祖克柏的長文，則釋放出Meta重新強化開放AI路線的訊號。 30B模型跑在電腦上 Meta押注&quot;本地智能體&quot; Muse Glimmer是Meta此次公佈的新模型。 根據官方資料，該模型擁有300億參數，主要面向智能體任務設計。與傳統聊天模型不同，智能體需要完成更加複雜的連續操作，不只是回答使用者提出的問題，還需要理解目標、制定計畫，並呼叫不同工具完成任務。 Meta表示，Muse Glimmer針對智能體能力進行了訓練，能夠處理任務規劃、工具呼叫、結果檢查以及錯誤恢復等環節。 Muse Glimmer支援文字和圖像輸入，擁有128K上下文窗口，並支援多語言任務處理。 在Meta展示的案例中，模型能夠通過工具呼叫發現網路上Assistant裝置，查詢裝置介面，並根據需求自主生成HTML、CSS和JavaScript程式碼，隨後部署本地伺服器進行驗證。 這一過程體現了AI智能體與傳統聊天模型之間的區別：模型需要理解任務目標，並在多個步驟之間保持連貫執行。 除了智能體能力，Muse Glimmer另一個重點是本地運行。過去幾年，先進AI模型的發展高度依賴雲端計算，使用者使用AI服務時，大量計算任務需要交由遠端伺服器完成。本地AI的方向，則希望讓模型直接運行在個人裝置上，減少對雲端的依賴，讓涉及個人檔案、裝置操作和隱私資訊的任務更多在本地完成。 但對於大型模型而言，本地運行一直受到硬體限制。 Meta在博文中透露，Muse Glimmer完整精度運行需要超過55GB記憶體。為了降低裝置要求，Meta推出量化版本，將模型壓縮到20GB以內，使其能夠適配24GB和32GB等級裝置。這意味著部分高性能顯示卡以及高記憶體版本Mac裝置，可以運行這一模型。 Meta公佈的測試資料顯示，在RTX 5090裝置上，通過DFlash推測解碼技術，Muse…</description>
     </item>
   </channel>
 </rss>
