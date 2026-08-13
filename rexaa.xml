@@ -5,8 +5,17 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 12 Aug 2026 10:57:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 23:49:38 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>AI大戰變天：祖克柏突然回頭，Meta重新押注開放AI</title>
+      <link>https://hao.cnyes.com/post/262828</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/262828</guid>
+      <pubDate>Wed, 12 Aug 2026 23:49:38 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>Meta又回來了。 去年，祖克柏曾讓Meta告別堅持多年的Llama開放路線，轉向打造更封閉、更商業化的旗艦模型；但不到一年後，Meta突然重新打開大門。 美國當地時間8月10日，Meta一天之內連續釋放三個訊號：發佈面向本地智能體的新模型Muse Glimmer，宣佈開放Muse Spark相關模型權重，祖克柏隨後發表6500字長文，為開放AI路線辯護。 這意味著，Meta正在重新押注一條曾經被自己暫時放棄的道路：開放權重（open-weight）AI。 過去幾年，AI行業圍繞模型開放方式形成了明顯分歧。一些企業傾向於通過封閉模式控制模型訪問範圍，以降低安全和商業風險；另一部分企業則認為，開放模型能吸引更多開發者參與，加快技術落地。 過去，Meta曾憑藉Llama系列推動開放生態；如今，它希望通過開放模型和開發者社區重新尋找競爭位置。 Muse Glimmer展示了Meta對本地智能體的探索，Muse Spark權重開放計畫和祖克柏的長文，則釋放出Meta重新強化開放AI路線的訊號。 30B模型跑在電腦上 Meta押注&quot;本地智能體&quot; Muse Glimmer是Meta此次公佈的新模型。 根據官方資料，該模型擁有300億參數，主要面向智能體任務設計。與傳統聊天模型不同，智能體需要完成更加複雜的連續操作，不只是回答使用者提出的問題，還需要理解目標、制定計畫，並呼叫不同工具完成任務。 Meta表示，Muse Glimmer針對智能體能力進行了訓練，能夠處理任務規劃、工具呼叫、結果檢查以及錯誤恢復等環節。 Muse Glimmer支援文字和圖像輸入，擁有128K上下文窗口，並支援多語言任務處理。 在Meta展示的案例中，模型能夠通過工具呼叫發現網路上Assistant裝置，查詢裝置介面，並根據需求自主生成HTML、CSS和JavaScript程式碼，隨後部署本地伺服器進行驗證。 這一過程體現了AI智能體與傳統聊天模型之間的區別：模型需要理解任務目標，並在多個步驟之間保持連貫執行。 除了智能體能力，Muse Glimmer另一個重點是本地運行。過去幾年，先進AI模型的發展高度依賴雲端計算，使用者使用AI服務時，大量計算任務需要交由遠端伺服器完成。本地AI的方向，則希望讓模型直接運行在個人裝置上，減少對雲端的依賴，讓涉及個人檔案、裝置操作和隱私資訊的任務更多在本地完成。 但對於大型模型而言，本地運行一直受到硬體限制。 Meta在博文中透露，Muse Glimmer完整精度運行需要超過55GB記憶體。為了降低裝置要求，Meta推出量化版本，將模型壓縮到20GB以內，使其能夠適配24GB和32GB等級裝置。這意味著部分高性能顯示卡以及高記憶體版本Mac裝置，可以運行這一模型。 Meta公佈的測試資料顯示，在RTX 5090裝置上，通過DFlash推測解碼技術，Muse…</description>
+    </item>
     <item>
       <title>Google創始人布林緊急接管Gemini團隊，但“3.5 Pro已被取消”</title>
       <link>https://hao.cnyes.com/post/262937</link>
@@ -105,15 +114,6 @@
       <author>RexAA</author>
       <category>科技</category>
       <description>AI硬體的競爭單位已經從單顆GPU變成整套可上電系統。HBM分層、CoWoS擴產、機櫃延期和38GW隱含功率，分別對應記憶體器、製造、工程和電力4道約束。 單顆GPU不再是正確的研究單位 過去常用“GPU出貨量×單價”估算AI硬體價值。現在這個公式少算了5個必要條件：HBM、CoWoS、測試、機櫃和電力。GPU完成量產，只代表理論算力形成；全部環節閉合後，算力才能上線。 六道門的先後關係很清楚：HBM決定可選規格，晶圓和CoWoS形成晶片，測試篩出合格品，PCB、互連與液冷把晶片裝成機櫃，資料中心最後完成上電。任一環節落後，前序產出都可能變成庫存、在製品或延遲收入。 此前Rubin機櫃研究已經說明，GPU之外的記憶體器、PCB、電源和液冷正在增加單櫃價值。本篇只向前推進一個問題：當頂配無法無限複製時，分層配置會怎樣改變各環節的數量、價格和利潤。相關背景參看Rubin機櫃重估：GPU佔比降到51%，AI硬體價值正在向記憶體、PCB與電源液冷遷移，誰在接住AI硬體新增量。 HBM分層配置：用更少記憶體器換更多可交付晶片 Rubin Ultra候選方案中，高端版本使用HBM4e 8Hi，較低版本使用HBM4 12Hi或8Hi。8Hi只表示堆疊層數，不能單獨代表整顆GPU等級；代際、介面速度、堆疊數量、總容量和系統設計共同決定最終性能。更先進的HBM4e服務高端版本，HBM4則覆蓋成本或容量要求較低的任務。 輝達考慮分層有兩個原因。其一，HBM必須與GPU封裝、訊號、電源、散熱和良率共同驗證，短缺時無法隨時換料。其二，不同任務對容量的敏感度不同。每顆低配GPU少用一部分HBM，同一批記憶體器就能支援更多晶片；高端HBM則留給訓練、長上下文和高服務等級推理。 性能代價主要出現在解碼。預填充可以平行處理輸入Token，解碼需要逐Token讀取權重與狀態，KV cache還會隨上下文長度和並行擴大。容量減少後，系統可能被迫降低批次、縮短上下文、增加跨卡通訊，或把狀態移到較慢層級，最終損失延遲、吞吐或能效。 軟體決定低配SKU能否成立。雲廠商需要按模型、上下文長度和服務等級分配硬體；KV cache壓縮、量化、分層記憶體和批處理則降低單位任務的HBM佔用。只有每美元、每瓦對應的有效Token增加，節省的HBM才真正轉化為更高供給。 因此，分層最先改變的可能是HBM4e與HBM4的產品組合，而不是HBM總需求方向。總量要同時看單顆容量下降幅度和晶片數量增幅。相關歷史框架參看記憶體稅來了：AI如何把HBM、DRAM和NAND擠成全球宏觀瓶頸。 266.4萬片CoWoS背後，不止是GPU擴產 報告對2027年的自下而上模型很激進：266.4萬片CoWoS配額，隱含3399.6萬顆GPU、CPU與ASIC，帶來486.18億Gb HBM需求；計算晶片本身消耗約211.9萬片晶圓，…</description>
-    </item>
-    <item>
-      <title>最近在看Claude Tag，聊兩句</title>
-      <link>https://hao.cnyes.com/post/263021</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/263021</guid>
-      <pubDate>Wed, 12 Aug 2026 10:06:47 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>6 月份，Claude 出了個新能力，叫 Claude Tag。 在 Slack 裡 @ Claude 一下，它能幫忙幹活。聽起來不是什麼大事，Anthropic 自己也把它當個 beta 功能低調發了。 但我最近聽了兩期播客，一期，他們設計負責人 Meaghan Choi 上 Dive Club，另一期，工程負責人 Boris 上 Big Technology。 兩期聽下來，我發現外面幾乎沒人聊到一個真正重要的東西。什麼東西？ 先說個名字的事，Anthropic 管它叫 Claude Tag。Tag，一個動詞，這名字本身是產品哲學，Claude 認為自己應該被 @，跟拉一個同事進群聊沒什麼兩樣。 名字講完了，重點來了：以前所有的 AI 產品，都在做同一件事：借工牌幹活。 ChatGPT 借網頁登錄態，Claude Code 借 GitHub token，AI 干的每一件事，掛在某個人名下，用那個人的權限，出事那個人負責。 這套模型運行了三年，沒人覺得有問題。 AI 一次只能幹幾分鐘的活，人坐在旁邊盯著，它幹完人檢查，借個工牌嘛，借就借了；可 AI 能幹活的時間，正在以一種不太講道理的速度變長。 AI 安全評測機構 METR 發了一份報告，他們評估了 Anthropic 最新的模型 Mythos，結論是，這玩意兒能連續完成相當於人類專家工作 16 小時的任務。 更要命的是，METR 評測套件一共 228 個任務，其中超過 16 小時的只有 5 個。 換句話說，METR 手裡的尺子只有 16 小時，評測工具被模型追平了，這在 AI 評測史上是頭一回。 圖釋：這根曲線的最後一段，已經爬出了評測工具能看見的範圍 把這兩件事放一起看：AI 能幹 16 小時的活了，還在借工牌，這畫面怎麼想都不對。 因為人下班，回家睡覺了，AI 還在跑；跑到一半，它需要訪問一個內部系統，結果token 過期了，權限用不了了，卡在那，等人第二天早上起來重新授權。 這還不是最要命的，Claude Tag 設計是多人共用同一個 AI，一個頻道里，三個人同時 @ 它，同時丟任務。 問題來了： 借誰的工牌？誰的 GitHub token？三個人裡權限最大的那個？那萬一這個人離職了，帳號回收了，所有任務全掛。 Anthropic 寫 Agent identity 那篇技術部落格的人叫 Noah Zweben，他有一句話： 以前安全問題是「這個使用者能幹什麼」，到了 Tag 這裡，問題變成「這個 agent 在這個頻道里能幹什麼」。 從「使用者」到「agent」，從一個「人」到一個「獨立實體」，這個變化比它多了什麼功能要深得多。 而且 Anthropic 不是第一個試的。 年初龍蝦非常火，後來一家叫 Every.to 的公司做了公開復盤，給每個員工配了一個 OpenClaw agent，結果翻了各…</description>
     </item>
   </channel>
 </rss>
