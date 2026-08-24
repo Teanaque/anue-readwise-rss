@@ -79,41 +79,5 @@
       <category>科技</category>
       <description>AI競賽新拐點 彭博社8月20日報導，在人工智慧實驗室爭奪全球技術主導權的競賽中，中國正迅速縮小與美國的差距； 2026年8月美國與中國人工智慧最佳模型得分對比，美國最佳模型得分接近60分，中國最佳模型得分明顯落後於美國，兩國頂尖模型能力差距依然存在。資料來源：AISCORE圖表 在成本和使用量等部分指標上，中國模型甚至已經取得領先。 路透社此前披露月之暗面7月推出的Kimi K3擁有2.8兆個總參數和100萬個令牌的上下文窗口。 月之暗面KimiK3在EpochCapabilitiesIndex和ValsIndex兩項評測中的表現，其綜合能力及金融程式設計法律任務得分已接近國際頭部模型水平。資料來源：ArtificialAnalysisIntelligenceIndexv4.1.1、EpochAI、ValsIndex，資料截至2026年8月14日 它沒有全面擊敗美國最強模型，卻以接近前沿的能力和顯著更低的價格，動搖了矽谷的商業前提：只要模型保持領先，OpenAI、Anthropic等公司就能持續收取“前沿溢價”。 美國實驗室仍佔據能力上限，但中國已形成由Kimi、DeepSeek、阿里Qwen、智譜GLM和MiniMax組成的近前沿叢集。 2023年至2026年人工智慧能力指數走勢，美國Opus5和Fable5持續領先，中國KimiK3等模型近期加速追趕，與美國前沿模型差距明顯縮小。資料來源：ArtificialAnalysisIntelligenceIndex 當能力差距縮小為幾個百分點，競爭已經從誰最聰明轉向誰成本更低，美國在爭奪最高分，中國在爭奪每一美元能完成多少任務。 在日常實踐中，大部分日常對話與基礎任務並不需要頂尖的前沿能力。 企業完全可以採用混合分發策略：將高風險、高複雜度的算力難題交給美國頂尖模型，而將海量、高頻的常規任務自動路由至性價比更高的國內模型 API，實現整體推理成本的大幅下降。 01. 中國形成近前沿模型叢集從落後6—12個月到只差2分 按Artificial Analysis最新統一口徑，Kimi K3在綜合推理、知識、數學和程式設計能力的智能指數中得分60，Anthropic的Claude Fable 5為62。 人工智慧分析指數排名，該指數綜合九項評測。ClaudeOpus5與ClaudeFable5並列榜首，GPT5.6Sol、Grok4.6、KimiK3、GLM5.2等模型緊隨其後。資料來源：ArtificialAnalysis 史丹佛大學《2026年AI指數報告》給出了更長周期的證據：自2025年初以來，中美最強模型多次交換領先位置； 截至2026年3月美國頭部模型的優勢只剩2.7%，且過去一年大部分時間維持在個位數。兩年前市場討論的是中國能否追上GPT系列；現在問題是美國新模型發佈後，領先能維持多久。 2023年…</description>
     </item>
-    <item>
-      <title>Dan Ives看漲記憶體股：「這是他們的世界，其他人都在支付Rent」</title>
-      <link>https://hao.cnyes.com/post/264269</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/264269</guid>
-      <pubDate>Sat, 22 Aug 2026 08:10:50 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>Tech analystDan Iveshas praise for the memory sector as demand continues to outpace supply. 科技分析師Dan Ives對記憶體行業表示讚賞，因為需求持續超過供應。 Memory Stock Trade 記憶體股票交易 TheRoundhill Memory ETF(BATS:DRAM) and memory stocks likeMicron Technology Inc(NASDAQ:MU) have seen strong interest and demand from investors in recent months. That trend is likely to continue, according to Yorkville Ives Senior Managing DirectorDan Ives. 近期數月，Roundhill Memory ETF（BATS:DRAM）和美光科技（納斯達克：MU）等記憶體股票受到投資者的強烈關注和追捧。Yorkville Ives高級董事總經理Dan Ives表示，這一趨勢可能會持續下去。 &quot;There&apos;s no way around it,&quot; Ives told CNBC. Ives對CNBC表示：「這是無法迴避的事實。」 The former Wedbush analyst said when it comes to the AI revolution, the ratio of demand to supply for memory is around 15 to 1. 這位前Wedbush分析師表示，在人工智慧革命的背景下，記憶體的需求與供應之比約為15比1。 Companies such asAppleare having to pay more for memory with demand and prices up, Ives added. Ives補充道，隨著需求和價格的上漲，蘋果等公司不得不為記憶體支付更高的費用。 &quot;Memory players, right now it&apos;s their world and everyone else is paying rent.&quot; 「記憶玩家，眼下就是他們的天下，其他人都在交房租。」 Ives says there will continue to be ebbs and flows in the memory sector, but the multi-year cycle is going to continue to play out. Ives表示，記憶體行業未來仍會有起伏波動，但這一多年周期將繼續展開。 The analyst said tha…</description>
-    </item>
-    <item>
-      <title>記憶體巨頭集體「撒錢」！那間公司回饋股東最大手筆？</title>
-      <link>https://hao.cnyes.com/post/264268</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/264268</guid>
-      <pubDate>Sat, 22 Aug 2026 08:01:50 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>晶片行業最著名的魔咒，莫過於「周期」：缺芯暴漲→瘋狂擴產→產能過剩→價格雪崩。 一直以來，記憶體晶片都是半導體行業中最令人心驚膽戰的「周期大宗品」。需求旺盛時，價格與利潤一飛沖天；一旦新增產能集中釋放，庫存、價格與盈利又會迅速反轉。 但這一次，記憶體巨頭正在嘗試改寫劇本。最近兩個月， $SK海力士 (SKHY.US)$ 、 $閃迪 (SNDK.US)$ 、 $鎧俠 (285A.JP)$ 、 $美光科技 (MU.US)$ 相繼提高回購及現金回饋力度； $三星電子 (005930.KR)$ 今日宣佈史上規模最大股東回報計劃，最高將向股東返還110兆韓元。 這場「撒錢潮」固然帶有穩定市場信心的意味，但它真正值得關注的地方，不只是記憶體公司突然變得有錢，而是廠商開始把長期合同、自由現金流及股東回報，放到與技術升級、產能投資同等重要的位置。 換言之，記憶體晶片尚未擺脫周期，但行業正在嘗試為周期裝上護欄。 記憶體巨頭集體回饋，規模有多驚人？ 今日， $三星電子 (005930.KR)$ 宣佈史上規模最大股東回報計劃，最高將向股東返還110兆韓元。公司同時宣佈將於第三季度派發約30兆韓元現金股息，並另行回購約15兆韓元股票用於員工薪酬激勵。 8月19日， $SK海力士 (SKHY.US)$ 董事會批准在約三個月內回購並全部註銷價值40兆韓元、約合286億美元的股份。按回購前一日收市價計算，涉及約2407萬股，佔總股本約3.3%，是韓國上市公司史上最大規模的股份註銷計劃。 更重要的是，公司將2025至2027年的股東回報目標，由「不超過累計自由現金流的50%」上調為「超過50%」，並表示後續還可能結合固定股息、特別股息及額外回購進一步加碼。截至今年第二季度末，SK海力士淨現金已達約69兆韓元，這也是其敢於一次拿出40兆韓元回購的底氣。 $閃迪 (SNDK.US)$ 的力度同樣激進，公司新增140億美元回購授權，此前已獲批60億美元並執行約45億美元，剩餘可執行授權因此增至155億美元。此外，8月13日投資者日上，閃迪進一步承諾，在完成業務投資後，將100%超額現金返還股東。 $鎧俠 (285A.JP)$ 則在7月31日宣佈最多回購8000億日元、上限3000萬股，並在短短10日內用盡全部金額。而美光也在6月提出，長期將100%超額現金返還股東，並提高季度股息。 巨額回購迅速扭轉了市場情緒。SK海力士在計劃公佈後一度大漲近13%，這證明在記憶體股經歷劇烈回撤後，真金白銀的股份註銷，比任何口頭上的「估值低估」都更有說服力。 為什麼偏偏是現在？ 最直接的原因，是記憶體股此前從高位快速回撤。 市場開始擔憂AI資本開支能否持續、記憶體價格是否接近高點，以及超高盈利能否延續。當股價跌幅與公司現金創造能力形成明顯反差時，回購便成為管理層傳遞估值信心最直接的方式。但回購潮的根本基礎，仍然…</description>
-    </item>
-    <item>
-      <title>量產時間集體更改，玻璃基板迎來第一次大考？</title>
-      <link>https://hao.cnyes.com/post/264323</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/264323</guid>
-      <pubDate>Sat, 22 Aug 2026 07:55:49 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>玻璃基板或許還未到&quot;量產前夜&quot;。 玻璃基板的故事，正在從“誰先宣佈”轉向“誰能按時交付”。進入2026年下半年，幾條時間相近、方向卻不同的消息，把這種變化放到了檯面上：7月底，英特爾與藍思科技推進面向AI時代的玻璃基板封裝合作；8月11日，韓國裝置商Avaco與關聯公司AVATEC啟動TGV工藝驗證中試線；8月12日，產業鏈消息傳出，三星電機面向客戶的樣品可靠性評估出現瓶頸，合資公司GlaSSEM的建線計畫可能順延，量產時間也可能推至2028年以後。 同一個月裡，有人簽約、有人建線、有人被要求重新驗證。這並不矛盾。玻璃基板已離開“材料性能對比”的階段，進入以客戶可靠性認證為核心的工程驗證階段。決定進度的不再是玻璃相對有機基板的理論優勢，而是玻璃在完成打孔、填銅、布線、貼片之後，能否經受熱循環、濕熱等可靠性評價，並持續保持平整、低翹曲與穩定導通。具體測試項目和門檻因客戶規範而異，但這一過程無法被資本開支或市場熱度壓縮，正是近期行業時間表出現調整的根本原因。 01. 三星電機延期，暴露的不是單點失誤 三星電機的延期是一條延續九個月的時間線。市場流出的供應鏈資訊顯示，公司在2025年11月已向供應商傳達GlaSSEM產線裝置採購意向，但下單時點從2025年12月推至2026年3月、再推至6月，此後未再提供新節點。鍍膜、蝕刻、雷射鑽孔和檢測等主要供應商雖已基本確定，訂單卻沒有落地。 這並不是公司不願投入。GlaSSEM在7月初與日本住友化學旗下東友精細化學簽署最終協議，註冊資本4821億韓元，三星電機持股66%。合資公司的公開目標是於2026年設立，並在2027財年下半年建立供貨體系；這與全面量產並不是同一個概念。至於裝置交期、平澤工廠的具體建線節奏和後續量產時點，目前仍要取決於客戶驗證及裝置匯入進展。 真正的卡點在樣品。現有產業鏈資訊將問題指向客戶樣品的可靠性驗證環節；但公司並未公開披露具體測試項目、失效機理或客戶身份。重新調整玻璃配方和TGV鑽孔參數、再次送樣並完成客戶全流程複測，是行業普遍理解的後續路徑。玻璃基板的關鍵已不只是“能否鑽出微孔”，而是晶片貼裝受熱後能否不出現裂紋、仍保持性能。 三星並非孤例。SKC及其美國子公司Absolics此前的商業化節奏也在調整，市場預期是其在2026年內完成最終可靠性測試、2027年推進全面生產。SKC已確認，公司玻璃基板業務正在為客戶可靠性評估做準備，並計畫生產相關樣品、審議與多家客戶討論中的項目；但客戶名單、最終認證和量產訂單尚無公司正式披露。行業的限制條件已從實驗室可行性，轉向穩定良率和客戶認證，二者不能混為一談。 02. 被反覆修改的量產日曆 目前各方給出的時間表相當克制。Absolics的最新節奏是，2026年完成可靠性測試、2027年推進全面生產，較此前市場預期後移。三星電機的GlaSSEM則以2027財年下…</description>
-    </item>
-    <item>
-      <title>沒想到來的這麼快，機器人的 GPT-3 時刻真來了嗎？GEN-1.5 深度拆解：看 3 秒就會，0 行程式碼教機器人幹活</title>
-      <link>https://hao.cnyes.com/post/264314</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/264314</guid>
-      <pubDate>Sat, 22 Aug 2026 07:52:49 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>一根香蕉，讓整個機器人圈炸了。 研究人員先教機器人拿起一把刷子，把桌上的積木掃進碗裡。 然後，他們把刷子拿走，換成一根香蕉。 機器人抓起香蕉，將它橫過來貼住桌面，把積木一點點掃進碗中。 隨後，香蕉又被換成了一隻簸箕。機器人這次沒有繼續照搬 &quot;掃&quot; 的動作，而是伸出另一隻手，把積木推上簸箕，再端起來倒進碗裡 —— 一隻手掃、一隻手接，雙手配合，行雲流水。 重點是：研究人員從來沒有教過它用香蕉和簸箕，它是自己推理出來的。 這不是科幻電影，這是 8 月 19 日矽谷機器人公司 Generalist AI 發佈的新一代具身基礎模型 GEN-1.5 的真實演示。一條演示視訊，在 48 小時內刷爆了全球機器人研究者的社交網路。前 Google DeepMind Gemini Robotics 研究者 Ted Xiao 直接說：&quot;那種能力突然躍升的感覺，讓我想起第一次使用 GPT-3。&quot; 很多人把它稱為機器人的 GPT-3 時刻。但這個判斷到底成不成立？GEN-1.5 究竟做對了什麼？它離真正改變產業還有多遠？我們一層層扒開看。 一、GEN-1.5 到底能做什麼？四個能力，一個比一個炸裂 先把技術名詞放一邊，用大白話講清楚 GEN-1.5 展示的四項核心能力。 1. 物理提示（Physical Prompting）：看一遍就會，0 行程式碼 這是 GEN-1.5 最核心的突破。 研究人員拿著一對簡易夾爪，在機器人面前完成一個 3 到 12 秒的操作 —— 拉開一次拉鏈、擰開一次罐蓋、從錢包裡抽出一張紙幣。演示只有一遍，GEN-1.5不進行任何微調，不更新任何模型參數，隨即在物體位置發生變化的情況下，開始嘗試同一項任務。 Generalist 把這個機制叫做 &quot;physical prompting&quot;—— 物理提示。它和給大語言模型寫一段 prompt 幾乎一模一樣：示範沒有被訓練進模型，只是臨時告訴它 &quot;這一次要做什麼&quot;。 在 10 項全新操作任務上，這種 &quot;看一遍就做&quot; 的平均成功率達到了59%。 這個數字乍看不算高，但放在機器人領域的語境裡，幾乎是不可思議的。過去教一個機器人擰瓶蓋，工程師要程式設計、採集資料、訓練、偵錯，周期動輒數月。現在需要的全部投入，是一段三秒鐘的演示，和零行程式碼。 2. 組合泛化：兩個動作，自己拼成一套流程 物理提示還可以組合。 研究人員分別示範兩個獨立任務 —— 比如 &quot;拉開鉛筆袋拉鏈&quot; 和 &quot;從袋裡取出錢&quot;—— 把兩段演示一起放進模型的上下文窗口。GEN-1.5 會把它們接成一套連續動作，並且自己補上示範裡沒有的中間步驟：調整位置、換手、重新抓取、錯誤恢復。 這些過渡動作，兩段示範裡都沒有出現過，是模型自己 &quot;腦補&quot; 出來的。 這意味著什麼？未來你不需要為一個複雜流程錄製完整演示，只需要建一個小動作庫，像搭積木一樣把短提示拼起來，機器人就…</description>
-    </item>
   </channel>
 </rss>
