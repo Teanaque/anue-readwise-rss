@@ -5,8 +5,44 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:50:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:59:28 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>輝達、SK海力士：必須拿下CPO！</title>
+      <link>https://hao.cnyes.com/post/264773</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/264773</guid>
+      <pubDate>Tue, 25 Aug 2026 10:59:28 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>最近，半導體行業被一個詞攪得發熱——CPO。輝達和SK海力士，一個掐著算力的命門，一個攥著記憶體的咽喉，這次罕見地同時坐不住了。 SK海力士、輝達，加注CPO 近日，SK海力士及其全球研究團隊在《自然·電子學》雜誌上發表了一篇論文。該論文探討了用於高性能計算和人工智慧的共封裝光學器件（CPO）的開發，指出了關鍵的技術挑戰，並概述了下一代光互連技術的發展軌跡。 SK 海力士人工智慧基礎設施團隊負責人洪承勳和弗吉尼亞大學（UVA）電氣與電腦工程系李奎相教授擔任通訊作者，領導了一項與伊利諾伊大學厄巴納-香檳分校（UIUC）、南洋理工大學（NTU）、麻省理工學院（MIT）和延世大學的研究人員合作的研究。 從更廣泛的層面來看，該論文提出了一個全面的技術路線圖，闡述了記憶體器、先進封裝和光計算互連（OCI）應如何協同演進以支援下一代人工智慧系統。至關重要的是，它還展示了SK海力士如何超越HBM創新，在系統層面幫助定義下一代人工智慧基礎設施的架構。 與此同時，研究人員為下一代人工智慧基礎設施設定了明確的技術目標，包括每個節點超過 100 Tb/s 的頻寬、低於 1 pJ/bit 的能耗以及小於 10 納秒的晶片間延遲。該論文還提出了一個全面的技術路線圖，概述了從基於 2D 和 2.5D 中介層的配置到 3D 異構堆疊的演進過程，以及商業部署必須解決的關鍵技術挑戰。 無獨有偶，8月14 日，輝達正式宣佈 SpectrumX Ethernet Photonics 共封裝光學交換機進入全面量產階段，面向AI 工廠，打造下一代大規模擴展網路基礎設施，這是全球首款量產級200G/lane共封裝光學交換機系統。輝達官方資料顯示，對比傳統可插拔光模組方案，它可實現 5 倍網路功耗效率提升、5倍 AI 應用不間斷執行階段長提升，平均故障間隔時間 MTBF 更是拉長 10 倍，大幅改善超大規模 AI 叢集網路的功耗與可靠性短板。 CPO忽然成了SK海力士和輝達共同押注的方向，這不是巧合。背後的推力只有一個：資料中心撐不住了。 資料中心，需要CPO了 最早一代資料中心內部互連大量使用銅纜 DAC 直連，交換晶片依靠 OSFP、QSFPDD 連接器接入 DAC 電纜，以純電氣訊號完成短距離傳輸。銅纜方案優勢突出：成本低廉、部署簡單，不需要光電轉換器件，短距離場景功耗可控。但短板同樣致命，高速訊號下銅線衰減嚴重，傳輸距離大多僅有數米，頻寬提升之後功耗快速走高，完全無法適配高密度、超大頻寬的 AI 算力叢集，如今已經逐步被光學互連替代。 之後行業全面進入可插拔光模組時代，也就是現在產業的主流狀態。 交換晶片板卡通過 OSFP、QSFPDD 連接器，外接獨立的可插拔光收發模組，再通過光纖完成遠距離訊號傳輸。可插拔光模組最大優勢就是靈活：支援熱插拔，故障之後直接更換模組即可恢復業務，升級迭代也十分方…</description>
+    </item>
+    <item>
+      <title>Claude兩個新模型實測流出！空間推理封神，算力直接榨乾了</title>
+      <link>https://hao.cnyes.com/post/264771</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/264771</guid>
+      <pubDate>Tue, 25 Aug 2026 10:59:27 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>昨天剛剛曝出的Claude 兩款新模型——棉花糖和甜瓜，今天已有實測出現了！ 有人實測後發現，兩款新模型在3D強化學習和建築空間佈局上，性能強到可怕。 另外，它們對算力的吞噬也十分瘋狂。 在給出答案前，它們會消耗海量的「思考token」（Thinking Tokens）進行深度邏輯推理，甚至屢次逼近系統的使用上限！ 從這款模型看，Claude正在進化為具備「慢思考」、深度空間物理推理能力的下一代 AI 巨獸。 One-Shot 拿下3D強化學習與建築佈局 有人實測後給出評價：Anthropic真的在瘋狂推進3D強化學習。 建築物的空間佈局簡直好得令人髮指，而且這一切都是一步到位（One-Shot）生成的！ 要知道，對於LLM，空間想像力一直是個死穴。 讓AI理解一個 3D 房間中桌椅的物理坐標關係、重力法則，或者規劃一個擁有複雜動線和承重結構的建築群佈局，簡直難如登天。 但這次，Claude 的「棉花糖」和「甜瓜」似乎跨越了這道鴻溝。 它們能夠直接理解並生成複雜的3D坐標和空間關係。 而且，實測中發現它們的建築佈局極其優秀，表示新模型在處理拓撲學、幾何學和物理約束時性能也很強大。 並且，它們是One-Shot輸出，不需要人類反覆調整prompt去修正錯誤，模型經過深度的內部思考後，一次性就能輸出完美的3D場景資料。 這背後隱藏著巨大的商業和產業價值。 想像一下，未來的遊戲開發者只需要用自然語言描述：「幫我生成一個中世紀風格的要塞，包含三個防禦塔和一個隱藏的地下通道」，Claude就能直接輸出完美的3D模型程式碼或佈局參數。 建築師可以直接讓AI根據地形和光照條件生成幾十種符合力學結構的初步佈局方案。元宇宙、工業數字孿生、自動駕駛模擬環境的建構…… 這一切，都將因為這種強大的 3D 生成能力而被徹底重塑！ 棉花糖與甜瓜的雙重暴擊 昨天，全網都被棉花糖和西瓜刷屏了。 這次曝光的兩款模型內部代號分別為 claude-marshmallow-eap（棉花糖） 和 claude-melon-eap（甜瓜）。 這種「食物+EAP」的命名規則，延續了他們在今年7月短暫測試過的 claude-horchata-eap（歐恰塔，一種墨西哥飲料）的傳統。 這兩款模型到底是從那裡冒出來的？ 據開發者從 API 流量記錄中截獲的資料顯示，在8月21日的 00:45-00:57Z 期間，claude-marshmallow-ht-eap 的 ID 在 API 流量中被高頻呼叫了 57 次！ 隨後，它在 Claude Code 的模型列表中以「Custom model」的身份赫然出現，並達到驚人的100萬 Token 超長上下文窗口。 雖然目前這兩款模型還沒有第一方 API 端點，似乎僅限於紅隊測試人員或內部核心人員使用，但早期的零星測試反饋已經足夠炸裂。 「棉花糖」 的綜合能力被認…</description>
+    </item>
+    <item>
+      <title>叛變！OpenAI親兒子竟然選了Kimi K3</title>
+      <link>https://hao.cnyes.com/post/264770</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/264770</guid>
+      <pubDate>Tue, 25 Aug 2026 10:56:27 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>老黃剛砸60億，要造一個地表最強開源模型。 沒想到OpenAI的親兒子等不及了，已經拿K3把自己的模型給練出來了！ 你敢信？ OpenAI親手投的公司，第一次自己訓模型，底座沒用GPT，用的是中國模型！ 就在上周，矽谷明星中的明星，估值110億美元的法律AI公司Harvey，官宣了他們首個自有模型Harvey Tenet。 這事最大的看點是，Tenet的底座用的是中國開源模型Kimi K3！ 這就有意思了。 要知道，OpenAI可是Harvey的重要投資人，但他們的第一個自研模型，底座卻來自中國。 Harvey是目前全球估值最高的法律AI公司。服務1300家機構、超過10萬名律師，覆蓋60個國家。Latham &amp; Watkins、A&amp;O Shearman、匯豐、普華永道、橋水、KKR都是它的客戶。 去年底，估值就已經幹到了80億美元。今年3月衝到110億，最新一輪的155億估值融資已經在談了。 最有故事感的是它的出身。 2022 年，27 歲的前訴訟律師 Winston Weinberg 和前 Google DeepMind 研究員 Gabe Pereyra 靠一封發給 Sam Altman 的郵件起家。 Altman回了郵件，他們坐上了與Altman及OpenAI高管團隊的電話會。從此，OpenAI 創業基金領投了 Harvey 的種子輪。 一個律師加一個研究員，一封郵件，四年幹到 110 億。 這本身就足夠傳奇了。 但現在這個劇本多了一個反轉——OpenAI 投錢養大的公司，第一個自研模型選了中國底座。 這事還得從帳單說起 Harvey 過去的打法很標準：拿 OpenAI、Anthropic、Google 的閉源模型做路由，客戶不同的需求分發給不同的模型。 每呼叫一次，就付一筆錢。 本來這也正常，做應用層嘛，底層能力花錢買就是了。 但問題是，賣你東西的人開始惦記你的生意了。 OpenAI 挖走了合同管理公司 Ironclad 的創始人 Jason Boehmig，讓他去領導 OpenAI 自己的法律業務。Anthropic 推出了面向律師的文件審查外掛。 今天賣你 API 的人，明天就坐在了你客戶的會議室裡。用 Harvey 聯合創始人 Pereyra 的話說，這不是「供應商」，這是「未來的競爭對手」。 Harvey 每月要處理 13 兆 token，每一個 token 都是從別人那裡買的。成本根本不受控。 這簡直太可怕了。模型廠說漲價就漲價，根本毫無還手之力。 於是 Harvey 做了一個決定：自己訓一個模型。 手裡有一個自己能改、能部署、成本可控的模型，再回去談 API 價格，底氣就完全不一樣。 150 塊卡，兩個月 Tenet的底座是Kimi K3。2.8兆參數MoE（混合專家架構），100萬token 上下文，原生多模態，目前全球最大的開放權重…</description>
+    </item>
+    <item>
+      <title>輝達詳細披露Vere CPU（Hotchips 2026）</title>
+      <link>https://hao.cnyes.com/post/264772</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/264772</guid>
+      <pubDate>Tue, 25 Aug 2026 10:53:26 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>(invest wallstreet)</description>
+    </item>
     <item>
       <title>美光科技解讀AI記憶體牆：HBM4把瓶頸推向封裝、散熱與良率</title>
       <link>https://hao.cnyes.com/post/264774</link>
