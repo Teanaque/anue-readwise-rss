@@ -5,8 +5,17 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 02:22:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:27:43 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>野村：市場低估了 CPO應用的進展，scale-up雷射器需求是scale-out 的 5-10倍！</title>
+      <link>https://hao.cnyes.com/post/264822</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/264822</guid>
+      <pubDate>Wed, 26 Aug 2026 03:27:43 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>CPO在 scale-up 網路中的雷射器需求，可能達到 scale-out 的 5-10 倍 光器件及光模組公司 Lumentum 於8月17日舉行投資者說明會，光模組及光器件公司 AAOI於8月18日舉行投資者說明會。Lumentum 表示，以每顆GPU計算，CPO（共封裝光學）中的光器件等雷射產品需求，在 scale-up（主要指機架內部的光連接）場景下預計將是 scale-out（主要指機架之間的光連接）的5-10倍（見圖1）。 考慮到康寧等公司此前已經指出，隨著 scale-up 光互連推進，所需光纖數量將大幅增加（見圖2），這一結論本身並不令我們意外；但它為電線電纜公司在這一領域的巨大商業機會提供了新的證據。在我們覆蓋的三家電線電纜公司中，我們認為住友電工將最受益於CPO在光連接產品和光器件領域應用的擴大（見圖3）。從AAOI的表態來看，我們的印象是，該公司正與多家超大規模資料中心客戶進行較深入的討論，以推動CPO市場擴大。 Lumentum長期合同佔比與住友電工光器件業務並無太大差異 在投資者說明會上，Lumentum表示，長期協議約佔其業務的75%。住友電工在2026年5月12日的業績電話會上表示，約50%的光器件通過LTA供貨，合同期限因客戶而異；在7月31日的業績說明會上，公司進一步預計這一比例將達到60%-70%。我們認為，住友電工光器件業務的LTA佔比與Lumentum相比差異不大。 Lumentum已與三家InP襯底供應商簽訂LTA，並仍在與其他供應商洽談 Lumentum再次表示，公司與一家日本供應商簽訂了為期七年的磷化銦襯底長期協議。InP襯底是光器件的關鍵原材料，且Lumentum佔該日本供應商相當大一部分產能。日本的InP襯底供應商主要有住友電工和JX Advanced Metals兩家；基於圖4和圖5註釋中所列原因，我們認為，與Lumentum簽訂LTA的更可能是住友電工。 住友電工擁有全球最大的InP襯底產量份額，除自用於自身光器件外，也對第三方銷售。我們認為，Lumentum的上述表態意味著，住友電工面向外部客戶銷售的InP襯底中，大部分可能供應給Lumentum。考慮到Lumentum在光器件市場的份額以及住友電工的市場地位，這並不令人意外。 此外，Lumentum也在與現有三家LTA供應商以外的InP襯底生產商進行談判，並表示尤其在開拓中國以外的InP襯底供應來源。基於這一點，我們認為，住友電工和JX Advanced Metals都有可能成為Lumentum在日本的InP襯底供應商。 Lumentum中Google銷售佔比從25/6的15%升至26/6的27% 根據Lumentum於8月17日公佈的26/6財年Form 10-K檔案（第8頁），其最大客戶在26/6財年貢獻了26.6%的銷售額，第二大客戶貢獻16…</description>
+    </item>
     <item>
       <title>Linux 35 歲生日快樂！</title>
       <link>https://hao.cnyes.com/post/264843</link>
