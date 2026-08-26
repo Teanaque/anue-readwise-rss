@@ -5,8 +5,44 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:37:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:55:37 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>HBM也扛不住了！三星揭開下一代AI晶片散熱革命</title>
+      <link>https://hao.cnyes.com/post/264890</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/264890</guid>
+      <pubDate>Wed, 26 Aug 2026 10:55:37 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>01：三星電子：HBM的散熱趨勢 近日，全球頂級晶片與電腦體系結構會議 Hot Chips 2026 召開，三星在會上分享了題為 “Evolving HBM Base Die” 的下一代HBM技術路線，首次從Base Die演進的角度系統討論了HBM4、HBM5乃至未來3D堆疊記憶體面臨的功耗與散熱挑戰。隨著HBM Base Die開始採用先進邏輯製程，並逐步整合PHY、Memory Controller、SRAM乃至Processing Elements等更多主動邏輯功能，HBM正在從過去相對單純的高頻寬記憶體器，演變為新的高功率密度熱源。 三星在 Hot Chips 2026 公佈的這套 HBM Base Die 路線，最值得關注的其實不是HBM容量，而是一個很明確的趨勢：未來HBM正在從GPU旁邊相對低功耗的記憶體器，逐漸變成一個新的高熱流密度熱點，AI晶片液冷的重點也可能從“只壓GPU/XPU”進一步擴展到“GPU+HBM整體封裝散熱”。 HBM散熱出現一個反直覺的問題：製程越先進，局部熱點反而越嚴重 三星指出，從HBM4開始，Base Die開始採用4nm先進邏輯製程，PHY以及Die-to-Die介面可以做得更小，同時縮短通訊距離、降低單位bit的資料傳輸能耗。但問題在於，總功率被壓縮排越來越小的PHY面積後，局部功率密度反而迅速增加。三星給出的資料非常關鍵：從sHBM4E向sHBM5演進，I/O速度大約提升一倍，而PHY區域功率密度則從約0.5W/mm²提高到超過2.0W/mm²，相當於局部熱流密度提升到原來的4倍以上。也就是說，HBM未來最大的散熱問題可能並不是“整顆HBM到底多少瓦”，而是Base Die底部開始出現高度集中的Hotspot（熱點）。 三星已經專門為HBM增加“導熱通道”——HPB 針對這一問題，三星提出了一個非常值得液冷產業關注的結構——HPB（Heat Path Block）。它的核心作用可以理解為給HBM內部熱點建立一條更直接的熱量傳輸路徑，讓PHY產生的熱量能夠更有效地從局部熱點向外傳遞。三星基於cHBM4設計經驗給出的資料顯示，當HPB對PHY區域的覆蓋率超過約50%時，HBM的峰值溫度可以降低35%以上。這說明未來HBM散熱已經不能單純依賴封裝頂部把熱量慢慢匯出去，而需要從晶片內部開始進行Heat Path Engineering（熱路徑設計）。 更大的問題是：Base Die未來還要繼續“塞計算” HBM4/5隻是開始。三星的cHBM路線準備把原本位於XPU中的Memory Controller搬到HBM Base Die，隨後還計畫加入SRAM、RAS監控、電壓/溫度/老化感測器，甚至進一步加入Processing Elements（計算單元）。Memory Controller遷入HBM後，三星認為當前熱…</description>
+    </item>
+    <item>
+      <title>從單片SoC到Chiplet：AMD Die Stacking揭秘TSV、HBM與2.5D/3D異構整合路線！</title>
+      <link>https://hao.cnyes.com/post/264777</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/264777</guid>
+      <pubDate>Wed, 26 Aug 2026 10:52:36 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>🔷突破大Die良率、先進製程成本與記憶體頻寬三大瓶頸 🔷Interposer連接CPU、GPU、Cache與DRAM，重構下一代SoC架構 如果今天再回頭看AMD這份報告，會發現它其實提前點出了後來很多先進封裝技術的核心邏輯：當單片SoC繼續堆疊功能開始遭遇成本、良率、功耗和記憶體頻寬瓶頸之後，晶片就必須從“單Die整合”走向“多Die協同”。 這次小編想帶大家重新看一遍AMD當年的判斷。從TSV、Micro-Bump、Wafer Thinning，到2.5D Interposer、3D Stacking，再到第一代HBM，AMD已經非常清楚地描繪出一條新的系統整合路線：不同功能採用最合適的工藝節點分別製造，再通過先進封裝重新組合成完整系統。 尤其值得關注的是，AMD當時直接提出“Interposer will be the SoC”。從今天的Chiplet、HBM和異構整合來看，這句話幾乎就是對未來十多年先進封裝演進方向的一次提前預判。下面我們就來看看，Die Stacking究竟為什麼會發生，又將如何重構下一代晶片架構。 一、這份材料真正想說明什麼？ 這份文件雖然時間比較早，但從今天回頭看非常有意思，因為其中很多判斷後來都演變成了 HBM、2.5D/3D封裝、Chiplet、異構整合 的核心技術邏輯。 整份報告主要回答三個問題：Die Stacking怎麼做？為什麼現在終於開始發生？它最終會怎樣改變半導體產業？ 二、Die Stacking的兩條核心路線：2.5D與3D AMD首先把Die Stacking劃分為兩種基本形態： 2.5D Interposer Stacking： xPU和DRAM等Die並排放置在Interposer上； 3D Vertical Stacking： DRAM等Die直接垂直堆疊在xPU上方。 二者本質目的都是一樣的：縮短不同晶片之間的物理距離，用高密度Die-to-Die互連替代傳統PCB/封裝級長距離互連。 而其中最重要的基礎技術之一就是 TSV（Through Silicon Via，矽通孔）。 AMD指出，TSV本身並不是什麼新概念，真正讓Die Stacking開始具備量產可行性的關鍵，是晶圓減薄和超薄晶圓處理技術的成熟。傳統晶圓厚度約750μm，通過減薄可以做到約50–100μm，從而讓5–10μm級TSV真正具有實用價值。 三、AMD詳細拆解了TSV + Micro-Bump的3D堆疊製造流程 報告前半部分其實是一套非常完整的Die Stacking製造流程教學。 AMD以 TSV Middle 為例，從Front-End製造開始，依次經歷 TSV Deep Etch → Sidewall Protection → Cu TSV Fill → Metallization → Wafer Probe → C…</description>
+    </item>
+    <item>
+      <title>imec揭秘下一代SIMS技术：Orbitrap实现SiGe精准定量，突破GAA/CFET纳米级掺杂分析瓶颈！</title>
+      <link>https://hao.cnyes.com/post/264883</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/264883</guid>
+      <pubDate>Wed, 26 Aug 2026 10:46:36 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>🔷質量解析度突破240,000，破解SiGe中As質量峰干擾 🔷SF-SIMS實現Fin、GAA、CFET微小結構精準摻雜定量 隨著先進電晶體從FinFET邁向GAA、CFET，器件尺寸越來越小、材料體系越來越複雜，一個過去容易被忽視的問題正在變得越來越關鍵：我們該如何在幾十奈米甚至更小的結構中，精準測出摻雜元素到底有多少？ 今天，小編就結合imec這份資料，帶大家看看Orbitrap-SIMS如何突破傳統SIMS的分析瓶頸。通過將超高品質解析度Orbitrap與Self-Focusing SIMS（SF-SIMS）結合，imec成功解決SiGe中As摻雜分析面臨的質量峰干擾問題，實現微小結構中的高精度摻雜定量，為未來GAA、CFET等先進電晶體的材料分析與工藝研發提供了新的技術路徑。 一、這份材料真正想說明什麼？ 整篇報告聚焦一個非常具體但對先進電晶體非常關鍵的問題：隨著 FinFET → GAA → CFET 演進，SiGe 等新材料結構越來越小、越來越複雜，傳統SIMS在微小結構中進行砷（As）摻雜定量時受到質量峰干擾和空間尺度限制，而 Orbitrap-SIMS + Self-Focusing SIMS（SF-SIMS）憑藉超高品質解析度，為GAA、CFET等先進器件提供更準確的奈米尺度摻雜分析能力。 二、GAA、CFET推動半導體材料分析進入“奈米小體積”時代 報告首先從電晶體技術演進講起。過去幾十年，半導體器件從平面電晶體發展到FinFET，再進入3nm GAA Nanosheet；未來還將進一步走向 Forksheet、CFET、2D FET甚至CNT-FET。 與此同時，材料體系也從單純的Si逐漸擴展到 High-k、Ge、SiGe、III-V以及2D材料，而且不同材料開始在奈米尺度結構中共同整合。 這意味著傳統材料分析面臨新的挑戰，器件越來越小 + 結構越來越3D化 + 材料越來越複雜 + 摻雜區域越來越區域化。 因此，對As等摻雜元素進行精確的成分和深度分析，正在成為GAA、CFET等先進器件研發的重要基礎能力。 三、傳統SIMS遇到“小結構污染”：周圍材料會干擾定量結果 報告重點解釋了傳統SIMS在先進器件上的空間分析難題。 對於Blanket Sample（大面積薄膜），傳統SIMS相對容易進行定量；但進入 240,000 這正是報告引入Orbitrap的核心原因。 imec指出，複雜無機材料的SIMS光譜需要非常高的Mass Resolution，而傳統ToF-SIMS已經不足以解決部分質量峰干擾問題。 新的Hybrid SIMS通過引入 Orbitrap質量分析器，可以實現Mass Resolution &gt;240,000，大約達到報告所述ToF-SIMS的 20倍。 這使得過去重疊在一起的 AsSi / SiGe、AsGe…</description>
+    </item>
+    <item>
+      <title>HBM技術路線之爭—HBM4、HBM4E到HBM5的軍備競賽</title>
+      <link>https://hao.cnyes.com/post/264926</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/264926</guid>
+      <pubDate>Wed, 26 Aug 2026 10:40:35 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>HBM的競爭，正在從&quot;誰堆得更高、誰跑得更快&quot;，升級為一場更深層次的&quot;軍備競賽&quot;——三星要把2nm GAA工藝塞進記憶體，SK海力士把基底晶片交給台積電3nm代工，美光則把HBM4E定義為&quot;定製HBM時代的開端&quot;。一個更深刻的轉變正在發生：記憶體廠商與邏輯晶片廠商的邊界，正在模糊。 開篇：當記憶體開始&quot;定製&quot; 過去，HBM是一個&quot;標準品&quot;——三大廠按照JEDEC標準生產，誰參數高、良率好，誰就贏。但從HBM4開始，遊戲規則變了：基礎晶片（邏輯裸片）開始採用代工廠級邏輯工藝，可以承載客戶定製的邏輯電路。 這意味著，輝達的HBM4和AMD的HBM4，在物理結構上將是不同的產品。記憶體晶片，這個曾經最&quot;標準化&quot;的半導體品類，正在走向&quot;半定製&quot;。 第一章 HBM4：三星搶跑，SK海力士穩守，美光追趕 1.1 三星：率先量產，搶跑者 2026年2月，三星率先啟動HBM4大規模生產，成為全球首家實現商業化的企業。僅4個月，HBM4銷售額突破10億美元。技術路線：1c DRAM工藝 + 4奈米邏輯製程基礎晶片，良率接近70%。 1.2 SK海力士：穩守龍頭 SK海力士HBM4二季度量產出貨，預計佔輝達Rubin總HBM4供應約三分之二。核心優勢在於與輝達的深度繫結——它不需要搶跑，因為已經鎖定了最大的客戶。 1.3 美光：加速追趕 美光2026年3月宣佈量產HBM4，產能爬坡速度比HBM3E快兩倍，採用1β工藝，已送樣16層48GB HBM4。 圖1：HBM4三巨頭——三星搶跑、海力士穩守、美光追趕 第二章 HBM4E：定製化的起點 HBM4E是這場軍備競賽的關鍵轉折點，因為它標誌著HBM正式進入&quot;定製化&quot;時代。 2.1 邏輯裸片：定製化的物理基礎 HBM4E的核心變化，在於&quot;邏輯裸片&quot;（Logic Die / Base Die）——位於HBM堆疊結構最底層的邏輯控制晶片。在HBM4之前，這個基底晶片採用DRAM工藝製造。但從HBM4開始，它轉向代工廠級邏輯工藝，可以承載客戶定製的邏輯電路。 美光乾脆把HBM4E定義為&quot;定製HBM時代的開端&quot;。AMD和輝達計畫在未來的AI加速器中採用定製HBM，隨後博通和聯發科等廠商也會跟進。 2.2 三大廠的定製化佈局 三星：HBM4E邏輯裸片已採用4nm工藝，針對定製化HBM計畫進一步升級。SK海力士：HBM4E基礎裸片將由台積電採用3奈米工藝代工——記憶體巨頭首次將核心邏輯晶片外包給代工廠。美光：HBM4E採用1γ工藝，並轉由台積電代工基底晶片。 2.3 邊界模糊：記憶體廠商正在&quot;邏輯晶片化&quot; 一個深刻的產業轉變正在發生：記憶體廠商與邏輯晶片廠商（代工廠）的邊界正在模糊。SK海力士把基底晶片交給台積電3nm代工，美光也轉由台積電代工——記憶體廠商開始&quot;借用&quot;邏輯晶片廠商的先進製程能力。台積電成為了HBM4生態的核心環節，記憶體廠商…</description>
+    </item>
     <item>
       <title>中國AI突破「造芯方法論」！Agent軍團接管晶片設計全流程</title>
       <link>https://hao.cnyes.com/post/264869</link>
@@ -78,42 +114,6 @@
       <author>RexAA</author>
       <category>科技</category>
       <description>HBM5大戰提前打響：SK海力士押注混合鍵合，三星把GPU功能“下沉”到HBM 三星：矽通孔（TSV）和物理層（PHY）輸入輸出介面，是制約記憶體頻寬（每秒傳輸的資料量）進一步提升的主要瓶頸。 AI晶片的競爭，正在從GPU算力一路延伸到HBM。 在Hot Chips 2026大會上，三星電子與SK海力士分別給出了下一代HBM的技術路線：三星重點推進定製化HBM和基底裸片，讓部分記憶體控制與AI計算功能向HBM內部遷移；SK海力士則將重點放在20層以上堆疊、iHBM散熱以及混合鍵合技術上。 與此同時，韓國V-Die、日本MOSAIC等新型記憶體架構也開始嘗試打破傳統HBM“垂直堆疊”的路徑。 這意味著，HBM4之後，真正的技術競爭可能不再只是“堆多少層、跑多快”，而是進入“怎麼堆、怎麼散熱、怎麼連接”的新階段。 一、HBM的真正瓶頸，已經從容量轉向散熱和互連 過去幾年，HBM最大的優勢就是高頻寬。 通過TSV（矽通孔）把多層DRAM垂直堆疊，再通過先進封裝與GPU連接，HBM能夠提供TB/s等級的資料頻寬。 但AI算力不斷提升後，HBM也開始遇到新的“牆”。 一方面，堆疊層數越來越高。另一方面，HBM的I/O數量和單引腳速率持續提升，導致單位面積產生的熱量越來越大。 以HBM4為例，I/O數量預計達到2048個，單引腳速率也已經提升至8Gbps。 與此同時，HBM封裝高度受到JEDEC規範限制。 HBM3E及之前產品的最大封裝高度約為720μm，HBM4則提升至775μm。 問題在於：高度不能無限增加，但容量和頻寬又必須繼續提升。 因此，下一代HBM真正需要解決的，是“在有限高度內堆更多、更快的DRAM，同時把熱量快速排出去”。 這也是為什麼混合鍵合、iHBM以及新型側向堆疊技術開始受到關注。 二、三星的思路：讓HBM基底裸片越來越像一顆SoC 三星在Hot Chips 2026上提出的核心方向，是Custom-HBM，也就是定製化HBM。 傳統HBM的基底裸片主要負責記憶體控制、PHY介面等功能。 但三星認為，隨著基底裸片與SoC之間的能力差距不斷縮小，未來完全可以讓基底裸片承擔更多功能。 三星計畫針對輝達、AMD等客戶的GPU和NPU需求，對HBM基底裸片進行定製設計。 例如： 提升記憶體頻寬 最佳化能效 增強資料處理能力 調整PHY介面 將部分記憶體控制功能下沉 將部分AI計算任務遷移至HBM基底裸片 其中，一個非常值得關注的方向，就是將原本位於GPU內部的部分記憶體控制和AI計算功能遷移到HBM基底裸片。 這實際上意味著：HBM正在從“高速記憶體”，逐漸向“計算+記憶體融合”的方向演進。 如果未來基底裸片擁有越來越強的計算能力，那麼HBM與GPU之間的邊界也可能進一步模糊。 三、SK海力士的答案：20層HBM之後怎麼辦？ 相比三星強調“計算下沉”，S…</description>
-    </item>
-    <item>
-      <title>野村：市場低估了 CPO應用的進展，scale-up雷射器需求是scale-out 的 5-10倍！</title>
-      <link>https://hao.cnyes.com/post/264822</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/264822</guid>
-      <pubDate>Wed, 26 Aug 2026 03:27:43 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>CPO在 scale-up 網路中的雷射器需求，可能達到 scale-out 的 5-10 倍 光器件及光模組公司 Lumentum 於8月17日舉行投資者說明會，光模組及光器件公司 AAOI於8月18日舉行投資者說明會。Lumentum 表示，以每顆GPU計算，CPO（共封裝光學）中的光器件等雷射產品需求，在 scale-up（主要指機架內部的光連接）場景下預計將是 scale-out（主要指機架之間的光連接）的5-10倍（見圖1）。 考慮到康寧等公司此前已經指出，隨著 scale-up 光互連推進，所需光纖數量將大幅增加（見圖2），這一結論本身並不令我們意外；但它為電線電纜公司在這一領域的巨大商業機會提供了新的證據。在我們覆蓋的三家電線電纜公司中，我們認為住友電工將最受益於CPO在光連接產品和光器件領域應用的擴大（見圖3）。從AAOI的表態來看，我們的印象是，該公司正與多家超大規模資料中心客戶進行較深入的討論，以推動CPO市場擴大。 Lumentum長期合同佔比與住友電工光器件業務並無太大差異 在投資者說明會上，Lumentum表示，長期協議約佔其業務的75%。住友電工在2026年5月12日的業績電話會上表示，約50%的光器件通過LTA供貨，合同期限因客戶而異；在7月31日的業績說明會上，公司進一步預計這一比例將達到60%-70%。我們認為，住友電工光器件業務的LTA佔比與Lumentum相比差異不大。 Lumentum已與三家InP襯底供應商簽訂LTA，並仍在與其他供應商洽談 Lumentum再次表示，公司與一家日本供應商簽訂了為期七年的磷化銦襯底長期協議。InP襯底是光器件的關鍵原材料，且Lumentum佔該日本供應商相當大一部分產能。日本的InP襯底供應商主要有住友電工和JX Advanced Metals兩家；基於圖4和圖5註釋中所列原因，我們認為，與Lumentum簽訂LTA的更可能是住友電工。 住友電工擁有全球最大的InP襯底產量份額，除自用於自身光器件外，也對第三方銷售。我們認為，Lumentum的上述表態意味著，住友電工面向外部客戶銷售的InP襯底中，大部分可能供應給Lumentum。考慮到Lumentum在光器件市場的份額以及住友電工的市場地位，這並不令人意外。 此外，Lumentum也在與現有三家LTA供應商以外的InP襯底生產商進行談判，並表示尤其在開拓中國以外的InP襯底供應來源。基於這一點，我們認為，住友電工和JX Advanced Metals都有可能成為Lumentum在日本的InP襯底供應商。 Lumentum中Google銷售佔比從25/6的15%升至26/6的27% 根據Lumentum於8月17日公佈的26/6財年Form 10-K檔案（第8頁），其最大客戶在26/6財年貢獻了26.6%的銷售額，第二大客戶貢獻16…</description>
-    </item>
-    <item>
-      <title>Linux 35 歲生日快樂！</title>
-      <link>https://hao.cnyes.com/post/264843</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/264843</guid>
-      <pubDate>Wed, 26 Aug 2026 02:22:41 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>8月25日，是Linux發佈35周年紀念日。 1991 年 8 月 25 日，21 歲的芬蘭學生 Linus Benedict Torvalds 在 comp.os.minix 新聞組上發表了他現在著名的聲明，稱他正在開發一款適用於 386 (486) AT 克隆機的免費作業系統，只是出於“愛好”。 但如今，Linux 幾乎無處不在，從Android智慧型手機、Wi-Fi 路由器、智能助手和智能冰箱，到大螢幕電視、衛星和飛機，無一例外。Linux 甚至為整個網際網路、世界排名前 500 的超級電腦、華爾街，乃至國際空間站 (ISS) 提供動力。(firemail)</description>
-    </item>
-    <item>
-      <title>M6來了！剛剛，台積電2nm正式進入蘋果時代！</title>
-      <link>https://hao.cnyes.com/post/264892</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/264892</guid>
-      <pubDate>Wed, 26 Aug 2026 00:54:25 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>剛剛，深科技消息： 台北時間8月25日，蘋果正式發佈新一代M6和M5 Ultra晶片。 但這兩顆晶片並不是用在同一類產品上。 M6主要用於新款Mac mini，定位家庭使用者、學生、開發者、創作者以及端側AI使用者。它是蘋果首款2nm晶片，重點解決的是日常計算、程式碼開發、圖像處理以及本地AI等任務。 而M5 Ultra則用於新款Mac Studio，是蘋果面向專業使用者打造的頂級桌面晶片，主要服務於3D渲染、視訊後期、視覺特效、科學計算、AI模型開發以及本地運行超大規模大語言模型等高負載場景。(Apple) 簡單來說： M6 = 給Mac mini用的2nm高能效晶片。 M5 Ultra = 給Mac Studio用的頂級專業晶片。 一個追求更高性能和能效，一個追求更大的算力、記憶體和本地AI能力。 而這兩款晶片同時發佈，也讓蘋果的晶片戰略變得更加清晰：一邊向2nm先進製程邁進，一邊通過多晶片封裝不斷擴大桌面AI算力。 其中，M6最大的看點只有一個：蘋果首款2nm晶片正式落地。 這不僅意味著蘋果Mac晶片正式進入2nm時代，也意味著台積電2nm先進製程開始真正進入終端產品周期。 與此同時，M5 Ultra採用全新的四晶片架構，將蘋果桌面晶片的性能、記憶體容量和本地AI能力推向新的高度。 對於半導體行業而言，這次發佈的意義甚至不只是“蘋果M6性能提升了多少”，而是幾個關鍵詞同時出現： 2nm、GAA、台積電N2、端側AI、Chiplet、先進封裝、超大統一記憶體。 蘋果正在把下一代Mac，從傳統PC進一步推向AI計算平台。 一、M6到底用在那？蘋果Mac mini首次進入2nm時代 M6並不是一顆單獨存在的晶片，它的首發產品就是新款Mac mini。 也就是說，蘋果這次並沒有把2nm晶片首先放到最高端Mac Studio，而是選擇了體積小巧、覆蓋使用者更廣的Mac mini。 新款Mac mini搭載M6之後，可以承擔日常辦公、網頁瀏覽、圖片編輯、程式碼編譯、檔案處理、創意工作以及端側AI等任務。 蘋果甚至將其定位為一個可以長期運行AI Agent的桌面裝置。 這意味著，Mac mini正在從一台傳統“小型電腦”，逐漸變成蘋果端側AI戰略的重要入口。蘋果官方資料顯示，M6版Mac mini相比M4版，AI性能最高提升4倍，圖形性能最高提升2倍，CPU性能最高提升40%。(Apple) 所以，如果使用者搜尋“蘋果M6用在那”“M6晶片用於什麼產品”“M6搭載那款Mac”“蘋果2nm晶片用於Mac mini嗎”，答案非常明確： M6首發搭載於新款Mac mini。 而這也是蘋果首次把2nm製程帶入Mac產品。 二、M6：蘋果首款2nm晶片 M6採用2nm製程製造，配備12核CPU、12核GPU，以及雙16核神經網路引擎。 相比M5，M6增加了CPU和GPU核心…</description>
-    </item>
-    <item>
-      <title>輝達、SK海力士：必須拿下CPO！</title>
-      <link>https://hao.cnyes.com/post/264773</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/264773</guid>
-      <pubDate>Tue, 25 Aug 2026 10:59:28 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>最近，半導體行業被一個詞攪得發熱——CPO。輝達和SK海力士，一個掐著算力的命門，一個攥著記憶體的咽喉，這次罕見地同時坐不住了。 SK海力士、輝達，加注CPO 近日，SK海力士及其全球研究團隊在《自然·電子學》雜誌上發表了一篇論文。該論文探討了用於高性能計算和人工智慧的共封裝光學器件（CPO）的開發，指出了關鍵的技術挑戰，並概述了下一代光互連技術的發展軌跡。 SK 海力士人工智慧基礎設施團隊負責人洪承勳和弗吉尼亞大學（UVA）電氣與電腦工程系李奎相教授擔任通訊作者，領導了一項與伊利諾伊大學厄巴納-香檳分校（UIUC）、南洋理工大學（NTU）、麻省理工學院（MIT）和延世大學的研究人員合作的研究。 從更廣泛的層面來看，該論文提出了一個全面的技術路線圖，闡述了記憶體器、先進封裝和光計算互連（OCI）應如何協同演進以支援下一代人工智慧系統。至關重要的是，它還展示了SK海力士如何超越HBM創新，在系統層面幫助定義下一代人工智慧基礎設施的架構。 與此同時，研究人員為下一代人工智慧基礎設施設定了明確的技術目標，包括每個節點超過 100 Tb/s 的頻寬、低於 1 pJ/bit 的能耗以及小於 10 納秒的晶片間延遲。該論文還提出了一個全面的技術路線圖，概述了從基於 2D 和 2.5D 中介層的配置到 3D 異構堆疊的演進過程，以及商業部署必須解決的關鍵技術挑戰。 無獨有偶，8月14 日，輝達正式宣佈 SpectrumX Ethernet Photonics 共封裝光學交換機進入全面量產階段，面向AI 工廠，打造下一代大規模擴展網路基礎設施，這是全球首款量產級200G/lane共封裝光學交換機系統。輝達官方資料顯示，對比傳統可插拔光模組方案，它可實現 5 倍網路功耗效率提升、5倍 AI 應用不間斷執行階段長提升，平均故障間隔時間 MTBF 更是拉長 10 倍，大幅改善超大規模 AI 叢集網路的功耗與可靠性短板。 CPO忽然成了SK海力士和輝達共同押注的方向，這不是巧合。背後的推力只有一個：資料中心撐不住了。 資料中心，需要CPO了 最早一代資料中心內部互連大量使用銅纜 DAC 直連，交換晶片依靠 OSFP、QSFPDD 連接器接入 DAC 電纜，以純電氣訊號完成短距離傳輸。銅纜方案優勢突出：成本低廉、部署簡單，不需要光電轉換器件，短距離場景功耗可控。但短板同樣致命，高速訊號下銅線衰減嚴重，傳輸距離大多僅有數米，頻寬提升之後功耗快速走高，完全無法適配高密度、超大頻寬的 AI 算力叢集，如今已經逐步被光學互連替代。 之後行業全面進入可插拔光模組時代，也就是現在產業的主流狀態。 交換晶片板卡通過 OSFP、QSFPDD 連接器，外接獨立的可插拔光收發模組，再通過光纖完成遠距離訊號傳輸。可插拔光模組最大優勢就是靈活：支援熱插拔，故障之後直接更換模組即可恢復業務，升級迭代也十分方…</description>
     </item>
   </channel>
 </rss>
