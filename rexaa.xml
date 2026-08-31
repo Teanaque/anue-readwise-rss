@@ -5,8 +5,26 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:55:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:19:55 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>追覓起訴小紅書；Claude遭大規模盜號，大批使用者被強制註銷；李國慶回應賣掉噹噹股份做公益；張雪為香港車主交付新車丨邦早報</title>
+      <link>https://hao.cnyes.com/post/265351</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/265351</guid>
+      <pubDate>Mon, 31 Aug 2026 01:19:55 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>AI新聞概覽 騰訊、阿里等押注“揣摩人心”的智能體，Agent Memory從技術概唸成長為行業賽道 Claude遭大規模盜號，大批使用者被強制註銷 蘋果葛越：對貴安資料中心追加投入達數十億美元，已實現100%由可再生能源驅動 OpenAI搶購數萬台Mac mini 特斯拉車機系統有望接入Grok Bot，打造移動AI工作站 報告稱AI公司每賺100美元近40美元流向雲巨頭 【追覓起訴小紅書】記者查詢法院開庭資訊得知，追覓科技（蘇州）有限公司因名譽權糾紛起訴行吟資訊科技（上海）有限公司（小紅書國核心心營運主體公司），該案將於9月8日在上海市黃浦區人民法院開庭。（第一財經） 【Claude遭大規模盜號，大批使用者被強制註銷】8月31日消息，Anthropic突發大規模帳號安全事件，大批Claude使用者被強制註銷。就在這兩天，大批Claude使用者發現：沒有任何封號預警，自己的帳號忽然就被強制下線了。甚至，連後台繫結的Visa、Mastercard等付款方式，都被官方緊急清空。官方建議：若額度無故恢復又迅速耗盡，即為中招跡象。受害使用者多因下載破解軟體感染木馬。有使用者用Claude Opus 5逆向查殺病毒成功，但專家仍建議重灌系統。黑產已轉向“偷算力”，務必警惕不明檔案，及時撤銷活躍會話。（新智元） 【騰訊、阿里等押注“揣摩人心”的智能體，Agent Memory從技術概唸成長為行業賽道】同樣是使用Claude，面對“該不該給5000萬美元”的個人感情抉擇，有人得到“不給”的建議，有人卻得到“給”。智能體有不同“性格”，關鍵在Memory（記憶）。長期使用中，智能體積累使用者記憶，越來越“揣摩人心”——瞭解使用者習慣、決策方式，無需反覆解釋。這被稱為“養成”或“調教”。比爾·蓋茲、祖克柏等科技大佬都認為，未來每個人都會擁有AI智能體。過去大模型學習網際網路知識，而智能體“上班”後，如何保存記憶、提煉經驗成為關鍵。因此，Memory賽道創業公司持續獲融資，騰訊等雲廠商將其做進基礎設施，商湯等大模型公司加速推向產品底層。（每日經濟新聞） 【蘋果葛越：對貴安資料中心追加投入達數十億美元，已實現100%由可再生能源驅動】在2026中國國際巨量資料產業博覽會上，蘋果副總裁葛越表示，蘋果在華開展業務已超30年，App Store生態系統在中國促成的開發者營業額和銷售額過去6年翻超一番。貴州投資方面，蘋果2018年對iCloud貴安資料中心首期投資10億美元，此後持續追加達數十億美元規模。該中心自2021年投運以來，已實現100%可再生能源驅動。（新浪科技） 【榮耀機器人閃電首次出海，成為馬來西亞馬拉松首位機器人參賽選手】據榮耀全球首席行銷官關海濤8月30日透露，榮耀機器人閃電繼打破人類百米、半馬紀錄後首次出海，亮相馬來西亞馬拉松，成為賽事歷史上第一位機器人參賽選手。…</description>
+    </item>
+    <item>
+      <title>HBM不只是堆DRAM：三星從Custom HBM到zHBM，推動Memory + Logic + Compute全面融合！</title>
+      <link>https://hao.cnyes.com/post/265359</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/265359</guid>
+      <pubDate>Mon, 31 Aug 2026 00:46:10 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>隨著AI大模型持續向更大參數、更長Context Window和更高推理吞吐演進，HBM正在從“拼頻寬”進入一場更深層次的架構革命。 🔷4nm Base Die推動Memory Controller、RAS與PE全面整合 🔷從Custom HBM到zHBM，xPU與DRAM最終走向3D垂直融合 看完三星這份關於 HBM Base Die 的最新技術報告後，我發現一個非常重要的趨勢正在浮現：未來HBM的競爭，可能不再只是DRAM堆多少層、頻寬做到多少TB/s，而是Base Die究竟能夠承載多少邏輯與計算功能。 從4nm先進邏輯工藝匯入HBM4 Base Die，到Memory Controller、RAS、Memory Extension甚至Processing Element逐步下沉，再到最終通過 WoW + Hybrid Bonding 實現xPU與DRAM的3D垂直融合，三星實際上勾勒出了一條非常清晰的路線：Standard HBM → Custom HBM → Advanced HBM → zHBM。未來的HBM，正在從單純的高頻寬記憶體器，向“Memory + Logic + Compute”深度融合的AI系統級晶片演進。 一、這份材料真正想說明什麼？ 核心並不是單純討論 HBM4/HBM5 頻寬繼續提升，而是在提出一個更重要的架構變化，隨著 HBM Base Die 從傳統 DRAM 工藝轉向先進邏輯工藝，Base Die 將從一個主要承擔 PHY、TSV 和測試功能的“被動底層晶片”，逐漸升級為具備 Memory Controller、RAS、外部記憶體擴展甚至計算能力的“主動邏輯晶片”，最終推動 HBM 從 Standard HBM → Custom HBM → Advanced HBM → zHBM 演進，並走向 xPU 與 DRAM 的真正3D融合。 二、為什麼HBM Base Die必須轉向先進邏輯工藝？ 傳統 HBM 主要由兩部分組成： Core Die（C-die）負責 DRAM Cell 和 Core； Base Die（B-die）負責 HBM PHY、TSV通訊以及測試等功能。 目前 HBM 頻寬持續快速增長，xPU 與 HBM 之間已經達到 1–2K I/O、單I/O 8–16Gbps、整體約1–5TB/s 的資料傳輸規模。 但繼續提高頻寬開始遇到兩個核心瓶頸：TSV數量/Pitch極限 + Base Die PHY I/O數量和速度極限。更重要的是，即使每bit能耗不斷降低，HBM整體功耗仍然持續上升。 因此三星認為，從 HBM4開始，Base Die採用先進Logic Process已經成為抑制功耗增長的關鍵技術。 三星在HBM4中採用D1c DRAM Core Die + Logic 4nm Base Die，其…</description>
+    </item>
     <item>
       <title>HBM也扛不住了！三星揭開下一代AI晶片散熱革命</title>
       <link>https://hao.cnyes.com/post/264890</link>
@@ -96,24 +114,6 @@
       <author>RexAA</author>
       <category>科技</category>
       <description>AI Agent 的下一步是什麼？ 史丹佛的答案是：讓 AI 學會自己改進自己。 這門課是 CS329A《Self-Improving AI Agents（自改進 AI 智能體）》，於 2025 年秋季學期開設。課程不再只討論如何把 Agent 做出來，而是追問一個更難的問題：模型訓完以後，能不能通過搜尋、驗證和環境反饋，繼續變強？ 現在，課程首頁、論文閱讀清單和官方錄影都已經線上公開！ 課程首頁：https://cs329a.stanford.edu/官方視訊列表：https://www.youtube.com/playlist?list=PLangBM27OtEA 課程由 Aakanksha Chowdhery 和 Azalia Mirhoseini 共同講授。 Aakanksha Chowdhery 是史丹佛大學兼職教授。在Google期間，她曾任 540B 參數 PaLM 模型的技術負責人，並參與 Gemini、PaLM-E、Med-PaLM 和 Pathways 等項目。她的研究橫跨大模型訓練、擴展律與分佈式系統。 Azalia Mirhoseini 是史丹佛大學電腦科學助理教授，負責 Scaling Intelligence Lab。她曾在 Google Brain、Google DeepMind 和 Anthropic 工作，參與過 Gemini 和 Claude 的開發。 課程還邀請了多位學界和產業界講者，主題落在 LLM 推理、編碼 Agent、數學證明、自主系統和機器人等方向。公開課表中包括 Google DeepMind 的 Melvin Johnson、Denny Zhou 和 Thang Luong，Reflection AI 的 Misha Laskin，以及 Physical Intelligence 的 Danny Driess 等一眾行業大佬！ 從大模型講起，首個教「自改進 Agent」的課 過去幾年，大模型的進步主要靠更多資料、更大參數和更多訓練算力。CS329A 關心的是另一個問題：模型已經訓完之後，能不能通過搜尋、驗證、工具呼叫、環境反饋和強化學習，在任務中繼續變強？ 這裡的「自改進」不是讓 Agent 隨意改自己的程式碼。CS329A課程更關心一個可操作的閉環：模型先生成多個候選答案，用驗證器或環境反饋找出更好的結果，再把這些結果變成新的訓練訊號。它既可以發生在推理時，也可以發生在訓練時。 課程從 LLM 自改進方法講起，包括 Constitutional AI、驗證器、測試時算力擴展、搜尋與 LLM 的結合，以及通過強化學習擴展訓練。後半程轉向工具、程式碼、記憶、多模態互動、多步規劃和 Agent 評估。 課程內容 CS329A 持續約 10 周，課程表共有 20 次課。 前半程從測試時算力擴展開始。模型一次生成…</description>
-    </item>
-    <item>
-      <title>Dylan Patel：兩家 AI 實驗室將掌控全球大部分勞動力,AI 擴張最終會撞上能源、信貸與政治邊界</title>
-      <link>https://hao.cnyes.com/post/264893</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/264893</guid>
-      <pubDate>Wed, 26 Aug 2026 10:10:24 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>一、AI 實驗室的算力與收入拐點 主持人： 今天再次請到 SemiAnalysis 創始人 Dylan Patel。我們所謂的“家庭感恩節聚餐”，其實就是每年錄一期播客。當然，我們並沒有親屬關係，別讓大家知道，否則這個傳說就破滅了。 全球經濟的走向，正越來越取決於 AI 實驗室的經濟模型、算力市場的演變，以及與之相關的一切。我想理解幾年之後，這個瘋狂的未來會走向何方。不過先從當下說起。請介紹一下目前 AI 實驗室的算力和收入情況，並展望未來一兩年。 Dylan： 回看去年，即使到了年末，美國 GDP 增長中的很大一部分也來自 AI 基礎設施。 今年新增的算力中，大約三分之一最終供 OpenAI 和 Anthropic 使用。這些基礎設施可能由其他公司建設，再出租給它們，但最終客戶仍然是這兩家實驗室。 未來的算力數字還會迅速膨脹。今年的資本開支略高於 1兆美元，到 2028 年將超過 2兆美元，而實驗室佔據的比例也在不斷上升。 最終會出現一個非常有意思的局面：這些實驗室的年度支出將從數百億美元升至數千億美元。根據它們已經開始與合作夥伴簽署的部分合同，即使只看到本十年末，年度支出預測也會達到數兆美元。 這要求它們的經濟模型發生重大變化。此前，它們基本都是持續虧損的公司。Anthropic 在第二季度開始實現盈利。外界認為，隨著 Codex、5.6 等產品進一步增長，OpenAI 也可能在第三季度的某個時點開始盈利。 但如果回到一年前，它們的虧損完全由風險資本提供資金。即使今年年初，情況仍然如此。現在它們已經越過拐點，開始真正盈利。 這並不意味著它們不再接受新資本。新資本仍在流入，用於進一步加速增長，但越來越多的業務支出將由自身收入提供，而不是完全依靠外部注資。 過去一年半，它們的利潤率大幅提高。算力的基礎成本通常約為每兆瓦 1,000 萬至 1500萬美元。 最值得關注的變化是：過去，OpenAI 使用 輝達 Hopper GPU 提供 GPT-4 推理服務時，毛利率還是負數。現在，無論是 OpenAI 提供 GPT-5.6，還是 Anthropic 提供 Opus 5 或 Fable 5，每兆瓦產生的收入都已遠遠超過新增算力每兆瓦 1,000 萬至 1500萬美元的成本。 Anthropic 的收入甚至達到過每兆瓦 5000萬美元。這意味著，如果它花 10 美元建設推理容量，就能產生 50 美元收入，然後將由此獲得的全部增量利潤投入訓練。 二、兩家實驗室走向全球算力中心 主持人： 我非常想知道，你如何看待算力向少數實驗室集中，以及全球其他主體和實驗室之間的算力佔比變化。 如果目前三分之一的新增算力流向這些實驗室，那麼什麼時候會有超過一半的全球新增算力流向它們？又到什麼時候，它們會擁有全球絕大多數算力？ Dylan： 今年年初，OpenAI 擁有 2 吉瓦算力…</description>
-    </item>
-    <item>
-      <title>HBM大戰：進入“封裝決勝”時代！</title>
-      <link>https://hao.cnyes.com/post/264785</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/264785</guid>
-      <pubDate>Wed, 26 Aug 2026 10:07:23 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>HBM5大戰提前打響：SK海力士押注混合鍵合，三星把GPU功能“下沉”到HBM 三星：矽通孔（TSV）和物理層（PHY）輸入輸出介面，是制約記憶體頻寬（每秒傳輸的資料量）進一步提升的主要瓶頸。 AI晶片的競爭，正在從GPU算力一路延伸到HBM。 在Hot Chips 2026大會上，三星電子與SK海力士分別給出了下一代HBM的技術路線：三星重點推進定製化HBM和基底裸片，讓部分記憶體控制與AI計算功能向HBM內部遷移；SK海力士則將重點放在20層以上堆疊、iHBM散熱以及混合鍵合技術上。 與此同時，韓國V-Die、日本MOSAIC等新型記憶體架構也開始嘗試打破傳統HBM“垂直堆疊”的路徑。 這意味著，HBM4之後，真正的技術競爭可能不再只是“堆多少層、跑多快”，而是進入“怎麼堆、怎麼散熱、怎麼連接”的新階段。 一、HBM的真正瓶頸，已經從容量轉向散熱和互連 過去幾年，HBM最大的優勢就是高頻寬。 通過TSV（矽通孔）把多層DRAM垂直堆疊，再通過先進封裝與GPU連接，HBM能夠提供TB/s等級的資料頻寬。 但AI算力不斷提升後，HBM也開始遇到新的“牆”。 一方面，堆疊層數越來越高。另一方面，HBM的I/O數量和單引腳速率持續提升，導致單位面積產生的熱量越來越大。 以HBM4為例，I/O數量預計達到2048個，單引腳速率也已經提升至8Gbps。 與此同時，HBM封裝高度受到JEDEC規範限制。 HBM3E及之前產品的最大封裝高度約為720μm，HBM4則提升至775μm。 問題在於：高度不能無限增加，但容量和頻寬又必須繼續提升。 因此，下一代HBM真正需要解決的，是“在有限高度內堆更多、更快的DRAM，同時把熱量快速排出去”。 這也是為什麼混合鍵合、iHBM以及新型側向堆疊技術開始受到關注。 二、三星的思路：讓HBM基底裸片越來越像一顆SoC 三星在Hot Chips 2026上提出的核心方向，是Custom-HBM，也就是定製化HBM。 傳統HBM的基底裸片主要負責記憶體控制、PHY介面等功能。 但三星認為，隨著基底裸片與SoC之間的能力差距不斷縮小，未來完全可以讓基底裸片承擔更多功能。 三星計畫針對輝達、AMD等客戶的GPU和NPU需求，對HBM基底裸片進行定製設計。 例如： 提升記憶體頻寬 最佳化能效 增強資料處理能力 調整PHY介面 將部分記憶體控制功能下沉 將部分AI計算任務遷移至HBM基底裸片 其中，一個非常值得關注的方向，就是將原本位於GPU內部的部分記憶體控制和AI計算功能遷移到HBM基底裸片。 這實際上意味著：HBM正在從“高速記憶體”，逐漸向“計算+記憶體融合”的方向演進。 如果未來基底裸片擁有越來越強的計算能力，那麼HBM與GPU之間的邊界也可能進一步模糊。 三、SK海力士的答案：20層HBM之後怎麼辦？ 相比三星強調“計算下沉”，S…</description>
     </item>
   </channel>
 </rss>
