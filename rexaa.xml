@@ -44,6 +44,33 @@
       <description>過去三天，全球三家頭部模型公司接連更新了自己的前沿模型。 圖片由AI生成 9月1日，Anthropic發佈Claude Fable 5.1；9月2日，Google發佈Gemini 3.8 Flash；一天之後，OpenAI發佈GPT-6 Astra。 重點依然是更強的Coding、更複雜的推理、更長時間的Agent任務，但是背後還有一個更值得關注的趨勢，Computer Use、Browser和Tool Use，越來越成為一套統一的環境互動能力。 以前，AI如果想呼叫一個軟體，大致有三種辦法：軟體提供API，模型呼叫工具；軟體運行在網頁裡，AI操作瀏覽器；第三種，像人一樣看螢幕、點滑鼠、敲鍵盤。 但是在過去很長時間裡，最後一種方法都是不得已的選擇。API更快、更穩定，也更容易控制權限，Computer Use緩慢、容易出錯，介面稍微複雜一點，任務走上幾十步就可能失敗。 GPT-6 Astra發佈之後，把Astra定位為“全球最強的電腦使用模型”，Computer Use不再是一種不得已的“兜底能力”，甚至能順暢呼叫專業度很高的軟體。 01 Computer Use開始“能用”了 OpenAI早在2025年的Operator中就展示過Computer Use。當時模型通過視覺理解網頁，再模擬滑鼠和鍵盤完成訂餐、購物、填寫表格等任務。 但是當時的問題是，“能操作”和“能工作”之間還有很大的距離。 早期Computer Use完全不可靠。真正的需要Agent操作電腦的任務，一般都是多個步驟，中間一次誤點、一個彈窗或者一次狀態判斷錯誤，都可能讓整個任務前功盡棄。另外就是很慢，一個任務能讓人等得完全失去耐心。 在測試模型能否在真實桌面環境中完成跨應用操作任務的 OSWorld 2.0 上，Astra達到72.6%，此前的GPT-5.6 Sol為65.7%；在更側重螢幕視覺定位和精準點選能力的 ScreenSpot-Pro 上，Astra從Sol的76.9%提升到92.7%。 從速度上來看，OpenAI稱，在OSWorld模擬環境中，Astra完成任務平均需要約40分鐘，GPT-5.6 Sol約為75分鐘。 Computer Use第一次開始同時提高成功率和執行效率。 比如， OpenAI給到的官方案例。遊戲公司Playco正在把Astra接入自己的AI開發工具Playbot。模型可以直接進入Unity、Godot這樣的遊戲引擎，修改場景、運行遊戲、測試結果，發現問題以後繼續修改。Playco稱，相比此前使用的模型，人工修複次數減少了50%。 Playco聯合創始人Teddy Cross評價Astra時特別提到，它“much better at reasoning about space and positioning elements（它對空間關係的理解，以及對介面…</description>
     </item>
     <item>
+      <title>“歡迎來到AGI時代”：OpenAI發佈GPT-6 Astra</title>
+      <link>https://hao.cnyes.com/post/265792</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/265792</guid>
+      <pubDate>Fri, 04 Sep 2026 10:52:07 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>“歡迎來到AGI時代。” OpenAI聯合創始人兼總裁Greg Brockman用這句話，為GPT-6 Astra的發佈收尾。 美國當地時間9月3日，OpenAI正式發佈GPT-6 Astra。相比此前主要負責回答、生成和呼叫工具的模型，Astra更進一步開始持續執行完整任務，從接收指令、操作軟體，到根據結果調整下一步動作。這也是OpenAI此次重提“AGI時代”的原因之一。 OpenAI聯合創始人兼CEO山姆·奧特曼。圖片由AI生成 OpenAI把Astra定位為“全球最強的電腦使用模型”。這種能力已經從瀏覽器、郵件和表格等簡單任務，延伸到Power BI、KiCad、FreeCAD等專業軟體，開始進入資料分析、工程設計、軟體測試和故障排查等更複雜的工作流程。 OpenAI展示的視訊裡，Astra可以從一個簡單的圖形開始，繼續完成3D遊戲、商品頁面等工作。OpenAI還給出了電路板設計、Blender建模、法律文件、Excel和科學分析等案例。 OpenAI這次公佈的大量基準成績，能力提升集中出現在電腦操作、長程編碼、工程設計和科學研究這些需要連續行動的任務上。Astra在ExploitBench達到100%，在電腦操作和CAD等測試中也明顯超過上一代模型。 目前Astra已經向部分組織開放，未來幾天將陸續面向ChatGPT Plus、Pro、Business和Enterprise使用者，也可通過OpenAI API和Amazon Bedrock使用。標準API價格為每百萬輸入Token 10美元、每百萬輸出Token 50美元，是GPT-5.6 Sol的2.5倍。 01. 先讓AI學會“用電腦” Astra強調的最大變化，是“使用電腦”。過去使用者讓AI完成工作，通常還要把AI接入具體軟體。企業需要開發API、外掛、檢索系統和各種連接器，模型才能呼叫內部工具。 Astra試圖繞開其中一部分工作。它可以直接看到電腦介面，通過滑鼠、鍵盤和瀏覽器完成操作。OpenAI給出的例子包括填寫線上表格、更新CRM客戶記錄、安排日曆、搜尋網頁，並把搜尋結果整理成郵件或文件。 它還能打開Python筆記本分析科學資料，在Power BI中處理資料，使用KiCad和FreeCAD完成工程設計，建立網站並進行前端測試，也可以安裝軟體、檢查錯誤並處理螢幕上出現的問題。 OpenAI展示了Astra在KiCad中完成PCB佈局。模型從電子原理圖開始，把元件放到電路板上，再完成銅線布線。整個過程被壓縮成15秒。對於工程師來說，這類工作過去需要手動完成，現在可以交給模型執行。 另一個演示是在Blender和Unreal Engine5中完成3D建模。Astra先在Blender裡建立一棟房屋，再把模型轉換成Unreal Engine5中的可步行場景，設計師和客戶可以提前進入場景查看…</description>
+    </item>
+    <item>
+      <title>GPT-6、Gemini、Muse密集迭代，大模型王座不再穩固</title>
+      <link>https://hao.cnyes.com/post/265833</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/265833</guid>
+      <pubDate>Fri, 04 Sep 2026 10:49:07 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>▎OpenAI在發佈說明裡點明，這次上線是一整套全新系統首次在真實生產環境中整體運轉，為此團隊正在調集大批計算資源、擴充推理能力。 兩天之內，三場前沿發佈，最快的一次反超只用了五小時。 9月4日，OpenAI宣佈開始分批次發佈GPT-6 Astra，優先向全部Plus使用者開放，官方口徑是穩妥與速度並重，整個發佈預計數天內完成。而就在兩天前，9月2日，Google與Meta同日各放一款新模型。Google端出Gemini 3.8 Flash，這是它六周內第三款Flash；Meta端出Muse Spark 1.3，這是它五個月內第四款Spark。Meta新模型上線數小時後，即在Artificial Analysis智能指數上反超Google同日新品。兩場發佈之間，只隔了四十八小時。 放在兩年前，一款旗艦發佈足以佔據一周頭條。如今，前沿模型的保鮮期被壓縮到以小時計。這並非某一家公司的困境，而是一個更冷的訊號。大模型智能本身，正在變成一種可以被快速複製、快速刷新的商品。誰先發佈、誰更便宜、誰更垂直，正在取代“誰最強”，成為更值錢的三個問題。 兩條路線，同榜撞車 先看Google。Gemini 3.8 Flash每百萬token輸入0.75美元、輸出3.75美元，與三周前的3.7 Flash持平。但TestingCatalog的日報標註得更準確，這是12月31日前的入門價，不是永久定價。Google沒有把低價當成長期承諾，而是當成換取市場份額的限時籌碼。 按Google官方自測表，3.8 Flash在每一項都壓過3.7 Flash。長周期軟體工程測試DeepSWE v1.1從65.3%升至73.7%，終端基準Terminal-bench 2.1從85.8%升至89.4%，OSWorld-2.0從50.6%跳到59.0%，金融智能體基準Vals Finance Agent v2從59.0%升至61.4%，HLE-Verified從53.6%升至54.9%。單看這一串數字，這是一次標準而全方位的分數抬升。 更具參照價值的是它同旗艦級模型的對比。Google自測表裡，3.8 Flash在DeepSWE v1.1上拿到73.7%，距Claude Opus 5的74.0%僅差0.3個百分點；HLE-Verified的54.9%，壓過Opus 5的54.4%和GPT-5.6 Sol的54.5%。而Opus 5每百萬token輸出價25美元，是3.8 Flash的近七倍。一款Flash檔模型，在數個硬核基準上逼近甚至追平售價25美元輸出價的旗艦，這才是這條新聞真正的份量。 再看Meta。Muse Spark 1.3在Artificial Analysis智能指數上拿到62分，僅次於Claude Fable 5.1（66分）與Claude Opus 5（63分），位居全場第三。這…</description>
+    </item>
+    <item>
+      <title>「歡迎進入AGI時代」！OpenAI發佈GPT-6 Astra，10萬GPU訓練，網安能力首達「關鍵」級</title>
+      <link>https://hao.cnyes.com/post/265769</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/265769</guid>
+      <pubDate>Fri, 04 Sep 2026 10:46:06 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>Astra API定價10美元/百萬輸入Token、50美元/百萬輸出Token，約為GPT-5.6 Sol的2.5倍。OpenAI稱，Astra首次達到公司內部「關鍵」網絡安全能力門檻，模型已能在較少人類干預的情況下識別此前未知的軟件漏洞，並開發相應的漏洞利用方式，但最強功能暫不全面開放。 美東時間9月3日周四，OpenAI正式發佈新一代旗艦模型GPT-6 Astra，並將其稱為一次「代際躍遷」。OpenAI總裁Greg Brockman更進一步表示，人們未來或許會回頭將「這個時間、這個模型」視為人工通用智能（AGI）到來的節點，並在發佈會最後稱：「歡迎進入AGI時代。」 Astra的核心變化不只是回答問題的能力更強，而是能夠直接操作計算機和軟件，替用戶完成編程、科學研究、金融建模、製作簡報和電子表格等複雜任務。OpenAI稱，Astra在軟件工程、科學、推理、計算機操作和網絡安全等領域均取得領先表現，並使用超過10萬塊GPU在德州Stargate基地完成訓練。 與此同時，Astra也是OpenAI首個達到內部「關鍵」（Critical）網絡安全能力門檻的模型，意味著它已經具備發現此前未知漏洞、開發漏洞利用程序的能力。出於安全考慮，OpenAI對其最先進的網絡安全能力設置了更嚴格的訪問限制。 從聊天機器人到「數字員工」：Astra直接進入軟件環境 Astra最明顯的變化，是AI開始從「提供答案」進一步轉向「完成任務」。 OpenAI展示的能力包括在軟件環境中製作電子表格和簡報、進行金融建模、搭建3D環境、設計電路板，以及處理報稅表等複雜工作。 模型尤其擅長操作計算機，可以根據用戶提出的目標，自主完成一系列此前需要人類在不同軟件之間切換、執行的步驟。OpenAI總裁Brockman表示，Astra代表著「人們可以委託給AI的工作類型」發生了真正變化。 這意味著AI競爭的衡量標準正在發生變化：從模型能否生成更好的文字、代碼和圖片，逐漸轉向模型能否獨立完成一項完整工作。 OpenAI也因此將Astra視為邁向AGI的重要一步。Brockman認為，Astra存在「質的提升」，但他同時表示，是否達到AGI，可以留給外界自行判斷。 10萬GPU押注規模化訓練，推理與長任務能力同步升級 Astra背後是OpenAI迄今規模最大的訓練投入之一。 OpenAI稱，Astra在德州Stargate基地使用超過10萬塊GPU進行訓練。公司表示，模型不僅在推理能力上有所提升，還能夠承擔持續時間更長、步驟更多的複雜任務。 其中，計算機操作能力成為Astra的重要賣點。它能夠在真實的軟件環境中執行任務，而不只是給用戶提供操作建議。 這使得Astra與傳統聊天模型之間的差異進一步擴大：用戶不再需要把一個複雜目標拆成幾十個指令逐步交給AI，而是可以直接提出最終目標，由模型自行完成更多…</description>
+    </item>
+    <item>
       <title>OpenAI扔出王炸！GPT-6 Astra凌晨空降，多項跑分逼近滿分、還能自己建模、查系統漏洞...</title>
       <link>https://hao.cnyes.com/post/265834</link>
       <guid isPermaLink="true">https://hao.cnyes.com/post/265834</guid>
