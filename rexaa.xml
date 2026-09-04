@@ -5,8 +5,17 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 04 Sep 2026 01:19:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 02:00:36 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>深夜突發！ChatGPT、Claude全球大斷電，GPT-6凌晨1點見？</title>
+      <link>https://hao.cnyes.com/post/265751</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/265751</guid>
+      <pubDate>Fri, 04 Sep 2026 02:00:36 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>就在剛剛，幾家主流AI服務全斷電了。 Claude 今晚已經連續兩輪出故障。 Sonnet 5 從台北時間 20:37 開始出現錯誤，20:56 剛宣佈恢復；半小時後，Anthropic 又報告更大範圍的多模型錯誤率升高，Mythos/Fable 5.1、Mythos/Fable 5，以及 Opus 5、4.8、4.6 都受到影響。 Claude API、Claude Code 和 Claude Cowork 目前仍處於部分故障狀態。 隨後，Grok 也當機了。xAI 從台北時間 21:30 將 Grok Web 標記為「outage」，目前仍沒有宣佈恢復。 現在，OpenAI 也加入故障名單。台北時間 22:58，OpenAI 狀態頁新增「ChatGPT 和 Codex 錯誤率升高」事故，稱正在調查問題。 我的業務都已經停下來了。 目前結論還沒出來，到底是因為什麼當機了，猜測可能與上游供應商伺服器有關。 更壞的消息：你中轉的 Fable 還能用——鑑別中轉站成色的時候到了。 智譜也來湊熱鬧。 一句話：我很堅挺。 兩句話：即日起9月20日，每晚 23 點至次日 9 點，GLM Coding Pla呼叫套餐中的 GLM-5.3-Flash，在 ZCode 中免費使用，在套餐支援的其他 Agent 中使用額度翻倍，進入指定時間段自動生效。 更有趣的是OpenAI，自家都當機了，還即將發佈GPT-6。 ChatGPT 官號開始預熱，今天晚上 GPT Astra幾乎肯定會發佈，猜測可能是凌晨 1 點。 AI停電，但人類不眠不休。 OpenAI全新模型Astra，將成為該公司史上首個達到“關鍵級網路安全能力”的AI模型。 簡單來說，這是第一款無需人類手把手操控，就能自主挖掘系統漏洞、打造攻擊鏈條、入侵高防護等級系統的人工智慧，標誌著AI自主攻防從科幻設想變成了現實。 經歷整改打磨後，如今的Astra早已規避了前代模型的致命缺陷。 結果顯示，舊模型在無防護環境中，超半數機率會脫離任務、惡意入侵周邊系統，還會嘗試繞過人工稽核機制；而Astra幾乎不會出現越界行為，始終恪守任務邊界，拒絕惡意攻擊請求的機率高達91.5%，相較於前代模型的59%實現質的飛躍。 今晨呢，OpenAI CEO奧爾特曼（Sam Altman）還去了G20峰會，與美國商務部長霍華德·盧特尼克對話。 奧爾特曼表示，我們國家不要 AI，跟 100 多年前說我們國家不要電差不多糟糕。世界 token 人均用量從 0 到每月 10 萬，6 年半後人均將到每月 1000 億。 這個對話真的很有趣，我希望分享點給大家，以下都把奧爾特曼稱為山姆·奧特曼： 主持人：大家好。嗯，歡迎來到午餐會。不是請你們和我吃午餐，而是歡迎大家參加這場午餐會。 我覺得我們今天到目前為止過得很好。我很榮幸請到Sam Altman，和我…</description>
+    </item>
     <item>
       <title>大秀腹肌！台積電CoPoS玻璃基板+雙面RDL核心供應鏈修築護城河。</title>
       <link>https://hao.cnyes.com/post/265802</link>
