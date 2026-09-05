@@ -5,8 +5,71 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 05 Sep 2026 04:31:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:46:25 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>普華永道：全球資料中心未來25年投資規模或達32兆美元</title>
+      <link>https://hao.cnyes.com/post/265953</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/265953</guid>
+      <pubDate>Sat, 05 Sep 2026 08:46:25 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>普華永道最新報告顯示，全球資料中心建設正進入歷史性擴張期，預計未來 25 年相關累計投資規模約達 32 兆美元；截至 2030 年的未來 5 年，全球資料中心投資規模預計約為 5.1 兆美元。 普華永道指出，AI 需求增長使資料中心建設面臨電力、裝置、製冷、機架、施工及交付等多方面瓶頸，真正的挑戰不僅是資本投入規模，而是能否將這些投資轉化為可靠、可實際使用的兆瓦級算力。報告認為，隨著 AI 基礎設施建設規模持續擴大，行業需要更加統一的全端式協調和交付模式，以降低不同環節之間的銜接風險。 此外，普華永道認為，全端式資料中心協調方可能在整個項目支出中獲得約 5% 至 8% 的價值。按照 2030 年前預計 5.1 兆美元的累計投資規模計算，這一市場對應的潛在機會約為 2550 億至 4080 億美元。 (億執科技)</description>
+    </item>
+    <item>
+      <title>黃仁勳與楊小凱</title>
+      <link>https://hao.cnyes.com/post/265912</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/265912</guid>
+      <pubDate>Sat, 05 Sep 2026 08:40:25 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>輝達在幹什麼？ 它試圖為AI產業鏈融資。2026年8月，輝達聯合Apollo、BlackRock、Blackstone、Brookfield、高盛和KKR，擬建立融資平台，長期撬動超過5000億美元第三方資金。 它為上游托底。資料顯示，截至2026年7月，輝達採購承諾從上一季度的1190億美元升至2790億美元，主要增量來自記憶體。 它還向下游注入信用。資料顯示，截至7月26日，輝達應收帳款631億美元，應付帳款151億美元，差額480億美元。銷售回款天數由上一季度的45天升至60天。公司披露，對部分投資級客戶提供90天至一年的付款期限，以配合大型資料中心建設。這一操作與中國大廠完全相反。 對上游記憶體廠商承諾高價採購和需求擴張，對下游雲廠商提供照付不議和最低收入承諾，輝達為此犧牲部分利潤率。公司預計毛利率將從二季度的75%降至四季度的71%—72%，之後隨著已執行提價生效，回到72%—73%。 具體事件：輝達為SB Energy俄亥俄州項目提供分階段生效的擔保，最大名義敞口1050億美元；購買聯發科發行的35億美元可轉債，合作範圍覆蓋雲端AI、端側計算和汽車。 輝達像是一個AI產業鏈的組織者和“准央行”。它正在利用自己的信用為產業鏈創造流動性，將融資信用傳遞給供應商、AI實驗室、雲廠商和資料中心項目；同時，它提供長期訂單、信用和技術標準，提高產業鏈的穩定性。 不過，市場一直為輝達的“循環融資”和過度擔保感到擔憂。 問題來了，這樣的輝達，更強大還是更脆弱？這樣的AI產業鏈，更安全還是更危險？ 本文將黃仁勳與楊小凱聯絡起來，從理論上探索全球AI產業鏈極致分工下的脆弱與反脆弱、外部化與內部化。 本文邏輯 一、分工的悖論：效率深化與單點脆弱 二、邊界的選擇：市場交易與內部組織 三、治理的演進：風險內化與分工深化 分工的悖論：效率深化與單點脆弱 首先我們要從亞當·斯密講起。 斯密在《國富論》第三章中提出，分工受到市場範圍的限制。市場規模太小，分工難以精細化。為什麼要來大城市找工作？大城市分工精細，形成很多彼此交易的工作崗位。如果想找一份搬運工作，不能去小村莊，小村莊的市場規模養不活一個搬運工。 反過來，在控制其他條件的情況下，市場規模越大，分工越精細，技術越先進。 斯密舉例說，倫敦與愛丁堡之間的海運和河運成本比陸運低得多，拓展了市場範圍，因此沿海和通航河流地區能夠服務更大的市場，也更早形成精細分工。 大航海把全球連接成一個最大的市場。這個全球市場將專業分工推至極限。以全球AI產業鏈為例，從EDA、晶片設計、晶圓製造、光刻、先進封裝、HBM，到互聯、伺服器、資料中心和雲服務，每個環節都由來自不同國家的高度專業化企業承擔。 但是，更大市場不一定帶來更多供應商。相反，市場越大，專業分工越強，可替代供應商反而越少。在一個分工精細的全球產業鏈中，每一個關鍵環節的固定成本極高…</description>
+    </item>
+    <item>
+      <title>AGI，真的來了？</title>
+      <link>https://hao.cnyes.com/post/265931</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/265931</guid>
+      <pubDate>Sat, 05 Sep 2026 08:28:24 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>GPT-6 Astra來了，OpenAI還要追Anthropic。 9月3日凌晨，預熱已久的GPT-6 Astra正式發佈。 發佈前半個月，OpenAI一直在為這款模型的發佈釋放訊號。8月18日，在判斷Astra可能達到“Critical”網路安全能力閾值後，公司放慢部分前沿模型訓練，並暫停兩周面向部署模型的強化學習訓練，用來加強監控、對齊和研究環境安全。9月1日，OpenAI進一步披露Astra的安全評估情況。幾輪資訊提前放出之後，GPT-6 Astra在正式發佈前已經積累了不少關注。 但發佈之後，大部分使用者暫時還用不了。目前，GPT-6 Astra只向少量機構開放，Plus、Pro、Business等付費使用者將在未來幾天陸續獲得存取權，API也會逐步開放。面對使用者的等待，OpenAI很快給出了一套補償方案。Codex負責人Tibo表示，付費使用者每有一天無法使用Astra，就會獲得一次可以留到之後使用的額度重設。這也緩解了部分使用者對延遲開放的不滿。 回到模型本身，這次更新最值得關注的變化主要有兩個：模型更能直接操作電腦，也更擅長完成複雜任務。OpenAI稱GPT-6 Astra是目前最智能的模型，相比GPT-5.6 Sol，它在軟體工程、科研、網路安全和專業工作等方向都有提升，電腦操作進步尤其明顯。 API的價格也提高了。GPT-6 Astra的API價格為每百萬Token輸入10美元、輸出50美元，是GPT-5.6 Sol的2.5倍，與Anthropic最新旗艦Claude Fable 5.1處在同一價格水平。OpenAI還提供Fast Mode，生成速度可以提高至約2倍，但價格也會翻倍。 OpenAI對這次升級的定調也比以往更高。在發佈前的媒體溝通會上，公司總裁Greg Brockman表示，“歡迎來到AGI時代”，並認為幾年後回頭看，人們可能會把GPT-6 Astra視為AGI時代開始的一個節點。 關注度有了，能力也確實更強了。此外，OpenAI與Anthropic也都進入了上市籌備階段。GPT-6 Astra足以支撐OpenAI口中的AGI時代了嗎？又能不能幫OpenAI在新一輪競爭中佔據主動？ 01. 跑分接近上限，長任務進步更明顯 先來看最直觀的跑分成績。我們主要關注兩類，一類是成績已經接近測試上限的，另一類是相比上一代提升明顯的。 先看第一類。在OpenAI公佈的基準測試中，GPT-6 Astra在ARC-AGI-3上的得分達到99.9%，ExploitBench達到100%；FrontierMath Tier 4 v2的正確率也達到97.6%。 這三項測試考察的能力各不相同。ARC-AGI-3考察模型能不能在陌生環境摸索出規則並遷移到更難的關卡，測的是對新環境的理解和適應；FrontierMath Tier 4 v2考察高難度數…</description>
+    </item>
+    <item>
+      <title>剛剛，GPT-6 Astra全量開放！</title>
+      <link>https://hao.cnyes.com/post/265926</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/265926</guid>
+      <pubDate>Sat, 05 Sep 2026 08:22:24 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>GPT-6 Astra，全量開放了！ 就在剛剛，OpenAI 官宣，所有 Pro、Enterprise 和 Business Premium 使用者，已經能在 ChatGPT Work 和 Codex 裡直接用上 GPT-6 Astra了，API 同步上線。 只不過，Plus 和普通 Business 使用者還得再等幾天。 9 月 3 日 OpenAI 宣佈 Astra 分階段上線。兩天后的今天，付費高檔使用者全部放開。 01. 先叫你刪提示詞 這麼大的發佈，OpenAI 工程師 Victor Nunez 給大家的第一條建議，居然是刪掉你的提示詞。 他說：趁 Astra 開始推出，回頭清理一下你的 AGENTS.md 和 Skills，順便重新想想推理等級怎麼用。 AGENTS.md，就是寫給 AI 的員工手冊：你是誰、該幹啥、不能幹啥。Skills，就是教它幹活的說明書：遇到這種情況按這個流程來。 這幾年，開發者對付模型的辦法簡單粗暴：不斷往手冊裡加東西。它聽不懂，多解釋一步。它老犯錯，就多加一條限制。它還犯，再補一個例子。 就像給一個總會忘事的新員工貼便簽。日積月累，貼滿了整張桌子。 但 Astra 來了之後，這滿桌子的便簽，反而變成了負擔。 OpenAI 在 Astra 的模型指南中寫到：Astra 對 skill 和 AGENTS.md 裡的指令更敏感了。 以前那些只是擺設的舊規矩，現在會被它逐條執行。一條含糊的規則，會讓它停下來反覆確認；兩條互相衝突的規則，直接讓它懵逼。 打個比方。以前你寫了句「所有方案要經過審批」，老模型看見就當沒看見，照樣往下干。 Astra 不會。它真的會停下來問你：「請問這個方案找誰審批？」然後就……等著。 所以指南用了「強烈建議」四個字，讓開發者審計模型能讀到的每一個 skill 檔案。 不光如此。Astra 還比前代更愛問問題。 你讓它幹個活，它幹到一半突然停了：「這裡有兩種做法，你想要那種？」拜託，你自己挑一個往下幹不行嗎？寫程式碼也是，還沒動手先給你跑一圈測試，改個按鈕顏色都要先寫單元測試。 這些都得靠提示詞去調。而調的方向，大多是往回收。 更絕的是，指南里甚至附了一段現成的提示詞，讓 Astra 別用「delve」「值得注意的是」這類套話，連「先否定再翻轉」的句式（比如「這不是關於 X，而是關於 Y」）也被點名禁了。 寫這些套話的是模型，教你怎麼防套話的，也是模型的廠家。就有一種「我自己挖的坑我自己教你填」的誠實。 說到這兒，可能有人要問：這跟我有啥關係？ 關係太大了。 Astra 的邏輯變了，意味著你和 AI 打交道的方式也該變了。 以前你跟 ChatGPT 聊天，發現它答得不好，本能反應是加限制、加要求。一條不夠加兩條，兩條不夠加五條。 這就是加法思維——模型越笨，你寫的規矩越多。 現在 Astra 告訴你…</description>
+    </item>
+    <item>
+      <title>AI 風險投資從狂歡走向挑剔！擠水分潮來襲，行業大洗牌恐一觸即發</title>
+      <link>https://hao.cnyes.com/post/265883</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/265883</guid>
+      <pubDate>Sat, 05 Sep 2026 08:10:23 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>風投機構專家表示，隨著某些領域的估值開始顯現過高跡象，投資者應將焦點轉向人工智慧企業的生產力增長。 智通財經APP獲悉，風投機構專家表示，隨著某些領域的估值開始顯現過高跡象，投資者應將焦點轉向人工智慧企業的生產力增長。 風投機構 Purple Ventures 創始合夥人雅庫布·尼特拉表示：「隨著投資者對技術在何處創造了真正價值、在何處又僅僅是將一項功能包裝成業務的要求變得嚴苛得多，我們可能會看到一場行業大洗牌。」他預計，在未來 6 到 12 個月中，資本將變得挑剔得多。 AI 浪潮仍在持續重塑市場。投資者紛紛將資金投向輝達以外的半導體公司，押注 AI 數據中心的建設將使更廣泛的晶片製造商和基礎設施公司受益。話雖如此，對泡沫的擔憂依然存在，因為各家公司在資本支出上的投入看不到盡頭，而天花板級別的高增長數據也讓人對這種擴張的可持續性產生懷疑。 財富管理公司 Arki Finance 聯合創始人兼首席執行長 David Ng 表示：「下一個問題在於，應用端和終端用戶能否產生足夠的生產力、營收和現金流來證明這項投資的合理性。」 尼特拉指出，儘管 AI 能夠變革經濟，但並非每一家在商業計劃書中寫了 AI 的公司「都配得上超乎尋常的高估值」。他補充道：「真正的贏家將是那些利用 AI 去解決高成本且極其複雜問題的公司。」 例如，尼特拉舉了他投資組合中的一家公司——TASS Vision，該公司部署邊緣 AI 和攝像頭來分析顧客在實體店內的行動路線，進而為零售商提供可用於改進業務的數據。 資產管理公司 Openspace Capital 的創始合夥人謝恩·切森認為，即使存在泡沫，最終也終將帶來一些積極成果。 「如果泡沫真的破裂，它主要傷害的是那些投資於從眾心理(FOMO)驅動的虛高泡沫的人，」他說道，「但已經構建起來的基礎設施仍將被使用，並將被證明為許多公司帶來顛覆性的改變。」 (智通財經)</description>
+    </item>
+    <item>
+      <title>HBM，生變！</title>
+      <link>https://hao.cnyes.com/post/265913</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/265913</guid>
+      <pubDate>Sat, 05 Sep 2026 08:07:22 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>HBM的競爭，正在悄悄換戰場。過去幾年，市場談論HBM，關注的幾乎都是SK海力士、三星和美光：誰的DRAM製程更先進，誰能堆到12層、16層，誰的TSV和封裝良率更高，以及誰最終進入輝達的供應鏈。 但到了HBM4和HBM4E，這門生意裡正在出現一批過去並不顯眼的新角色——晶圓代工廠。 近日，據韓媒及DIGITIMES等報導，SK海力士正在考慮將Intel Foundry引入HBM4E供應鏈，作為HBM Base Die的第二代工來源，以降低對台積電的依賴並改善供應彈性。無論Intel最終能否拿下訂單，背後透露出的產業變化已經非常清晰：從HBM4開始，一顆HBM已經越來越離不開先進邏輯製程。 真正改變遊戲規則的，是HBM最下面那顆過去不太受關注的晶片——Base Die。 HBM越來越不像記憶體了 要理解為什麼HBM會變成晶圓代工生意，必須先看HBM4這個關鍵的技術分水嶺。 在HBM3E及更早的技術代際中，HBM的結構相對清晰：上層是多層DRAM堆疊（Core Die），最底下是一顆 Base Die。過去，這顆Base Die主要承擔物理支撐、TSV（矽通孔）過孔引出以及基礎的訊號路由。由於功能單一，像記憶體三巨頭（SK海力士、三星、美光）用自家的10nm級DRAM工藝就能順手把它做了。 但HBM4發生了一些重要變化。 一方面，介面密度物理翻倍。HBM4的匯流排介面寬度從1024-bit直接翻倍至2048-bit，在此基礎上，輝達在Rubin平台上更將單Pin速率拉高至 11Gbps 以上。要在極其微小的晶片面積內擠入翻倍的 TSV 和 PHY（物理層）電路，傳統 DRAM 節點的布線密度和金屬層數已觸及物理極限。 另一方面，邏輯功能深度下沉。為了追求極致的能效與超低延遲，GPU 與 ASIC 廠商開始要求將記憶體控製器、DFT（可測試性設計）電路，甚至是特定演算法的計算模組直接整合到 Base Die中。 SK海力士在官網中也寫道，「在HBM4中，邏輯晶片的作用日益凸顯。HBM4的研發方向是提升基礎晶片的性能，增強HBM堆疊與邏輯晶片之間的連接性，同時降低功耗。」 Base Die已經開始從一顆相對簡單的晶片，變成一顆複雜的Logic Base Die。這就撞上了記憶體原廠的工藝壁壘：記憶體原廠的Fab基本不具備生產高性能邏輯晶片的12nm、5nm乃至更先進工藝線，兩者並不是同一種製造邏輯。因為DRAM製造追求的是記憶體單元密度和成本，而複雜邏輯電路需要的是邏輯電晶體性能、布線密度以及先進EDA設計能力。 當越來越多邏輯被放進這顆“記憶體”時，一門過去屬於記憶體廠商的生意，也正在悄悄變成一門晶圓代工生意。於是，晶圓代工廠開始登場。 2024年，SK海力士與台積電宣佈合作開發HBM4。當時雙方給出的表述其實已經非常耐人尋味——要建立一種由IC設計公司、晶圓…</description>
+    </item>
+    <item>
+      <title>人形機器人時代已至，成AI投資新前沿？瑞銀：關注三大細分領域！</title>
+      <link>https://hao.cnyes.com/post/265886</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/265886</guid>
+      <pubDate>Sat, 05 Sep 2026 08:01:22 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>①瑞銀人士指出人形機器人可通過情境學習實現物理自主，是AI投資新前沿；②該行指出，人形機器人行業三個值得關注的領域為執行器和精密齒輪、傳感器和感知層、邊緣計算和電力基礎設施。 提到人工智慧（AI），你可能會想到口袋裡手機上的聊天機器人，它從遙遠的數據中心傳輸資訊，為ChatGPT或Claude等大型語言模型提供支援。 但實際上，人工智慧正努力變得更加具體——變得像人一樣。 瑞銀全球股票主管Ulrike Hoffmann-Burchardi最新表示，人形機器人越來越能夠使用「情境學習」，即通過觀察動作或任務來學習如何做某事。 她在最近給客戶的一份報告中表示，「我們現在正處於擺脫預編程自動化並邁向真正物理自主的邊緣。」 Hoffmann-Burchardi表示，這一主題展現了人工智慧投資的新前沿，並重點介紹了人工智慧機器人行業中三個值得關注的領域。 01. 執行器和精密齒輪 執行器驅動機器人運動，齒輪則輔助這種運動。這些部件對於人形機器人的敏捷性至關重要。 Hoffmann-Burchardi在報告中寫道：「這些高度專業化的組件使機器人能夠以毫米級的精度移動手指，或在不平坦的地面上保持平衡。全球範圍內，這些組件的生產能力高度集中在少數幾家專業公司手中。」 雖然Hoffmann-Burchardi沒有點名任何具體的公司，但該領域的股票示例包括羅克韋爾自動化 （Rockwell Automation）和ABB（一家總部位於蘇黎世的電氣化和自動化技術公司）。 02. 傳感器和感知層 傳感器可以讓機器人實時獲取數據。這可以體現在攝像頭上，這樣機器人就能看到並模仿動作。但這同時也意味著機器人需要擁有「皮膚」，使其能夠感知和測量。 「要讓機器人能夠拿起易碎的雞蛋或沉重的鐵扳手而不將其弄碎或掉落，它需要一種能夠立即測量壓力和摩擦力的皮膚，」Hoffmann-Burchardi寫道。 她在上述報告中提到了以下公司Synaptics Incorporated（一家美國神經網絡技術及人機互動設備開發公司）、Ouster（一家總部位於美國加利福尼亞州舊金山的領先高解析度數字3D雷射雷達(LiDAR)技術公司）和 Luminar Technologies（主要開發基於視覺的雷射雷達和機器感知技術，應用於自動駕駛汽車領域）。 03. 邊緣計算和電力基礎設施 這些機器人需要計算能力來處理資訊，還需要能夠長時間為機器人提供動力的電源。Hoffmann-Burchardi指出，需要專門用於機器人的硬體。 她在報告中提到，例如輝達、Arm Holdings和超威半導體公司（Advanced Micro Devices, Inc.，簡稱AMD）。 (財聯社)</description>
+    </item>
     <item>
       <title>GPT-6 Astra 向 Plus、Pro 與企業使用者全量開放/消息稱 DeepSeek 擬在內蒙古部署超 16 萬顆華為昇騰 950DT/蘋果開啟史上最大新品周期</title>
       <link>https://hao.cnyes.com/post/265918</link>
@@ -51,69 +114,6 @@
       <author>RexAA</author>
       <category>科技</category>
       <description>國產模型捲了大半年，這一周終於輪到海外幾家擠在一起發新模型。 前腳 Claude Fable 5.1、Gemini 3.8 Flash、Muse Spark 1.3 剛發完，今天最後輪到 OpenAI，GPT-6 Astra 來了。 這一輪看下來，Astra 在電腦操作和任務自動化上重新超過了 Anthropic，數學和網路安全也往前走了一截。 程式設計只領先一點，第三方綜合榜甚至還排在 Claude Fable 5.1 後面。價格倒是先漲上去了，是 GPT-5.6 Sol 的2.5 倍。（但有一說一，AA 這個榜單越來越離譜了，要說比不過 Fable 5.1 有可能，居然還會比 Muse 差？所以這個榜單參考價值似乎也不大了） 01. 電腦任務耗時少了近一半 OSWorld 測的是模型能不能像人一樣看螢幕、點按鈕、切軟體，把一件事從頭做到尾。Astra 的成績比 GPT-5.6 Sol 高 10.5%。 我更在意速度。Sol 平均要做 75 分鐘的任務，Astra 縮到 40 分鐘，少了47%。 以前模型能跑完不少電腦任務，可速度慢到你寧可自己動手。40 分鐘依然不短，但已經能放到後台跑了。 官方給的 3D 案例很直觀。Astra 先在 Blender 裡做好房屋模型，再轉進 Unreal Engine 5，變成一個可以走進去查看的場景。 建模、匯出、匯入遊戲引擎，這段跨軟體流程開始可以交給模型處理。 ▲ 圖：Astra 生成的可探索房屋場景。演示視訊有剪輯，只能看出產品打算怎麼用，不能拿來判斷成功率。來源：OpenAI 官方案例、案例視訊。 Astra 也補了長任務記憶。這個功能目前在 Codex 裡需要手動開啟，接下來幾周才會成為 Astra 的默認設定。 上下文用完後，它會保存工作筆記，還能搜尋前面的消息和工具結果。任務跑久了，模型忘掉早期要求、重複踩坑的情況會少一些。 02. 自動化拉開了，程式設計沒有 AutomationBench 測多步驟辦公任務，比如整理資料、操作表格，再把結果填進另一個系統。 Astra 的成績是 Sol 的2.3 倍，比 Claude Fable 5.1 高 32%。提升最大的是 ARC-AGI-3：模型要在無說明的環境中試錯、找規則並完成任務。Astra 得分 99.9%，約為 Sol 的 12.8 倍。但測試採用 OpenAI 自有框架，不能直接等同於實現 AGI。。 到了程式設計，差距就小多了。 Terminal-Bench 4.0 用真實的命令列任務考模型，Astra 比 Sol 高 55%，但只比 Claude Fable 5.1 高 3.4%。 OpenAI 在這一項超過了 Claude，談不上拉開距離。 早期測試者Peter Steinberger提到一個例子。Astra 偵錯 Objective-C 項…</description>
-    </item>
-    <item>
-      <title>中信建投：液冷散熱行業投資機遇</title>
-      <link>https://hao.cnyes.com/post/265803</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/265803</guid>
-      <pubDate>Fri, 04 Sep 2026 10:58:09 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>2026年液冷行業迎來集中放量，中國外高算力伺服器同步普及全液冷方案，細分核心零部件訂單持續釋放。 01 Rubin全面量產看好液冷二次側放量 Rubin全面量產驅動液冷從可選到必選，國產供應鏈從送樣驗證進入批次交付階段。一是技術與產品端，輝達Vera Rubin已全面量產、100%全液冷架構推動行業變革，單晶片熱設計功耗 （TDP）從H100的700W升至2300W，單機櫃功率密度突破風冷散熱極限，液冷從可選配置升級為必選方案；國產液冷企業由外圍冷源和代工環節逐步進入晶片平台、伺服器ODM和海外雲廠商供應體系，國產替代從Manifold、管路推進至高可靠快接頭和冷板進入核心BOM。二是交付落地端，Rubin 平台統一閉環供液標準，對密封、均溫、防漏提出高精度要求，中國廠商憑藉成本與本地化迭代優勢拿下頭部認證，冷板、快接頭核心部件已批次配套整機出貨，打破外資部件壟斷格局。三是行業趨勢端，2026 年液冷行業迎來集中放量，中國外高算力伺服器同步普及全液冷方案，細分核心零部件訂單持續釋放；未來高功耗 AI 晶片迭代將持續鞏固液冷剛需，中國廠商持續攻堅精密加工、長效密封工藝，逐步實現液冷全核心零部件自主可控，深度受益全球算力建設擴張。產業判斷上，2026年供應商業績呈前低後高，2027年進入Rubin訂單全年化、國產份額提升與產品結構升級共同驅動的利潤釋放階段，繼續看好液冷類股配置價值。 風險提示：中國宏觀經濟波動的風險、海外市場波動的風險、下游擴產不及預期的風險。 證券研究報告名稱：《周觀點：Rubin全面量產看好液冷二次側放量，新船價格持續回升船企業績高增》 報告來源 對外發佈時間：2026年9月2日 報告發佈機構：中信建投證券股份有限公司 本報告分析師： 許光坦 SAC 編號:S1440523060002 SFC 編號:BWS812 陳宣霖 SAC 編號:S1440524070007 籍星博 SAC 編號:S1440524070001 吳雨瑄 SAC 編號:S1440525070008 喬磊 SAC 編號:S1440525070006 02 金剛石散熱，現狀與未來 為什麼說金剛石是終極散熱材料？晶片熱量的傳輸是從晶片die頂層一路接力到大氣，通常通過散熱材料（TIM/金屬導熱材料）和散熱技術方案（風冷/熱管/液冷等）疊加協同散熱。隨著算力需求提升，晶片功率密度和整合度不斷提高，其單位面積產熱量急劇上升，搬熱環節或繼續用液冷，而晶片內的熱量傳匯出來的效率需要進一步提升。金剛石憑藉遠超銅、鋁的導熱能力（最高2000W/m·K）及低熱膨脹係數，成為突破晶片散熱瓶頸的理想材料。 金剛石散熱未來迭代路線：短期產業化主力為金剛石複合材料，中期看大尺寸金剛石熱沉片，遠期技術突破方向為單晶金剛石襯底。金剛石用於散熱的架構包含晶片級（內部貼合/鍵合晶片）、封裝級（封裝層）、…</description>
-    </item>
-    <item>
-      <title>GPT-6 Astra上線，AGI時代真到來了嗎？</title>
-      <link>https://hao.cnyes.com/post/265797</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/265797</guid>
-      <pubDate>Fri, 04 Sep 2026 10:58:08 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>Astra發佈前幾個小時，AI圈先亂成了一團。 9月3日晚間，ChatGPT、Claude和Grok幾乎同時出現大範圍服務異常，大量使用者不是打不開模型，就是請求失敗。 恰在此時，ChatGPT官方帳號在仰望星空：“The stars are almost aligned.”（群星即將就位） 很快有人開起玩笑：Astra是不是在部署的時候，順手把Anthropic和xAI都駭了一遍，最後連自己也沒放過？ 當然，這只是網友造的一個梗，目前沒有證據表明這場故障與Astra有關。 但這個玩笑出現得恰逢其時——就在兩天前，OpenAI剛剛宣佈，這款尚未正式發佈的新模型已經成為公司第一個跨過Preparedness Framework“Critical”網路安全能力閾值的模型。 然後，群星真的“就位”了。 台北時間9月4日凌晨，OpenAI正式發佈GPT-6 Astra。 但並沒有全量上線。目前Astra只向少量Trusted Access/Daybreak體系中的機構和經過稽核的網路安全使用者開放——Plus、Pro、Business、Enterprise和API使用者還要再“仰望”幾天。 01. Astra來了，但是如來 9月4日，OpenAI“對內”發佈了GPT-6 Astra。 目前，Astra只向Trusted Access / Daybreak體系中的少量機構開放。OpenAI表示，Plus、Pro、Business、Enterprise訂閱使用者以及API，將在未來幾天陸續獲得存取權。 至於這個“幾天”究竟是多少天，暫時沒有更具體的時間表。 在發佈前的閉門媒體簡報會上，OpenAI總裁Greg Brockman給了Astra一個相當誇張的註腳：“Welcome to the AGI era.” 歡迎來到AGI時代。 OpenAI研究副總裁Aidan Clark則從另一個角度解釋了Astra為什麼特殊：“這是第一次在德州Stargate站點用超過10萬張GPU做預訓練，從資料中心網路到推理核心再到模型本身的形態，全部圍繞這個訓練規模從零設計”。 Aidan同時表示，Astra也是OpenAI第一款讓舊代際模型深度參與訓練過程的產品。 簡單來說，訓練下一代AI的人裡，已經開始出現上一代AI。 雖然它還遠遠算不上“AI自己訓練自己”，但模型已經進入了下一代模型的研發流程。 在前天Anthropic稱Fable/Mythos 5.1是“目前世界上最先進的編碼和知識工作模型”之後，今天，OpenAI也把稱Astra是“世界上最強、最對齊的模型”。 基準測試方面，最嚇人的數字，來自ARC-AGI-3。 這是一個專門測試模型能否進入從未見過的2D環境，通過不斷試錯發現規則、完成目標的Agent基準。它不像傳統考試那樣考記住多少知識，而更接近於把AI丟進一個陌生遊戲裡…</description>
-    </item>
-    <item>
-      <title>GPT-6，“強拆”App的牆</title>
-      <link>https://hao.cnyes.com/post/265828</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/265828</guid>
-      <pubDate>Fri, 04 Sep 2026 10:55:08 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>過去三天，全球三家頭部模型公司接連更新了自己的前沿模型。 圖片由AI生成 9月1日，Anthropic發佈Claude Fable 5.1；9月2日，Google發佈Gemini 3.8 Flash；一天之後，OpenAI發佈GPT-6 Astra。 重點依然是更強的Coding、更複雜的推理、更長時間的Agent任務，但是背後還有一個更值得關注的趨勢，Computer Use、Browser和Tool Use，越來越成為一套統一的環境互動能力。 以前，AI如果想呼叫一個軟體，大致有三種辦法：軟體提供API，模型呼叫工具；軟體運行在網頁裡，AI操作瀏覽器；第三種，像人一樣看螢幕、點滑鼠、敲鍵盤。 但是在過去很長時間裡，最後一種方法都是不得已的選擇。API更快、更穩定，也更容易控制權限，Computer Use緩慢、容易出錯，介面稍微複雜一點，任務走上幾十步就可能失敗。 GPT-6 Astra發佈之後，把Astra定位為“全球最強的電腦使用模型”，Computer Use不再是一種不得已的“兜底能力”，甚至能順暢呼叫專業度很高的軟體。 01 Computer Use開始“能用”了 OpenAI早在2025年的Operator中就展示過Computer Use。當時模型通過視覺理解網頁，再模擬滑鼠和鍵盤完成訂餐、購物、填寫表格等任務。 但是當時的問題是，“能操作”和“能工作”之間還有很大的距離。 早期Computer Use完全不可靠。真正的需要Agent操作電腦的任務，一般都是多個步驟，中間一次誤點、一個彈窗或者一次狀態判斷錯誤，都可能讓整個任務前功盡棄。另外就是很慢，一個任務能讓人等得完全失去耐心。 在測試模型能否在真實桌面環境中完成跨應用操作任務的 OSWorld 2.0 上，Astra達到72.6%，此前的GPT-5.6 Sol為65.7%；在更側重螢幕視覺定位和精準點選能力的 ScreenSpot-Pro 上，Astra從Sol的76.9%提升到92.7%。 從速度上來看，OpenAI稱，在OSWorld模擬環境中，Astra完成任務平均需要約40分鐘，GPT-5.6 Sol約為75分鐘。 Computer Use第一次開始同時提高成功率和執行效率。 比如， OpenAI給到的官方案例。遊戲公司Playco正在把Astra接入自己的AI開發工具Playbot。模型可以直接進入Unity、Godot這樣的遊戲引擎，修改場景、運行遊戲、測試結果，發現問題以後繼續修改。Playco稱，相比此前使用的模型，人工修複次數減少了50%。 Playco聯合創始人Teddy Cross評價Astra時特別提到，它“much better at reasoning about space and positioning elements（它對空間關係的理解，以及對介面…</description>
-    </item>
-    <item>
-      <title>“歡迎來到AGI時代”：OpenAI發佈GPT-6 Astra</title>
-      <link>https://hao.cnyes.com/post/265792</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/265792</guid>
-      <pubDate>Fri, 04 Sep 2026 10:52:07 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>“歡迎來到AGI時代。” OpenAI聯合創始人兼總裁Greg Brockman用這句話，為GPT-6 Astra的發佈收尾。 美國當地時間9月3日，OpenAI正式發佈GPT-6 Astra。相比此前主要負責回答、生成和呼叫工具的模型，Astra更進一步開始持續執行完整任務，從接收指令、操作軟體，到根據結果調整下一步動作。這也是OpenAI此次重提“AGI時代”的原因之一。 OpenAI聯合創始人兼CEO山姆·奧特曼。圖片由AI生成 OpenAI把Astra定位為“全球最強的電腦使用模型”。這種能力已經從瀏覽器、郵件和表格等簡單任務，延伸到Power BI、KiCad、FreeCAD等專業軟體，開始進入資料分析、工程設計、軟體測試和故障排查等更複雜的工作流程。 OpenAI展示的視訊裡，Astra可以從一個簡單的圖形開始，繼續完成3D遊戲、商品頁面等工作。OpenAI還給出了電路板設計、Blender建模、法律文件、Excel和科學分析等案例。 OpenAI這次公佈的大量基準成績，能力提升集中出現在電腦操作、長程編碼、工程設計和科學研究這些需要連續行動的任務上。Astra在ExploitBench達到100%，在電腦操作和CAD等測試中也明顯超過上一代模型。 目前Astra已經向部分組織開放，未來幾天將陸續面向ChatGPT Plus、Pro、Business和Enterprise使用者，也可通過OpenAI API和Amazon Bedrock使用。標準API價格為每百萬輸入Token 10美元、每百萬輸出Token 50美元，是GPT-5.6 Sol的2.5倍。 01. 先讓AI學會“用電腦” Astra強調的最大變化，是“使用電腦”。過去使用者讓AI完成工作，通常還要把AI接入具體軟體。企業需要開發API、外掛、檢索系統和各種連接器，模型才能呼叫內部工具。 Astra試圖繞開其中一部分工作。它可以直接看到電腦介面，通過滑鼠、鍵盤和瀏覽器完成操作。OpenAI給出的例子包括填寫線上表格、更新CRM客戶記錄、安排日曆、搜尋網頁，並把搜尋結果整理成郵件或文件。 它還能打開Python筆記本分析科學資料，在Power BI中處理資料，使用KiCad和FreeCAD完成工程設計，建立網站並進行前端測試，也可以安裝軟體、檢查錯誤並處理螢幕上出現的問題。 OpenAI展示了Astra在KiCad中完成PCB佈局。模型從電子原理圖開始，把元件放到電路板上，再完成銅線布線。整個過程被壓縮成15秒。對於工程師來說，這類工作過去需要手動完成，現在可以交給模型執行。 另一個演示是在Blender和Unreal Engine5中完成3D建模。Astra先在Blender裡建立一棟房屋，再把模型轉換成Unreal Engine5中的可步行場景，設計師和客戶可以提前進入場景查看…</description>
-    </item>
-    <item>
-      <title>GPT-6、Gemini、Muse密集迭代，大模型王座不再穩固</title>
-      <link>https://hao.cnyes.com/post/265833</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/265833</guid>
-      <pubDate>Fri, 04 Sep 2026 10:49:07 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>▎OpenAI在發佈說明裡點明，這次上線是一整套全新系統首次在真實生產環境中整體運轉，為此團隊正在調集大批計算資源、擴充推理能力。 兩天之內，三場前沿發佈，最快的一次反超只用了五小時。 9月4日，OpenAI宣佈開始分批次發佈GPT-6 Astra，優先向全部Plus使用者開放，官方口徑是穩妥與速度並重，整個發佈預計數天內完成。而就在兩天前，9月2日，Google與Meta同日各放一款新模型。Google端出Gemini 3.8 Flash，這是它六周內第三款Flash；Meta端出Muse Spark 1.3，這是它五個月內第四款Spark。Meta新模型上線數小時後，即在Artificial Analysis智能指數上反超Google同日新品。兩場發佈之間，只隔了四十八小時。 放在兩年前，一款旗艦發佈足以佔據一周頭條。如今，前沿模型的保鮮期被壓縮到以小時計。這並非某一家公司的困境，而是一個更冷的訊號。大模型智能本身，正在變成一種可以被快速複製、快速刷新的商品。誰先發佈、誰更便宜、誰更垂直，正在取代“誰最強”，成為更值錢的三個問題。 兩條路線，同榜撞車 先看Google。Gemini 3.8 Flash每百萬token輸入0.75美元、輸出3.75美元，與三周前的3.7 Flash持平。但TestingCatalog的日報標註得更準確，這是12月31日前的入門價，不是永久定價。Google沒有把低價當成長期承諾，而是當成換取市場份額的限時籌碼。 按Google官方自測表，3.8 Flash在每一項都壓過3.7 Flash。長周期軟體工程測試DeepSWE v1.1從65.3%升至73.7%，終端基準Terminal-bench 2.1從85.8%升至89.4%，OSWorld-2.0從50.6%跳到59.0%，金融智能體基準Vals Finance Agent v2從59.0%升至61.4%，HLE-Verified從53.6%升至54.9%。單看這一串數字，這是一次標準而全方位的分數抬升。 更具參照價值的是它同旗艦級模型的對比。Google自測表裡，3.8 Flash在DeepSWE v1.1上拿到73.7%，距Claude Opus 5的74.0%僅差0.3個百分點；HLE-Verified的54.9%，壓過Opus 5的54.4%和GPT-5.6 Sol的54.5%。而Opus 5每百萬token輸出價25美元，是3.8 Flash的近七倍。一款Flash檔模型，在數個硬核基準上逼近甚至追平售價25美元輸出價的旗艦，這才是這條新聞真正的份量。 再看Meta。Muse Spark 1.3在Artificial Analysis智能指數上拿到62分，僅次於Claude Fable 5.1（66分）與Claude Opus 5（63分），位居全場第三。這…</description>
-    </item>
-    <item>
-      <title>「歡迎進入AGI時代」！OpenAI發佈GPT-6 Astra，10萬GPU訓練，網安能力首達「關鍵」級</title>
-      <link>https://hao.cnyes.com/post/265769</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/265769</guid>
-      <pubDate>Fri, 04 Sep 2026 10:46:06 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>Astra API定價10美元/百萬輸入Token、50美元/百萬輸出Token，約為GPT-5.6 Sol的2.5倍。OpenAI稱，Astra首次達到公司內部「關鍵」網絡安全能力門檻，模型已能在較少人類干預的情況下識別此前未知的軟件漏洞，並開發相應的漏洞利用方式，但最強功能暫不全面開放。 美東時間9月3日周四，OpenAI正式發佈新一代旗艦模型GPT-6 Astra，並將其稱為一次「代際躍遷」。OpenAI總裁Greg Brockman更進一步表示，人們未來或許會回頭將「這個時間、這個模型」視為人工通用智能（AGI）到來的節點，並在發佈會最後稱：「歡迎進入AGI時代。」 Astra的核心變化不只是回答問題的能力更強，而是能夠直接操作計算機和軟件，替用戶完成編程、科學研究、金融建模、製作簡報和電子表格等複雜任務。OpenAI稱，Astra在軟件工程、科學、推理、計算機操作和網絡安全等領域均取得領先表現，並使用超過10萬塊GPU在德州Stargate基地完成訓練。 與此同時，Astra也是OpenAI首個達到內部「關鍵」（Critical）網絡安全能力門檻的模型，意味著它已經具備發現此前未知漏洞、開發漏洞利用程序的能力。出於安全考慮，OpenAI對其最先進的網絡安全能力設置了更嚴格的訪問限制。 從聊天機器人到「數字員工」：Astra直接進入軟件環境 Astra最明顯的變化，是AI開始從「提供答案」進一步轉向「完成任務」。 OpenAI展示的能力包括在軟件環境中製作電子表格和簡報、進行金融建模、搭建3D環境、設計電路板，以及處理報稅表等複雜工作。 模型尤其擅長操作計算機，可以根據用戶提出的目標，自主完成一系列此前需要人類在不同軟件之間切換、執行的步驟。OpenAI總裁Brockman表示，Astra代表著「人們可以委託給AI的工作類型」發生了真正變化。 這意味著AI競爭的衡量標準正在發生變化：從模型能否生成更好的文字、代碼和圖片，逐漸轉向模型能否獨立完成一項完整工作。 OpenAI也因此將Astra視為邁向AGI的重要一步。Brockman認為，Astra存在「質的提升」，但他同時表示，是否達到AGI，可以留給外界自行判斷。 10萬GPU押注規模化訓練，推理與長任務能力同步升級 Astra背後是OpenAI迄今規模最大的訓練投入之一。 OpenAI稱，Astra在德州Stargate基地使用超過10萬塊GPU進行訓練。公司表示，模型不僅在推理能力上有所提升，還能夠承擔持續時間更長、步驟更多的複雜任務。 其中，計算機操作能力成為Astra的重要賣點。它能夠在真實的軟件環境中執行任務，而不只是給用戶提供操作建議。 這使得Astra與傳統聊天模型之間的差異進一步擴大：用戶不再需要把一個複雜目標拆成幾十個指令逐步交給AI，而是可以直接提出最終目標，由模型自行完成更多…</description>
-    </item>
-    <item>
-      <title>OpenAI扔出王炸！GPT-6 Astra凌晨空降，多項跑分逼近滿分、還能自己建模、查系統漏洞...</title>
-      <link>https://hao.cnyes.com/post/265834</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/265834</guid>
-      <pubDate>Fri, 04 Sep 2026 10:43:06 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>GPT-6 Astra正式發佈，真的開始替你幹活了！ 當地時間 9 月 3 日，OpenAI 正式發佈新一代旗艦模型 GPT-6 Astra。 這一次，OpenAI 給它的定位非常直接：目前最智能、最對齊的模型。 不同於前代以聊天問答、文案生成為主的 AI 產品，GPT‑6 Astra 最大的變革，是完成了從“回答問題”到“獨立幹活”的跨越，進化成一款真正意義上的 AI 智能體 Agent。 本次升級最重磅的能力就是“Computer Use 電腦自主操控”。 過去的大模型即便生成辦公文件，也需要我們手動複製內容、一步步操作軟體； 而 Astra 可以直接接管電腦，自主操作各類軟體程序。 線上表單填報、CRM 客戶資料更新、日程整理、全網資料調研、郵件文件撰寫等常規辦公任務，它可以從頭到尾獨立閉環完成。 不止普通辦公軟體，像 KiCad 電路板設計、Blender 三維建模、虛幻引擎 5 互動場景搭建、Ableton 音樂混音等專業工作流，Astra 也能上手實操。 從一張設計圖生成可自由探索的房屋 3D 互動場景，真正打通創意從構思到落地的最後一環。 困擾開發者許久的“長任務失憶”痛點，這次也被徹底攻克。 新版本升級了 Codex 程式碼工具，引入全新的跨窗口筆記記憶系統。它不再依靠簡單壓縮總結保存對話歷史，而是可以長期記錄、檢索過往任務裡的修改要求、測試結果。 就算一項程式設計工作連續進行數小時，也不會遺忘最初定下的開發限制。 同時 Astra 還學會了任務預判，等待你回覆期間，可以先行推進不受影響的工作，大幅減少無效等待時間。 在硬核科研與程式設計領域，Astra 交出了一份亮眼答卷。 軟體工程基準測試成績大幅領先前代模型，能夠生成質量更高、迭代次數更少的生產級程式碼。 數學推理能力實現飛躍，FrontierMath 高階數學測試得分高達 97.6%，甚至已經協助科研人員推進素數間隔難題的研究。 在基因資料分析、科研圖表繪製等科研場景，也可以深度參與實驗流程，為研究者提供決策參考。 但超高能力背後，隨之而來的還有不容忽視的安全風險。 Astra 成為 OpenAI 首個達到“關鍵網路安全能力閾值”的模型，測試中已經成功挖掘出兩個此前從未被發現的零日漏洞。 這項能力是一把雙刃劍，既能幫助企業排查系統隱患，也存在被惡意濫用的風險。 因此 OpenAI 採用分級開放策略：普通使用者版本會限制高危網路安全請求，只有經過嚴格稽核的安全團隊，才可解鎖完整權限。 安全性對齊層面同樣迎來重大突破。 在無防護測試下，前代模型越權執行任務的比例高達 48%，而 Astra 越過任務邊界的機率降到了 0%。不過新的問題隨之而來。 Astra 完成複雜任務時思考步驟更加精簡，人類想要監控它的推理過程反而變得更加困難。 商業化方面，Astra 定價相比前代明顯上漲，輸入每百萬…</description>
     </item>
   </channel>
 </rss>
