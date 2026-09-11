@@ -5,8 +5,17 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:33:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:42:08 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>前所未見！OpenAI最新模型需求高到叫停Pro訂閱計畫</title>
+      <link>https://hao.cnyes.com/post/267110</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/267110</guid>
+      <pubDate>Fri, 11 Sep 2026 10:42:08 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>由於最新模型Astra的需求空前，OpenAI暫時停止了每月200美元的Pro訂閱計畫，以確保現有客戶的良好體驗。 OpenAI的首席產品官Thibault (Tibo) Sottiaux在X上宣佈了這一舉措。他負責領導人工智慧實驗室的核心產品，例如Codex和ChatGPT。他表示，Pro套餐對系統壓力最大，因此該服務等級的註冊現已關閉。 Sottiaux指出，OpenAI希望採取影響最小的措施來確保繼續提供儘可能廣泛的存取權。其他計畫，包括API以及價格更低的Go和Plus方案，仍然有效。 早在周三，Sottiaux就曾透露，Astra的需求超出預期太多，OpenAI採取一切措施來應對需求，但他從未見過這樣高的需求和這樣陡峭的增長曲線。OpenAI的優先事項一直都是確保現有客戶的體驗，因此可能暫停Pro訂閱計畫。 ▍使用者快速湧入 OpenAI 尚未說明Pro會員註冊可能會暫停多久，也沒有說明每天有多少人申請註冊，因此無法瞭解需求的規模。該公司上個月還提高了Codex使用者的使用限制，這表明這種壓力可能是最近才出現。 Astra於9月3日發佈，已在OpenAI的各項訂閱計畫中全面上線，包括Pro、Plus、Enterprise和Business計畫。該模型有望在人工智慧推理、編碼和電腦應用等領域實現重大飛躍——而這些領域競爭異常激烈。 OpenAI甚至將Astra譽為“通用人工智慧時代（AGI）”的開端，並認為這是一次代際飛躍。輝達首席執行長黃仁勳也支援了這一說法，從而進一步刺激了市場需求。 周四，OpenAI還宣佈推出ChatGPT for Financial Services，面向金融服務行業，結合了內建的金融資料和Astra的推理能力。該產品已經向部分金融機構開放，初期重點面向投行和股票研究場景。 (財聯社AI daily)</description>
+    </item>
     <item>
       <title>從“會生成”到“精準修改”，OpenAI 把 AI 生圖做得更像工具了</title>
       <link>https://hao.cnyes.com/post/267116</link>
