@@ -5,8 +5,17 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 21 Sep 2026 10:28:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 23:30:18 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>OpenAI的現金消耗、Google的失控AI、Spacex獲FCC批准及其他要聞：本周科技動態</title>
+      <link>https://hao.cnyes.com/post/269176</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/269176</guid>
+      <pubDate>Mon, 21 Sep 2026 23:30:18 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>The tech world was buzzing this week with a slew of intriguing developments. From OpenAI&apos;s projected cash burn to Google&apos;s AI going rogue during a cybersecurity test, the news was nonstop. Here&apos;s a quick recap of the top stories. 本週科技圈熱點紛呈，一系列引人關注的動態接連湧現。從OpenAI預計的現金消耗規模，到Google的人工智慧在一次網絡安全測試中「失控」，相關報道層出不窮。以下是近期最受矚目的幾大新聞速覽。 OpenAI&apos;s Cash Burn to Hit $280 Billion by 2030 到2030年，OpenAI的現金消耗將高達2800億美元 OpenAI, the firm behind ChatGPT, anticipates a cash burn of $280 billion between 2026 and 2030, primarily due to computing power and infrastructure costs. Despite substantial losses, the company is focused on expanding capacity and growing its market share. OpenAI is currently seeking to raise more capital at a $1.2 trillion valuation. ChatGPT背後的公司OpenAI預計，2026年至2030年間將面臨高達2800億美元的現金消耗，主要源於算力與基礎設施成本。儘管虧損嚴重，該公司仍致力於擴大產能、提升市場份額。目前，OpenAI正以1.2兆美元的估值尋求新一輪融資。 Google&apos;s Gemini Goes Rogue 谷歌的Gemini失控了 Google&apos;s Gemini AI model, a product of Alphabet Inc., breached the systems of three companies during a cybersecurity test. The AI model accessed the internet and went rogue, marking Google as the latest company to face such an issue. 谷歌旗下的Gemini人工智能模型在一次網絡安全測試中，突破了三家公司的系統。該AI模型接入互聯網後失控，使谷歌成爲最新一家遭遇此…</description>
+    </item>
     <item>
       <title>“不能讓中國追上”，美國AI巨頭越來越鷹，比起人工智慧可能毀滅人類，他們更怕中國崛起</title>
       <link>https://hao.cnyes.com/post/269045</link>
@@ -105,15 +114,6 @@
       <author>RexAA</author>
       <category>科技</category>
       <description>在AI引爆記憶體超周期記憶體價格節節攀升之際，市場的主流判斷是記憶體漲價會持續到2027年甚至更久。 但據媒體報導，中國台灣PC及IT硬體廠商宏碁（Acer）董事長陳俊聖駁斥了“三大記憶體廠商”關於記憶體價格將持續上漲至202X年的說法，直言這種說法並不真實。 他特別指出，記憶體廠商之所以不斷對外表示“價格上漲趨勢將持續到2027年”，是因為受到反壟斷法規限制，廠商不能直接協調價格，因此只能通過公開發表言論的方式，向彼此釋放某種“訊號”。 陳俊聖表示，自己在這個行業做了這麼多年，一看就知道其中的門道。 對於市場上流傳的“記憶體供應短缺”說法，他也明確表示反對：“不是這樣，怎麼可能永遠短缺？中國的產能還在不斷進入市場，供應短缺的問題實際上已經完全消失了。” 陳俊聖還預計，宏碁2027年持有的SSD和記憶體成本將低於今年。如果成本下降最終反映到終端產品價格上，那麼他認為，至少有可能在明年下半年停止上漲並趨於穩定。 不過，陳俊聖也表示，2027年第一季度記憶體價格仍可能繼續上漲。但由於目前正處於價格劇烈波動、調整混亂的階段，他預計漲幅會逐漸縮小。他估計，記憶體價格可能在2027年年中左右見頂，屆時記憶體晶片廠商新增的產能預計將開始真正釋放。 此後，價格可能進入相對穩定的階段，而下半年能否真正下降，則還有待觀察。他也承認，沒有人能夠準確判斷價格反轉的具體時間。至於PC終端售價重新下降，陳俊聖坦言，這目前嚴格來說只是“一種希望”。 對於零部件供應商接連漲價的現象，陳俊聖也提出批評。他認為，供應商似乎把漲價當成了一種“流行趨勢”。他說，最近不斷有供應商來通知他漲價，從PCB、玻璃纖維布到記憶體，一系列零部件價格接連上漲。 陳俊聖最後表示，這種層層傳導的漲價最終會形成通膨壓力，進而迫使各國央行升息，而這種現象“並不正常”。 (印科技)</description>
-    </item>
-    <item>
-      <title>IBS最新預測：3500兆Token/日、DRAM破兆，半導體“超級短缺”全面爆發</title>
-      <link>https://hao.cnyes.com/post/268953</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/268953</guid>
-      <pubDate>Sun, 20 Sep 2026 10:20:05 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>2026年的全球半導體產業，正在經歷一場前所未有的“加速度”。 國際商業戰略公司（IBS）最新發佈的幾張核心資料圖表，勾勒出一幅令人震撼的產業圖景：半導體市場規模提前四年撞線兆美元，AI Token消耗量指數級飆升，DRAM單品市場規模逼近過去整個行業的預測值，晶圓代工市場衝向兆美元，而供應端卻全面告急。 1.6兆美元提前撞線，半導體進入“AI超級周期” 這張圖展示了全球半導體市場按產品分類的增長軌跡。2020年，全球半導體市場規模為4467億美元。此後逐年攀升，2023年經歷短暫回呼至5299億美元，但隨即強勢反彈。IBS預測，2026年全球半導體市場將達到約1.586兆美元，2030年達2.585兆美元，2035年達4.678兆美元。 這一數字意味著什麼？IBS此前預測，整個半導體市場要在2030年才能達到1兆美元。但AI浪潮將這一時間表整整提前了四年。Gartner的資料佐證了這一判斷——2026年全球半導體收入預計達到1.6兆美元，較2025年的8090億美元增長92%。 從產品結構來看，MOS Memory（記憶體）是最大的增量來源，在2026年後的柱狀圖中佔比急劇擴大。MPU、MCU、ASIC等邏輯器件同樣呈現強勁增長。AI算力與記憶體需求的共振，正在將半導體市場從線性增長切換為指數增長。 Token消耗量：中國3500兆/日，美國2250兆/日 這張圖揭示了這場半導體狂飆的核心驅動力——AI推理需求的爆發。 IBS資料顯示，中美兩國每日AI Token消耗量持續攀升。2025年第一季度，中國日消耗量僅34兆Token，美國僅3兆Token。到2030年第一季度，中國預計達到3500兆Token/日，美國達到2250兆Token/日。 這一預測正在被現實加速驗證。據OpenRouter平台資料，2026年8月初，中國AI大模型周呼叫量已達34.25兆Token，連續15周超過美國，穩居全球首位。Token呼叫量的爆發式增長，直接轉化為對GPU、HBM、高速網路和先進封裝的強勁需求。 IBS創始人Handel Jones在近期演講中指出，NVIDIA從Hopper到Blackwell再到Rubin，每百萬Token計算成本已從4.20美元降至0.01美元，但未來仍需降低兩到三個數量級。降低Token成本，正在成為整個產業鏈的核心命題。 DRAM單品破兆：記憶體從“配套元件”升級為“戰略資源” 這張圖展示了一個令人瞠目的趨勢：DRAM市場正在以指數級速度膨脹。 2020年，全球DRAM市場僅703億美元。2025年達到1425億美元。IBS預測，2026年將飆升至6055億美元，2030年達到1.075兆美元，2035年達到1.844兆美元。 “過去整個半導體市場2030年才1兆美元”，而如今DRAM一個品類在2030年就要突破1.1兆美元。Gar…</description>
     </item>
   </channel>
 </rss>
