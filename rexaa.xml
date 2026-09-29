@@ -5,8 +5,17 @@
     <link>https://hao.cnyes.com/ch/444</link>
     <description>RexAA 在鉅亨號的最新文章，非官方 RSS。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Sep 2026 05:04:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 01:53:40 GMT</lastBuildDate>
     <generator>Custom CNYES RSS bridge</generator>
+    <item>
+      <title>剛剛，Claude Sonnet 5.5 發佈</title>
+      <link>https://hao.cnyes.com/post/270221</link>
+      <guid isPermaLink="true">https://hao.cnyes.com/post/270221</guid>
+      <pubDate>Tue, 29 Sep 2026 01:53:40 GMT</pubDate>
+      <author>RexAA</author>
+      <category>科技</category>
+      <description>剛剛，Anthropic 發佈了 Claude Sonnet 5.5，這是 Claude 5.5 家族的第二個模型。 距離上周 Opus 5.5 的發佈，剛好過去了一周。 Sonnet 5.5 官宣 Claude 的官宣推文中寫道： 相比 Sonnet 5，這是一次明確的升級：速度快了 30% 以上，大多數工作的成本最多降低 30%。 價格則和 Sonnet 5 保持一致，輸入 $2、輸出 $10（每百萬 token），正好是 Opus 5.5 的一半。 而這個價格，也和上周剛發佈的 GPT-6 Sol 一毛一樣…… 01 跑分貼著 Opus 5.5 先來看官方的 benchmark 表： 官方 benchmark 最離譜的當屬 Terminal-Bench 4.0：Sonnet 5 隻有 10.3%，而 Sonnet 5.5 直接幹到了 70.6%，反超了自家大哥 Opus 5.5 的 66.4%。 要知道，Opus 5.5 的這個成績，已經是它開 Xhigh 時的最高分了。 看圖表的 Chartography 也類似，從 15.6% 漲到了 61.6%，差不多翻了四倍。 知識工作的兩項裡，GDPval-AA 上 Sonnet 5.5 拿到了 1844 分，和 Opus 5.5 的 1846 隻差 2 分。OSWorld 的 computer use 上是 80.1% 對 81.8%，CursorBench 上是 55.5% 對 57.8%，也基本是貼著走的。 而同價位的 GPT-6 Sol，在兩項知識工作和 Chartography 上都落後了 Sonnet 5.5 一大截，只有 FrontierCode 的 49.3% 比 Sonnet 5.5 開 Max 時要高（但不如開 Xhigh 時的 52.1%）。 怎麼說呢，一半價格的 Sonnet 5.5，在多數項目上幾乎和 Opus 5.5 性能相當。 官方給它的定位，是 Opus 5.5 的一個更快、更便宜的搭檔，最擅長的是範圍明確的日常任務、修 bug，以及做出精緻的文件、幻燈片和表格。 02 快 30%，也更省 token Sonnet 5.5 的單價雖然沒降，但干同樣的活，需要的 token 要少得多。在官方的測試中，單個任務的成本比 Sonnet 5 最多能低 30%。 輸出速度也同樣快了 30% 以上，是 Anthropic 迄今為止最快的 Sonnet 模型。 官方放了一段速度對比，讓 Sonnet 5 和 Sonnet 5.5 同時寫一個 boids 鳥群模擬： 速度對比 Sonnet 5.5 用了 4,158 個 token 先寫完，鳥群已經飛起來了，這時 Sonnet 5 還在一行行往下寫程式碼，最後多花了將近 500 個 token 才完工。 等到 Sonnet 5 的鳥群開飛，S…</description>
+    </item>
     <item>
       <title>「網紅晶片分析師」P Equity訪談：算力缺口、記憶體周期、隱形瓶頸、銅退光進以及「10年需求能見度的彌天大謊」</title>
       <link>https://hao.cnyes.com/post/270111</link>
@@ -105,15 +114,6 @@
       <author>RexAA</author>
       <category>科技</category>
       <description>服都服了，又是那家模型搞匿名啊，大過節的擱這兒殺出來沖榜？！ 說的就是你，Space Bunny。 一個沒留神，它在短短幾天裡經歷了突然出現-&gt;突然熱度飆升-&gt;突然幹到OpenRouter、OpenCode雙榜呼叫日榜第一-&gt;突然討論熱度也飆升。 掃了一眼，推特和Reddit上目前的整體風向是這樣的： 有說unbelievable的（be like@CoderGeeta）。 不少使用者反饋輸出效果不錯（be like@Fei2411）。 還有誇速度快，“打敗了Astra”的（be like@marcthecreatorr）。 真的嗎？ 我不信。 所以在迷人又珍貴的中秋假期最後一天，我做了一個違背祖宗的決定——管他是誰家的匿名模型，先測了再說吧。 猜它是誰幹嘛，快開蹬啊 先跟大家說一聲，我是從OpenRouter上拿的API，接到了DeepSeek Harness（為公平起見我用了之前我沒用過的DSH，慚愧）裡面，給Space Bunny隨便取了個名字叫“tuerye”。 昨晚上和今天上午都在使勁蹬，然後隨機抽取，最後放了4個case在這篇稿子裡。 可能附帶一些我自己的個人主觀彈幕，但主要還是為了呈現。 歡迎大家給自己的判斷。 我這個人吧有點執念，這個世界上的匿名模型，管他大王小王，通通都要給我拉來測coding能力。 最近最火的除了Astra操控Blender，還有的就是3D玩法了。 那就上強度吧，我讓它“用Three.js建構一個詳細的立方體風格天壇，包含互動式細節”。 任務一開始跑我就擱旁邊看《花少2》8小時版本去了……大概一個多小時不到兩個小時吧，想起來看了一眼居然就跑完了，比我預想中快很多。 我給編輯部幾位同事看了下，滿足“互動”這個條件就不說了，它自己加了些我壓根兒沒提的細節，比如底部控制條裡還有夜、黎明、正午三個時刻和雨、煙的天氣開關；晝夜還會自行循環，一天約3.5分鐘，時辰文字也隨時間從子時走到亥時。 反正總體而言大家都覺得Space Bunny的初戰效果比較令人滿意。 而且說出來都丟臉，做完了我才想起來DSH它，沒！長！眼！睛！ 所以評分方面再給這兔子加一顆星，表達我的歉意。。。 OK，展示第二個任務，給咱做一個蘋果系統的、更適合中國寶寶體質的鬧鐘。 這個功能其實iOS 27說是有了，但身在中秋假期在這兒為愛測評的我，腦子裡啪一下就冒出了這個需求。 Space Bunny耗時共22分鐘46秒。 做出來的鬧鐘，響鈴時的介面是這樣的，霸佔整個Mac的螢幕。 很霸道但也很簡潔： 一輪跑出來介面是這樣的： 按理說一輪就夠用，但我還是又讓它加個每個月到底鬧鈴響不響的功能，起床時間也調到7:23。 我們早八人是這樣的，能多睡一分鐘就儘量多睡一分鐘。。。 這任務吧實用性比較強，咱們主要來看看readme裡面它記錄的思考。 iOS的硬性限制它也考慮到了：…</description>
-    </item>
-    <item>
-      <title>“包養式融資”，估值1200億</title>
-      <link>https://hao.cnyes.com/post/270148</link>
-      <guid isPermaLink="true">https://hao.cnyes.com/post/270148</guid>
-      <pubDate>Mon, 28 Sep 2026 02:11:05 GMT</pubDate>
-      <author>RexAA</author>
-      <category>科技</category>
-      <description>一則低調的融資消息讓AI行業炸開了鍋。 近日，外媒爆出AI基礎設施公司Fluidstack完成15億美元融資，投後估值180億美元（約1200億人民幣），領投方是今年頻登媒體頭條的量化交易巨頭Jane Street。 要知道在兩個月前，Fluidstack剛完成7.5億美元融資，投後估值為75億美元。也就是說，60天內，這家公司的估值翻了2.4倍。 更不可思議的是，這家公司幾乎不含有任何矽谷熱門元素，沒有大模型，不生產GPU，沒有To C產品，沒有創始人的傳奇敘事。 如果非要找一個相關，那就它手握著一份可審計的、有Anthropic背書的多年期巨額合同。通俗點說，就像市場調侃Coreweave被輝達“包養”一樣，Fluidstack實際上一家被Anthropic“包養”的公司。 從倒賣閒置顯示卡，到估值1200億 時間撥回到2017年，Fluidstack兩位創始人Gary WuF（吳嘉裡，英籍華裔）與Jamie Cox在牛津讀書時相識。 Gary讀經濟學與管理，自學程式設計，Jamie攻讀古典文學，他們兩人觀察到一個很直觀的矛盾，讀博的AI研究者、小實驗室很難從AWS、微軟、Google雲快速拿到足量GPU，大廠雲資源排隊久，且價格昂貴。另一邊，大量遊戲玩家、網咖、小型實驗室，高價顯示卡一周只用兩三天，大部分時間閒置。 於是兩人萌生了一個想法，做一個GPU的Airbnb，把個人、小型機構閒置顯示卡聚合起來，打包租給需要算力的科研人員，玩家可以靠閒置GPU賺零花錢。2017年，Fluidstack在牛津正式成立，總部設在倫敦。 他們的早期業務不止GPU租賃，同時還聚合全球使用者閒置頻寬，做CDN內容分發，客戶包含老牌視訊網站Dailymotion。2018年Jamie從牛津輟學，拿到了“蒂爾獎學金”，兩人開始全職投入創業。 但由於P2P閒置GPU市場的商業模式天生存在硬傷，所以很多科研使用者試用之後就棄用了，所以公司開局不利，增長緩慢，收入微薄。 轉折發生在2020年，這一年第三位聯合創始人César Maklary加入了進來，他擁有帝國理工航空工程碩士，此前在小紅牛F1車隊擔任空氣動力學工程師，擅長大型複雜系統、散熱、電力與硬體工程。 很快疫情來了，這期間倒賣零散顯示卡賺不了大錢，所以三人轉向從企業和大學實驗室整批租下GPU池，再轉租給AI公司。同時團隊開發自研裸金屬調度系統Atlas OS，用來統一管理與營運，沒人能預料到這個能力，將會成為公司最大護城河。 ChatGPT上線後，訂單像潮水一樣湧來。2022年，Fluidstack的收入是180萬美元；2023年，3000萬；2024年，英國公司註冊的審計報表達6620萬美元。 公司的核心賣點在於，別人需要數月交付的數千卡叢集，Fluidstack可以48小時內部署上線。最知名案例是給Poolside一…</description>
     </item>
   </channel>
 </rss>
